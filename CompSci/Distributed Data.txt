@@ -1,0 +1,30 @@
+Distributed Data
+
+
+{
+	"asdf":()=>{
+		return this.abc
+	}
+}
+
+
+everything timestamped
+
+"global model"
+	unknown
+	described by URL
+		dat://host/obj/thing/key
+
+
+[local-data] > [peers] >> "[master]" >> 
+
+
+
+flarn.dat
+flarn.get
+flarn.set
+flarn.who
+
+
+Operations
+	
