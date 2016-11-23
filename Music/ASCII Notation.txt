@@ -1,0 +1,32 @@
+<<<<<<< HEAD
+Syntax:
+
+[ABCDEFG]<^>	Upper-case letters indicate a chord
+					default is a major triad
+<mo*>			Modifies the default major triad
+					minor, diminished, augmented
+[1234567]<+>	Modifies or adds a note
+					e.g. C4 = 'e' becomes 'f'
+					e.g. C+4 mean 'ceg' becomes 'cefg'
+[abcdefg]		Lower-case letter indicate specific notes
+	[1234567]<m>	trailing number indicates an interval
+=======
+ASCII Notation
+
+
+This is a means of transcribing musical notation using raw text and characters found on the classic computer keyboard.
+
+lower case letters indicate a single note
+
+upper case letter indicate a chord (2 or more notes at once.)
+
+spaces do not indicate a rest, but the next beat
+	hence, adjacent letters are all played together
+	hence, a mixture of upper/lower case letters can indicate holds
+
+notes:
+
+
+chords:
+	a 2-note interval is indicated by A-3 (which would be a major 3rd below A) or A+4 (a major 4th above A)
+>>>>>>> origin/master

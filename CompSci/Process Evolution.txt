@@ -1,0 +1,16 @@
+Process Evolution
+
+
+New Problem ->
+
+	Ad Hoc Solution
+
+	Folklore
+
+	Codification
+
+	Domain Specific Language
+
+	Improved Practice
+		"flight rules" ~ clarify decision-making and are _never_ broken
+		

@@ -1,0 +1,4 @@
+Perl Notes
+
+$| = 1;		# turn off buffering of STDOUT
+

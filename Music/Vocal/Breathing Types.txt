@@ -1,0 +1,13 @@
+Breathing Types
+
+
+Clavicular
+
+Abdominal
+	belly
+
+Intercostal
+	ribs
+
+Agonal
+	back

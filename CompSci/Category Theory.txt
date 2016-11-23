@@ -1,0 +1,14 @@
+Category Theory
+= mathematical structure as a collection of morphisms
+
+Morphism = an object with a pointer
+
+Category ~ has two properties
+	1) can compose the pointers associatively
+	2) has an identity pointer
+
+Functor = a mapping between categories
+	don't necessarily have lexical meaning but serve to express grammatical relationships
+
+Natural Transformation
+	changing one functor to another without altering the composition of the morphisms

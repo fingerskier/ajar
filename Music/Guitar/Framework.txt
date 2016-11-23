@@ -1,0 +1,91 @@
+Framework
+
+Dependencies:
+	memorizing notes on the fretboard
+		start with string 6, then progress
+	it is highly advisable to facilitate the framework via ear-training
+
+Philosophy:
+	all music revolves around these horizontal and vertical patterns
+	playability demands vertical movements, tonality demands horizontal movements - a balance must be struck
+	slow is smooth, smooth is fast
+		the primary goal of all practice is produce a solid, deliberate tone
+		the secondary goal is to maintain this tone while harmonizing and making the melody
+		the tertiary goal is to synthesize the music until it can flow effortlessly (i.e. quickly)
+	performance precedence
+		1st tone
+			clear, clean notes are always best
+		2nd projection
+			it is possible to play pianissimo at high volume
+		3rd speed
+			high-speed play is a desired end result, never a goal
+	ideally we do not memorize notes, but named patterns - learn the patterns and how to describe them using musical terminology
+
+	memorization
+		Of utmost importance is memorizing all of the notes on the entire fingerboard.
+		Then, you need only memorize 6 chords shapes and five scales.
+		Then, you can discover how chords and scales fit together in common phrases.
+		Then, memorized music becomes a series of variations of the phrases - each of which have an address in your brain.
+
+The Patterns:
+
+	5 chords
+
+	High,		Vert	Slash		Box		Low
+	- - X -		X - -	X - - -		X - -	- - - X
+	- - - X		- - X	- X - -		X - -	X - - -
+	- - X -		- - X	X - - -		- X -	X - - -
+	X - - -		- - X	- - X -		- - X	X - - -
+	X - - -		X - -	- - - X		- - X	- - X -
+	X - - -		X - -	O - - -		X - -	- - - X
+
+Ionian		Dorian		Phrygian	Lydian		Mixolydian	Aeolian		Locrian		
+																					
+O - O O 	O O - O 	- O - O -	O - O O 	O - O O 	- O - O - 	- O - O -
+O O - O 	- O - O 	- O - O O	O - O O 	O - O O 	- O - O O 	- O O - O
+O - O - 	O - O O 	O O - O -	O - O - 	O - O - 	O - O O - 	O O - O -
+																					
+- O - O O 	O O - O 	- O - O - 	- O - O O 	- O - O O 	- O - O 	- O - O - 	
+O O - O - 	O - O - 	- O - O O 	O - O O - 	O - O O - 	O - O O 	O O - O - 	
+- O - O - 	O - O O 	O O - O - 	- O - O - 	- O - O - 	O - O O 	O O - O - 	
+																					
+O - O O 	O - O O -	O - O - 	O - O O 	O - O O 	O - O - 	O - O - 	
+O O - O 	- O - O -	O - O O 	O - O O 	O - O O 	O - O O 	O O - O 	
+- O - O 	- O - O O	O O - O 	- O - O 	- O - O 	O - O O 	O O - O 	
+
+
+Pentatonics
+O - - O		- O - O -		- O - O		- O - O		O - - O
+O - - O		- O - - O		- O - O		- O - O		- O - O
+O - O -		O - - O -		O - - O		O - O -		O - O -
+O - O -		- O - O -		O - - O		O - - O		O - O -
+O - O -		- O - O -		- O - O		O - - O		O - - O
+O - - O		- O - O -		- O - O		- O - O		O - - O
+
+
+Chords
+- - - O -	- - O - -	
+- - - O -	- - - O -	- O - - -	- - O - -
+O - - - -	- - O - -	O - - - -	- - O - -	- O - - -	O - - - -
+O - - - -	O - - - -	- - O - -	- - O - -	- - O - -	O - - - -
+						- - - O -	O - - - -	- - O - -	- - O - -
+												O - - - -	- - - O -
+
+
+Notation
+	This is non-standard and really only lends itself to guitar but this is how I often notate my music (I even these on my performance copy of sheet music oftentimes.)
+	
+	Granted this says nothing about the rhythm but it tells us succintly how the place the fingers and hand.
+
+	Numbers following the chord name indicate key tones.
+
+	Letters following the chord name indicate mode tones.
+
+	Example 1: VII-B-453
+		this a B chord in the seventh position with an arpeggiation across the 4th, 5th, and 3rd tones of the scale.
+
+	Example 2: II-D-kij
+		this a D chord in the second position with an arpeggiation across the 5th, 1st, and root tones of the chord.
+		
+	Example 3: a/7E\be
+		E chord played in the seventh position, inside bar to cover an A in the bass and lave the E & B open

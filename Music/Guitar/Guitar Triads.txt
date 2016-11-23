@@ -1,0 +1,49 @@
+Guitar Triads
+
+There are only three options for adjacent triples of strings with different intervalic associations: eGB, GBD, BDA/DAE.
+
+		Major		Minor		Dimin
+
+5 e		- X - -		- X - -		X - - -
+3 B		- - - X		- - X -		- - X -
+1 G		- - - X		- - - X		- - - X
+
+3 e		- - X -		- X - -		- X - -
+1 B		- - - X		- - - X		- - - X
+5 G		- - X -		- - X -		- X - -
+
+1 e		- - X -		- - X -		- - X -
+5 B		- - X -		- - X -		- X - -
+3 G		- - - X		- - X -		- - X -
+
+
+5 B		- X - -		- X - -		X - - -
+3 G		- - X -		- X - -		- X - -
+1 D		- - - X		- - - X		- - - X
+
+3 B		- - - X		- - X -		- - X -
+1 G		- - - X		- - - X		- - - X
+5 D		- - - X		- - - X		- - X -
+
+1 B		- - X -		- - X -		- - X -
+5 G		- X - -		X - - -		- X - -
+3 D		- - X -		- - X -		- - - X
+
+
+5 G		X - - -		X - - -		X - - - -
+3 D		- - X -		- X - -		- - X - -
+1 A		- - - X		- - - X		- - - - X
+
+3 G		- X - -		- - X -		- X - -
+1 D		- - - X		- - - X		- - - X
+5 A		- - - X		- - - X		- - X -
+
+1 G		- X - -		- X - -		- X - -
+5 D		- X - -		- X - -		X - - -
+3 A		- - X -		- - - X		- - X -
+
+
+
+
+
+

@@ -1,0 +1,37 @@
+Counterpoint
+
+One-toOne Note Correspondence
+	all parts have the same rhythm but different melodies
+	for every note in a cantus there are two notes in the counterpoint
+
+Consonant Intervals
+	Unison
+	m3
+	M3
+	P5
+	m6
+	M6
+	Octave
+
+Disonant Intervals
+	m2
+	M2
+	P4
+	m7
+	M7
+	aug
+	dim
+
+Similar Motion
+	Parallel Motion = maintains the interval spacing
+	refers to complementary ascending or descending lines
+	Good for 3rds, 6ths
+	Bad for unisons, 5ths, octaves
+
+Oblique Motion
+	Contrary Motion = lines move opposite directions
+
+	when one line stays steady while another moves or it moves opposite another
+
+	Good for all intervals
+	Bad for repetition

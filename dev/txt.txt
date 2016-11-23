@@ -1,0 +1,11 @@
+[AA]	|	this will insert AA's content and preserve the link
+
+{AA}	|	this will replace the link with AA's content
+
+
+===================================
+
+
+Example Text:
+
+	

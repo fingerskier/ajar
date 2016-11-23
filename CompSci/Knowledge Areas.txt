@@ -1,0 +1,39 @@
+Knowledge Areas
+...of Computer Science
+
+
+Algorithms and Complexity
+
+Architecture and Organization
+
+Computational Science
+
+Discrete Structure
+
+Graphics and Visualization
+
+Human-Computer Interaction
+
+Information Assurance and Security
+
+Information Management
+
+Intelligent Systems
+
+Networking and Communications
+
+Operating Systems
+
+Platform-based Development
+
+Parallel and Distributed Fundamentals
+
+Programming Languages
+
+Software Development Fundamentals
+
+Software Engineering
+
+Systems Fundamentals
+
+Social Issues and Professional Practice

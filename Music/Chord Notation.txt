@@ -1,0 +1,23 @@
+Chord Notation
+
+
+M3, P5 are implied in a single letter
+
+M = major triad base
+m = minor triad base (lowered 3rd)
+o = diminished triad base (lowered 3rd & 5th)
++ = augmented triad base (raised 5th)
+
+Chord names are capitalized.  Add-on notes are lower-cased.
+
+A number immediately preceding the chord name gives the position.
+
+Numbers & letters before a preceding slash '/' are bass notes.
+
+Numbers & letters after a trailing slash '\' are treble notes.
+
+Multiple slash elements denote a walk.
+
+
+f#/ g/ a/ 3D \g
+	...denotes a 'D' chord played in the 3rd position (slash shape) with an open 'g' string and a walk-up along the low e-string

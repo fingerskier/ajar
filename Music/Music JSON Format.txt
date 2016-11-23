@@ -1,0 +1,13 @@
+Music JSON Format
+
+
+{
+	title: 'string',
+	verse1: ['
+		C
+	','
+		some lyric
+	'],
+	verse2: ['', ''],
+	song: [verse1, verse2, chorus]
+}

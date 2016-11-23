@@ -1,0 +1,54 @@
+Operators
+
+
+Unary
+	an operator that only takes one operand
+
+Binary
+	an operator that takes two operands
+
+Tertiary
+	takes three operands
+
+
+Overloading
+	Allows for a single operand to have multiple effects.
+	The functionality of an operand depends on it's context.
+
+Multiple
+	Means the operand is more than one character.
+	i.e. postcircumfix or tertiary
+
+
+Infix
+	an operator that comes between it's operands
+	e.g.	1 + 2	# '+' is the operator
+
+Postfix
+	an operator that comes after it's operands
+	e.g.	1 2 +	# '+' is the operator
+	e.g.	1 +		# a unary '+' usage
+
+Prefix
+	an operator that comes before it's operands
+	e.g.	+ 1 2	# lisp-style, '+' is the operator
+	e.g.	+ 1		# a unary '+' usage
+
+Circumfix
+	multiple operators that surround the operand
+	e.g.	{some loose string}
+			# in this case the braces are the operator (singular)
+			# the operand is everthing in side the braces
+			# more meaning may be ascribed by how the operator chooses to handle it operand
+			#	i.e. parsing it with a grammar
+
+Postcircumfix
+	This operator looks like a typical function call
+	i.e.	thing()
+
+
+Precedence
+	The order in which operations are evaluated in an expression.
+
+Associativity
+	The parameterization of operands to an operator.

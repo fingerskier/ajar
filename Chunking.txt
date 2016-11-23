@@ -1,0 +1,35 @@
+Chunking
+~ sequencing clusters of knowledge which are sufficiently familiar that they can be remembered rather than derived
+
+
+Use tools as cognitive scaffolds
+
+Make more and you make more
+
+
+A human being should be able to change a diaper, plan an invasion, butcher a hog, con a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly.  Specialization is for insects. 
+~ Robert Heinlein
+
+unconscious incompetence
+conscious incompetence
+conscious competence
+unconscious competence
+
+Scrap doesn't come for free, we pay someone to make it
+~ Edwards Deming
+
+
+quality
+	functionality
+	realiability
+	usability
+	efficiency
+	maintainability
+	portability
+
+
+I keep on making what I can't do yet in order to learn to be able to do it.
+~ Vincent van Gogh
+
+
+There is a big gap between scientific research and the engineered product which has to be bridged by art.

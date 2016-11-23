@@ -1,0 +1,50 @@
+instruction types:
+	note
+
+
+terms:
+	channel - an independent stream of instructions
+		a single MIDI connection carries 16 channels
+	controller - a device that 'controls' another
+	daisychaining - connection of devices in series
+	General MIDI - standard voices
+		1 - 128
+		2 - more, plus sound editing
+	instruction - a message with data
+	jack - the connector interface, typically: IN, OUT, THRU
+		Soft THRU - throughput is done via software (or non-MIDI hardware)
+		two-way control requires matching IN/OUT jacks on the two devices
+	length - ???
+	messages - 
+		aftertouch - how 'hard' a note is sounded
+			channel - affects all sounding notes
+			polyphonic - affects only one note
+		control change - happens in two messages:
+			1) the parameter to be set
+			2) the new value
+			MSB = typically coarse correction
+			LSB = typically fine 
+			RPN = registered parameter numbers
+			NRPN = un-registered (manufacturer specific)
+			MTC = MIDI Time Counter
+			SPP = Song Position Pointer
+		note-on
+		note-off
+		pitch-bend
+		velocity - represents force/dynamic
+	multitimbral - an instrument that responds to, or produces, multiple instruction channels simultaneously
+	patchbay - single IN, multiple THRU
+	quantization - timing
+	scaling - adjustments to velocity, lengths, & ???
+	sequencer - captures and plays back messages
+	SMF - Standard MIDI File, *.mid
+		Type 0 - single track
+		Type 1 - multiple tracks
+	transposition - shift note(s) to a new key
+	velocity - ???
+
+
+Standards
+	Messages
+	Connectors
+	Storage

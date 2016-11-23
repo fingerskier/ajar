@@ -1,0 +1,16 @@
+Fingering "Rules"
+	right-hand
+		bass = thumb
+		alternate
+		minimize number fingers
+		prioritize fingers P-I-M-A-(C)
+	left-hand
+		use anchor notes
+		maintain string as much as possible
+		maintain shape as much as possible
+
+Unrules:
+	You will generally want to preserve either voicings or ranges
+		i.e. playing in one position with differing chord shapes preserves the note ranges
+		i.e. playing the same chord shape(s) on the same strings preserves the similar intervals in the homophony
+	Each right-hand finger has a different sound based on size, strength, and length.  These relative variations are fairly universal.

@@ -1,0 +1,43 @@
+If we are in the key of G, that means G is the root note, which means it is your safe place: musical phrases want to 'resolve' which means, "end somewhere fluffy sounding", which almost always involves the root.
+
+Here is the basic pentatonic pattern:
+
+-	X	-	-	R
+-	X	-	-	5
+-	-	R	-	X
+
+
+Remember that the bass is a percussion instrument: follow the drummer and make a musical platform for the band.  The bassists' job is to give a basis for chord changes.
+
+If you're feeling adventurous you can follow to the 4th and 5th chords as well (in the key of G that's C and D respectively):
+
+-	X	-	-	X
+-	X	4	-	5
+-	-	R	-	X
+
+
+Luckily you can use the EXACT SAME scale pattern for those as well:
+
+-	X	-	-	X
+-	X	-	-	X
+-	-	4	-	5
+-	-	-	-	-
+
+-	-	-	X	-	-	X
+-	-	-	X	-	-	X
+-	-	-	-	5	-	X
+-	-	-	-	-	-	-
+
+
+Furtherhow, key changes (a.k.a. another song) are easy as long as you know where your root note is.  Here they is (on the low string):
+
+F	-	G	-	A	-	B	C	-	D
+
+
+Finding out what key you're in from the chord chart is easy: there are always 3 major chords; the two consecutive alphabetical letters are not the key, the other one is.  Par example: if there's a G, C, & D then you're in the key of D (beware of horrible tabs that try to get fancy, trust your ear).
+
+To figure out the key from notation you should download a Circle of 5ths diagram.
+
+To figure out the key by ear, just muddling through a pentatonic rooted on A or D (these are the most common chords among all popular keys) and go from there until you figure out something that sounds good.
+
+In short, there's no substitute for learning music theory, but learn the patterns as well.

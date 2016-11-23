@@ -1,0 +1,32 @@
+Pentatonics
+
+A pentatonic scale is one that has five notes.
+There are three different pentatonic scale-forms and five patterns.  The distinction is which of the paired semi-tone notes in the key are removed (never the 3rd & 4th, never the 7th & 1st).
+
+Form One: 1st, 2nd, 3rd, 5th, 6th
+Form Two: 1st, 2nd, 4th, 5th, 6th
+Form Tre: 2nd, 3rd, 5th, 6th, 7th
+
+
+The five patterns:
+
+O - - O		- O - O -		- O - O -		- O - O -		O - - O -
+O - - O		- O - - O		- O - O -		- O - O -		- O - O -
+O - O -		O - - O -		O - - O -		O - O - -		O - O - -
+O - O -		- O - O -		O - - O -		O - - O -		O - O - -
+O - O -		- O - O -		- O - O -		O - - O -		O - - O -
+O - - O		- O - O -		- O - O -		- O - O -		O - - O -
+
+...if you play them in this order [perhaps] you can see how the 1.5 tone intervals are always adjacent to each other.  Playing these right-to-left you will naturally work your way down the neck (and vice versa.)
+
+
+The same five patterns again:
+
+- O - O -		O - - O		- O - O -		- O - O -		O - - O -
+- O - O -		O - - O		- O - O -		- O - - O		- O - O -
+O - - O -		O - O -		O - O - -		O - - O -		O - O - -
+O - - O -		O - O -		O - - O -		- O - O -		O - O - -
+- O - O -		O - O -		O - - O -		- O - O -		O - - O -
+- O - O -		O - - O		- O - O -		- O - O -		O - - O -
+
+...if you play them in this order, left-to-right, but shift up 3 positions each time, you will remain in the same key and [perhaps] see how the patterns link together.

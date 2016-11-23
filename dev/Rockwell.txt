@@ -1,0 +1,37 @@
+Rockwell Automation
+
+Programs
+	data files
+	program files
+
+
+PID
+	operated in Timed or STI modes
+		Timed ~ updates at a user-selectable rate
+		STI ~ placed within an STI interrupt routine (periodic)
+					in this case the STI time and PID rate must be the same
+	
+	variables: setpoint, process_variable, error, PID, bias, output
+
+	output = gain [E + reset_term * lim(E)dT + rate_term * (D(PV)/dF)] + bias
+
+	gain ~ set to one-half the value needed to cause the output to oscillate
+when the reset and rate terms are zero
+
+	reset/integral term ~ set to time equal to the natural period of the gain
+calibration
+ 
+		a gain of 1 adds the maximum integral term
+
+	rate/derivative term ~ 
+
+	bias/feed-forward ~ added to the output
+
+	mode ~ timed or STi
+					in timed mode the PLC scan-time should be 10x > than PID loop rate
+
+	update rate ~ set 5x - 10x of natural period of the load
+
+	deadband ~ extends above and below the setpoint
+							only takes effect after the value crosses the setpoint
+

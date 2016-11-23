@@ -1,0 +1,18 @@
+Functions
+ = the degree of tension produced by a note in a scale by moving towards that note and eased by moving away from that note
+
+ Each note, each chord, and each mode has a harmonic function.
+
+ In American music theory we have seven functions, Europeans often teach three:
+
+ I		tonic
+ ii		supertonic
+ iii	mediant
+ IV		subdominant
+ V		dominant
+ vi		submediant
+ vii	leading tone
+
+Tonic 		I
+Dominant 	V, vii
+Predominant	IV, ii

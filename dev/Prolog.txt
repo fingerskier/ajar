@@ -1,0 +1,65 @@
+Prolog
+
+
+predicate - 
+
+atoms - 
+
+
+terminators
+	.	=	a fact
+	?	=	a query
+		=	a goal
+
+logical deductions
+	identity
+
+logical variable = an unspecified individual
+
+term = constants and variables
+
+compound term = functor + sequence of arguments
+	f(T1, T2, ..., Tn)
+
+functor = {
+	 name
+	,arity
+}
+
+ground ~ terms without variables
+nonground ~ terms with variables
+
+substitution ~ Xi = Ti
+	where X is a variable and T is a term
+
+instance ~ a deference of a term with a variable
+
+generalization
+
+rule = a relationship defined in terms of other relationships
+
+program = a finite set of rules
+
+procedure = a collection of rules with the same head predicate
+
+reduction = the basic computational step in logic programming
+
+
+Operators:
+--> :-
+:- ?-
+dynamic	 discontiguous	 initialization	 meta_predicate	module_transparent	 multifile	 public	 thread_local	thread_initialization	 volatile
+|
+-> *->
+:=
+\+
+< = =.. =@= \=@= =:= =< == =\= > >= @< @=< @> @>= \= \== as is >:< :<
+:
++ - /\ \/ xor
+?
+* / // div rdiv << >> mod rem
+**
+^
++ - \
+.
+$

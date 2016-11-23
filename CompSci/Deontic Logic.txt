@@ -1,0 +1,24 @@
+Deontic Logic
+	= a field of philosophical logic concerned with obligation, permission, and related concepts.
+
+
+O = Obligation
+P = Permission
+
+
+Standard
+	von Wright's first system; obligatoriness and permissibility are treated as features of _acts_.
+
+	Set aside for a logic of propositions (by von Wright).
+
+	e.g.	The starving poor ought to be fed
+			This implies that there are starving and poor.
+
+	O A === X(!A -> s)
+
+
+Dyadic
+	O(A | B) ~ it is obligatory that A, given B
+
+	P(A | B) ~ it is permissible that A, given B
+	

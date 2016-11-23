@@ -1,0 +1,20 @@
+Mode Chords
+
+		C D EF G A BC D EF
+                          
+I		C   E  G          
+II		  D  F   A        
+III		    E  G   B      
+IV		     F   A  C     
+V		       G   B  D   
+VI		         A  C   E 
+VII		           B  D  F
+
+
+I		C   E  G          
+II		D  F   A        
+III		E  G   B      
+IV		F   A  C     
+V		G   B  D   
+VI		A  C   E 
+VII		B  D  F

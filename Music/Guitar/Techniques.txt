@@ -1,0 +1,121 @@
+Guitar Techniques
+	Melodic Techniques
+		rasqueado
+		 = "flicking" the right-arm-hand-finger outward
+			single-finger
+			2,3,4-finger
+		legato
+			left-hand slurs
+			left-hand multi-slurs				
+			right-hand tapping					
+			right-hand multi-tapping			
+		tirando/free-stroke = typical pluck
+			left full/empty (muting)			
+			right full/empty (nail/pad)			
+		apoyando/picado/rest-stroke
+		 = finger falls through to lower string
+			all fingers
+			w/ slurs
+			tremolo
+		vibrato
+		 = roll knuckle front-to-back with the finger in-place
+			vary speed
+			vary depth
+			meat-slap drill (8th/9th position, side of hand slaps the body of the guitar (higher w/ cutwaway))
+			chorded (multi-string)
+			bending
+				half/whole step
+				microtonal
+		alternation
+			PI, PM, PA
+			IM, IA, MA
+			string crossing (2+)
+			left/right synchronization (scales)
+		tremolo
+			tirando
+			apoyando
+			IMA
+			IMAM
+			AMI
+		trill
+			tirando
+			apoyando
+			left-hand various
+		arpeggio
+			triads
+				major
+				minor
+				augmented
+				diminished
+			quads
+				high
+				vert
+				slash
+				box
+				low
+			six-string
+			modes
+			pentatonics
+			single-string tirando
+			single-string tapped
+		muting
+		chording
+			arpreggios
+			mode progressions
+			harmonic/melodic tone
+		barring
+			exterior = covering one or both E-strings
+			interior = not covering an outer string
+			rolled = pressure moves across strings as the notes are plucked ascending or descending
+			double = two fingers barring at once
+				1/2, 1/3, 1/4
+		pizzicato = muted pluck
+			right-hand palm mute
+			left-finger on fret (full/empty)
+			right-finger pad mute
+		(Spidering)
+	Musical
+		scales
+			plucked
+			sweeping
+				P, I, M, A
+			3-octave (all modes)
+				1-octave (all modes)				
+		transitions
+			horizontal
+			vertical
+		anti-squeak
+		compas
+		BPM guessing
+		auto-pitch
+		tone guessing (relative/auto)				
+			scale guessing
+		articulation
+		left-finger full/empty
+		palm-muting
+		right-finger nail/pad
+		left-hand finger				
+		fingerings			
+			clean			
+		corrective pauses = pickup left-hand and put it back without moving fingers
+			= perfect intonation and fingering
+		timbre
+			natural harmonics
+			artificial harmonics
+			pinch harmonics
+			bridge position
+			soundhole position
+			neck position
+			octave tirando
+	Unstrung
+		posture					
+		thigh rasgueado					
+		table tapping
+		scissors
+		finger flopping = alernate straight finger side-by-side flops
+		decomposition = learning music before playing it
+			make a copy of the music for each of these phases
+			metadata marks (fermata, accents, etc.)
+			phrasing (note where the melody/harmony _looks_ like it changes)
+			write rhythm counts in 1-e-&-a format
+			notate fingering (left & right) and position changes

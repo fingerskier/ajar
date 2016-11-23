@@ -1,0 +1,66 @@
+Shapes (6-string)
+
+Legend:
+	i = main triad tone
+	j = 3rd of the triad
+	k = 5th of the trid
+	O = modal tone
+	X = amodal tone (found in all relevant modes)
+
+					I 			II 			III 		IV 			V 			VI			VII
+					1 3 5		2 4 6		3 5 7		4 6 1		5 7 2		6 1 3		7 2 4
+- x - - x	"C"		j O - X								j - O O		j O - O
+- - x - x			O i - X								- i - O		- i - O
+- x - x -			k - X -								k - O O		k - O -
+- x - x -			X - j O								O - j -		O - j O
+- x - - x			X - O i								O - O i		O O - i
+- x - - x			X O - k								O - O k		O O - k
+
+- x - x -	"A"		- k - X -							O k - X -	- k - X -
+- x - x -			- X - j O							- X - j -	- X - j O
+x - - x -			X - O i -							X - O i -	X O - i -
+x - - x -			X O - k -							X - O k -	X O - k -
+- x - x -			O i - X -							O i - X -	- i - X -
+- x - x -			- k - X -							O k - X -	- k - X -
+
+- x - - x	"Am"				- k - o x	- k o - o							- k o - o
+- - x - x						- o j - x	o - j - o							- o j - o
+- x - x -						o x - i -	- o - i o							- o - i -
+- x - x -						- x - k -	- o - k o							- o - k o
+- x - - x						- i - o x	- i o - o							- i - o o
+- x - - x						- k - o x	- k o - o							- k o - o
+
+x - - x -	"G"		X - O i								X - O i		O O - i
+x - - x -			j O - X								j - O X		j O - X
+x - x - -			i - X -								i - X -		i - X -
+x - x - -			k - X -								k - X -		k - X O
+x - x - -			X - j O								X - j -		X - j O
+x - - x -			X - O i								X - O i		X O - i
+
+- x - x -	"E"		O i - X -							O i - X -	- i - X -
+- x - x -			- k - X -							O k - X -	- k - X O
+x - x - -			X - j O -							X - j - O	X - j O -
+x - - x -			X - O i -							X - O i -	X O - i -
+x - - x -			X O - k -							X - O k -	X O - k -
+- x - x -			O i - X -							O i - X -	- i - X -
+
+- x - - x	"Em"				- i - o x	- i o - o							- i - o o
+- x - - x						- k - o x	- k o - o							- k o - o
+- x - x -						o j - x -	- j - o -							o j - o -
+- x - x -						o x - i -	- o - i o							- o - k o
+- x - x -						- x - k -	- o - k o							- o - i -
+- x - - x						- i - o x	- i o - o							- i - o o
+
+- x - x -	"D"		- X - j O							- X - j -	- X - j O
+- x - - x			- X - O i							- X - O i	- X O - i
+x - - x -			X O - k -							X - O k -	X O - k -
+- x - x -			O i - X -							O i - X -	- i - X -
+- x - x -			- k - X -							O k - X -	- k - X O
+- x - x -			- X - j -							- X - j -	- X - j -
+
+- - x - x	"Dm"				- o j - x	o - j - x							- o j - x
+- - x - x						- o x - i	o - x - i							o - x - i
+- x - x -						- x - k -	- x - k o							- x - k o
+- x - - x						- i - o x	- i o - x							- i - o x
+- x - - x						- k - o x	- k o - x							- k o - x
+- - x - x						- o j - x	o - j - x							- o j - x
