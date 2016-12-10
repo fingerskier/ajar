@@ -1,0 +1,83 @@
+snake - anguine
+buzzard - buteonine
+dolphin - delphine 
+opposum - didelphine
+seahorse - hippocampine
+slug - limacine
+kangaroo - macropodine
+skunk - mephitine
+mouse - murine
+weasel - musteline
+seal - phocine
+woodpecker - picine
+Cats - Feline
+Dogs - Canine
+Bears - Ursine
+Cattle - Bovine
+Sheep - Ovine
+Horses - Equine
+Foxes - Vulpine
+Wolves - Lupine
+Monkeys - Simian
+Snail - gastropodine
+eagle - aquiline
+donkey - assinine
+cattle - bovine
+crab - cancrine
+dog - canine
+deer - cervine
+crow - corvine
+horse - equine
+snake - elapine
+deer - elaphine
+cat - feline
+goat - hircine
+lion - leonine
+rabbit, hare - leporine
+wolf - lupine
+rodent - murine
+peacock - pavonine
+fish - piscine
+pig - porcine
+deer - rusine
+snake - serpentine
+bear - ursine
+fox - vulpine
+thrush - turdine
+Echidna - tachyglossine
+Kangaroo - macropodine
+ostriches- struthionine
+Duck - Anatine
+Alligator- Eusuchian
+Ant- Myrmecine
+Anteater- Myrmecophagine
+Antelope- Alcelaphine, Bubaline, Antilopine
+Ape- Simian
+Armadillo- Tolypeutine
+Ass- Asinine, Equine
+Badger- Musteline
+Barracuda- Percesocine
+Bat- Pteropine, Noctillionine
+Bear- Ursine
+Bee- Apian, Apiarian
+Bird- Avian, Muscicapine, Oscine, Passerine, Pendeline, Volucrine, Ornithic
+Bison- Bisontine
+Blackbird- Icterine
+Bluebird- Turdine
+Buffalo- Bovine, Bubaline
+Bull- Taurine
+Bullfinch- Pyrrhuline
+hyaena - hyenine
+cow - bovine
+elephant - elephantine
+human - hominine
+donkey - assinine
+macropodine - wallaby
+eagle - aquiline
+dogs - canine
+lupine - wolf-like
+ape - Simian
+Parrots - psittacine
+
+canoid - dogs, wolves, foxes, bears, raccoons, coatimundis, pandas, wolverines, weasels, skunks, and all their allies
+feloids - cats, the cheetah, the mongooses, the aardwolf, the hyenas, the fossa
