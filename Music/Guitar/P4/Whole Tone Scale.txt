@@ -1,0 +1,17 @@
+
+e - F - G - A - c - d - e - F - G - A - c
+- c - d - e - F - G - A - c - d - e - F -
+F - G - A - c - d - e - F - G - A - c - d
+- d - e - F - G - A - c - d - e - F - G -
+G - A - c - d - e - F - G - A - c - d - e
+- e - F - G - A - c - d - e - F - G - A -
+A - c - d - e - F - G - A - c - d - e - F
+- F - G - A - c - d - e - F - G - A - c -
+c - d - e - F - G - A - c - d - e - F - G
+
+
+Major:
+	c d ef g a bc
+
+Whole Tone:
+	c d e F G A c
