@@ -1,0 +1,70 @@
+Atomic Functions & Operations
+
+
+{{thing}} ~ anything that can be named can be "called" like so
+			...in which case it's contents are evaluated inline
+
+
+Tags (given in order of implementation):
+
+<abort />
+
+<parameter name="asdf" default="qwer" type="zxcv" minimum="" maximum="" />
+	...this tag validates and/or creates a variable in the local scope
+
+<quote>
+	...stuff in here will NOT be processed...
+	......unless it is "called" by name...
+</quote>
+
+<loop iterator="" range="" from="" to="" step="" index="" item="" value="">
+	...
+	<continue />
+
+	<break />
+</loop>
+
+<switch test="">
+	<case value="">
+		...
+	</case>
+
+	<default>
+		...
+	</default>
+</switch>
+
+<try>
+	<catch exception="asdf">
+		...
+	</catch>
+
+	<finally>
+		...
+	</finally>
+</try>
+
+
+<cache name="unique">
+	...
+</cache>
+
+<directory />
+
+<execute />
+
+<file />
+
+<function name="asdf">
+	<argument name="asdf" default="qwer" type="zxcv" />
+	
+	<return value="optional" />
+</function>
+
+<location url="" />
+
+<mail address="asdf">
+	...
+</mail>
+
+<set name="asdf" value="qwer" />
