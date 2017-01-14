@@ -1,0 +1,98 @@
+6 71	X  X		X  X	X X
+34 5	X  X		 X X	X  X
+71 2	 X X		 X X	X  X
+
+71 2	 X X		 X X	X  X
+ 5 6	 X X		 X X	 X X
+ 2 34	X X		 X  X	X X
+
+2 34	X X 		X  X	X X
+6 71	X  X		X  X	X X
+34 5	X  X		 X X	X  X
+
+34 5	X  X		 X X	X  X
+71 2	 X X		 X X	X  X
+ 5 6	 X X		 X X	 X X
+
+5 6 	X X 		X X 	X X
+2 34	X X 		X  X	X X
+6 71	X  X		X  X	X X
+
+
+Major
+  X 	X X 	
+   X	X  X	
+   X	X  X	
+ X  	 X X	
+
+X   	X X
+X   	X X
+  X 	X X
+   X	X  X
+   
+X   	X X
+  X 	X X
+   X	X  X
+   X	X  X
+   
+   X	X  X
+ X  	 X X
+ X  	 X X
+   X	 X X
+
+Minor
+ X  	X X
+   X	X X
+   X	X X
+ X  	X  X
+
+X   	X  X
+ X  	 X X
+   X	 X X
+   X	 X X
+   
+X   	X  X
+X   	X  X
+ X  	 X X
+   X	 X X
+
+  X 	X X
+X   	X  X
+X   	X  X
+ X  	 X X
+ 
+
+X  X X X  X X
+X  X X  X X X
+ X X X  X X  X
+ 
+X  X
+ X X
+ X X
+ 
+ X X
+ X X
+ X X
+ 
+ X X
+ X X
+ X  X
+ 
+ X X
+ X  X
+ X  X
+
+
+              5 6 71 2 34 5
+           71 2 34 5 6 71
+         34 5 6 71 2 34
+       6 71 2 34 5 6
+     2 34 5 6 71 2
+   5 6 71 2 34 5
+71 2 34 5 6 71
+
+
+
+ 71 2 34 5 6 71
+4 5 6 71 2 34
+1 2 34 5 6 71
