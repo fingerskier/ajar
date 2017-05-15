@@ -1,0 +1,53 @@
+Multi-Input Multi-Output 
+...feedback control
+
+
+Say we have 3 controls
+	C1
+	C2
+	C3
+
+...which affect 1 output
+	O
+
+
+They must be linked via transfer functions:
+	...here 'O' is the previous value, the feedback from, 'O'
+
+	C1 = (K1 * O) + (K12 * C2) + (K13 * C3)
+	C2 = (K2 * O) + (K21 * C1) + (K23 * C3)
+	C3 = (K3 * O) + (K31 * C1) + (K32 * C2)
+
+
+1.	O = (C1 - K12*C2 - K13*C3) / K1
+2.	O = (-K21*C1 + C2 - K23*C3) / K2
+3.	O = (-K31*C1 - K32*C2 + C3) / K3
+
+
+Taking the first and second functions:
+K2*C1 = -K1*K21*C1 + K1*C2 + K2*K12*C2 - K1*K23*C3 + K2*K13*C3
+
+
+The takeaway is that the controlled values can be calculated in terms of each other _without the 'O' feedback_.
+
+But this is static and disregards the output feedback!
+
+So, we can split this into two phases:
+	1) Feedback into a function which adjusts the relation constants (K*)
+
+
+
+	2) Adjust control values in relation to each other
+
+C1 = K12*C2 + K13*C3
+C2 = K21*C1 + K23*C3
+C3 = K31*C1 + K32*C2
+
+
+Simplifying?
+...
+
+
+C1 = K1(O + C2 + C3)
+C2 = K2(O + C1 + C3)
+C3 = K3(O + C1 + C2)

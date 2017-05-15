@@ -103,6 +103,7 @@ Guitar Techniques
 			natural harmonics
 			artificial harmonics
 			pinch harmonics
+    chord harmonics
 			bridge position
 			soundhole position
 			neck position
