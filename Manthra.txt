@@ -1,6 +1,8 @@
 Manthra
 
 
+A design center should be equal parts monastery, pub, and sweatshop.
+
 Some have at first for wits, then poets passed, Turn’d critics next, and proved plain fools at last.
 
 
@@ -29,3 +31,9 @@ Edmund Spencer
 Evidence for the conspiracy is evidence for the conspiracy.
 Evidence against the conspiracy is evidence for the conspiracy.
 Stephen Novella
+
+
+In necessariis unitas,
+In dubiis libertas,
+in omnibus caritas.
+RUPERTUS MELDENIUS
