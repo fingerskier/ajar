@@ -1,2 +1,3 @@
-# cruft
-Random writings
+# ajar
+
+Random study notes.
