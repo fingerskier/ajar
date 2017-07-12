@@ -1,5 +1,5 @@
 # Birds
-List of birds by common name
+Alphabetical list of birds by common name
 
 * Anhinga
 * Besra

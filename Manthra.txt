@@ -37,3 +37,7 @@ In necessariis unitas,
 In dubiis libertas,
 in omnibus caritas.
 RUPERTUS MELDENIUS
+
+
+Searching something unsorted is inefficient,
+Sorting something never searched is a waste
