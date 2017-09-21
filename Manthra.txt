@@ -5,6 +5,10 @@ The first step towards wisdom is calling things by their right names.
 	Unknown
 
 
+The isn't much traffic on the extra mile
+H.Barber
+
+
 A design center should be equal parts monastery, pub, and sweatshop.
 
 
@@ -18,11 +22,22 @@ Contradiction is not a sign of falsity, nor the lack of contradiction a sign of 
 Blaise Pascal
 
 
+the world is full of intellectual derelicts
+C.Coolidge
+
+
+I don't skate to where the puck is, O skate to where the puck is going to be.
+W.Gretsky
+
+
 Sunday school teachers have the patience of Job, the wisdom of Solomon, and are surrounded by the children of Israel.
 
 
 Who are the people most opposed to escapism?  Jailors!
 	C.S. Lewis
+
+
+When two partners always agree, one of them is not necessary.
 
 
 According to all known laws of aviation, there is no way a bee should be able to fly.
@@ -502,12 +517,24 @@ The key to performance is elegance, not batallions of special cases.
 	J. Bently & D. McIlroy
 
 
+Coming together is a beginning; keeping together is progress; working together is success.
+	Henry Ford
+
+
+If there is any one secret of success, it lies in the ability to get the other person’s point of view and see things from that person’s angle as well as from your own.
+	Henry Ford
+
+
 Walking on water and developing software from a specification are easy if both are frozen.
 	E. Berard
 
 
 Opposites are not contradictory but complementary.
 	Neils Bohr
+
+
+About the only real power a CEO or Chairman has is giving motivational speeches, approving budgets, and moving names around on an org chart.
+	Michael Hayden
 
 
 All programmers are playwrights and all computers are lousy actors.

@@ -1,0 +1,6 @@
+Mouse Wheel Up = DOT1
+Mouse Wheel Down = DOT2
+Right Click = DOT0
+~ = siphon
+
+/cast [@mouseover,exists,harm,nodead] SPELLNAME; SPELLNAME

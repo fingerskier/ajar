@@ -1,5 +1,84 @@
 # CouchDB Notes
 
+## High-Level
+
+    ...
+    "views": {
+        "tagged": {
+            "map": "function (doc) {\r\n\t\t\t\tif(doc.tag && doc.tag.length && doc.value) {\r\n\t\t\t\t\temit(doc._id);\r\n\t\t\t\t}\r\n\t\t\t}"
+        },
+        "valued": {
+            "map": "function (doc) {\r\n\t\t\t\tif (doc.value && (+doc.value > -1000)) emit(doc._id)\r\n\t\t\t}"
+        },
+        "values": {
+            "map": "function (doc) {\r\n\t\t\t\tif (doc.value && (+doc.value > -1000)) emit(doc.value)\r\n\t\t\t}"
+        },
+        "pressureValues": {
+            "map": "function (doc) {\r\n\t\t\t\tif ((doc.name && (doc.name == 'PI-300.Value')) && doc.value && (+doc.value > -1000)) emit(doc._id)\r\n\t\t\t}"
+        }
+    },
+    "shows": {
+        "person": "function (doc, req) {\r\n\t\t\treturn {\r\n\t\t\t\theaders: {\"Content-type\": \"text/html\"},\r\n\t\t\t\tbody: \"<h1 id='person' class='name'>\" + doc.name + \"</h1>\\n\"\r\n\t\t\t}\r\n\t\t}"
+    },
+    "lists": {
+        "ul": "function (head, req) {\r\n\t\t\tvar baseURL = 'http://localhost/shammer_crd/'\r\n\r\n\t\t\tstart({\r\n\t\t\t\theaders: {\"Content-type\": \"text/html\"}\r\n\t\t\t});\r\n\t\t\tsend(\"<ul>\\n\");\r\n\t\t\twhile(row = getRow()) {\r\n\t\t\t\tsend('\\n<li>' + '<a class=\"docLink\" href=\"' + baseURL + row.key + '\">' + row.key + '</a>\\n</li>');\r\n\t\t\t}\r\n\t\t\tsend(\"</ul>\\n\")\r\n\t\t}"
+    },
+    ...
+
+
+## Shows
+
+A `show` function presents arbitrary content based on a document.
+
+http://localhost/play/_design/app/_show/hello/area_sweetville
+...must be a design doc
+...must be fed an ID
+
+"shows": {
+    "hello": "function(doc, req) {return '<h1>' + doc.title + '_show' + '</h1>'}"
+}
+...
+
+
+## Views
+
+A `view` function maps the database to a subset.
+
+http://mysite/mydb/_design/myapp/_view/mydocs-by-user
+
+map/filter based on a single js function
+
+function(doc) {
+  if (doc.user_id) {
+    emit(doc.user_id, null);
+  }
+};
+
+
+## Lists
+
+A `list` function processes a `show` function for multiple documents
+
+http://mysite/mydb/_design/myapp/_list/mylist/mydocs-by-user
+...the first element, after `_list`, is the list name; next is the view (which is fed into that list function, required)
+
+
+## Filters
+
+A `filter` function returns only documents which pass the test.
+
+```
+"filters": {
+    important(doc, req) {
+        if (doc.priority == 'high') return true
+        else { return false; }
+}
+```
+
+Usage:
+`localhost/db/_changes?filter=app/important`
+
+
 ## API
 10.2. Server
 10.2.1. /
