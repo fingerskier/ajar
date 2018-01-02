@@ -1,0 +1,14 @@
+
+
+
+Views:
+/db/_design/design-doc/_view/name
+
+Lists:
+/db/_design/design-doc/_list/list/view
+
+Shows:
+/mydb/_design/mydesign/_show/name/guid
+
+Filters:
+/db/_changes?filter=filter/name
