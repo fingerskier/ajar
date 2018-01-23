@@ -1,0 +1,99 @@
+Triad Inversion Drills
+
+
+I V ~ ceg  bdg
+
+ceg
+
+ceg egc gce
+dfa fad adf
+egb gbe beg
+fac acf cfa
+gbd bdg dgb
+ace cea eac
+bdf dfb fbd
+
+ceg cea cfa 
+dfa dfb dgb
+egb egc eac
+fac fad fbd
+gbd gbe gce
+ace acf adf
+bdf bdg beg
+
+
+a	c	e
+a	c	f
+a	d	f
+b	d	f
+b	d	g
+b	e	g
+c	e	g
+c	e	a
+c	f	a
+d	f	a
+d	f	b
+d	g	b
+e	g	b
+e	g	c
+e	a	c
+f	a	c
+f	a	d
+f	b	d
+g	b	d
+g	b	e
+g	c	e
+
+
+
+ceg
+dfa
+egb
+fac
+gbd
+ace
+bdf
+
+egc
+fad
+gbe
+acf
+bdg
+cea
+dfb
+
+gce
+adf
+beg
+cfa
+dgb
+eac
+fbd
+
+
+ace
+acf
+adf
+bdf
+bdg
+beg
+cea
+ceg
+cfa
+dfa
+dfb
+dgb
+eac
+egb
+egc
+fac
+fad
+fbd
+gbd
+gbe
+gce
+
+
+
+
+
