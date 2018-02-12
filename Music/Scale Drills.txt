@@ -1,0 +1,5 @@
+Ionic
+c e d f e g f a g b a c c a b g a f g e f d e c
+
+Pent
+c e d g e a g c c g a e g d e c
