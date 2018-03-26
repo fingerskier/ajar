@@ -1,0 +1,10 @@
+Offset Nut
+
+
+ef g a bc d ec g
+bc d ef g a bc d
+ g a bc d ef g a
+ d ef g a bc d ef
+ a bc d ef g a bc
+ ef g a bc d ef g
+ 

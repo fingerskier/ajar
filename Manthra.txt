@@ -1,6 +1,12 @@
 # Manthra
 
 
+There are three components to success: simplify, simplify, simplify
+
+
+Ex falso sequitur quodlibet.
+
+
 Upon review of the past year:
  I desire to confess that my unfaithfulness has been exceedingly great,
  my sins still greater,
@@ -10,21 +16,22 @@ Upon review of the past year:
  was not Jesus my righteousness and my redeemer.
 Augustus Toplady
 
-The first step towards wisdom is calling things by their right names.
-	Unknown
+
+The first step towards wisdom is to call things by their proper name.
+	Confucius
 
 
 The isn't much traffic on the extra mile
-H.Barber
+	H.Barber
 
 
 I profess to be one of those who, by profiting, write, and by writing profit.
-Jean Calvin
+	Jean Calvin
 
 
 There are two hard problems in computer science: cache invalidation, naming things, and off-by-1 errors.
-Phil Karlton
-Leon Bambrick
+	Phil Karlton
+	Leon Bambrick
 
 
 A design center should be equal parts monastery, pub, and sweatshop.
@@ -37,15 +44,15 @@ A man convinced against his will is of the same opinion still
 
 
 Contradiction is not a sign of falsity, nor the lack of contradiction a sign of truth.
-Blaise Pascal
+	Blaise Pascal
 
 
 The world is full of intellectual derelicts
-C.Coolidge
+	C.Coolidge
 
 
 I don't skate to where the puck is, I skate to where the puck is going to be.
-W.Gretsky
+	W.Gretsky
 
 
 Sunday school teachers have the patience of Job, the wisdom of Solomon, and are surrounded by the children of Israel.
@@ -58,13 +65,7 @@ Who are the people most opposed to escapism?  Jailors!
 When two partners always agree, one of them is not necessary.
 
 
-According to all known laws of aviation, there is no way a bee should be able to fly.
-Its wings are too small to get its fat little body off the ground.
-The bee, of course, flies anyway because bees don't care what humans think is impossible.
-	Bee Movie
-
-
-There is a principle which
+There is a principle which:
 	is a bar against all information
 	is a proof against all argument
 	cannot fail to keep man in everlasting ignorance
@@ -74,13 +75,13 @@ Edmund Spencer
 
 Evidence for the conspiracy is evidence for the conspiracy.
 Evidence against the conspiracy is evidence for the conspiracy.
-Stephen Novella
+	Stephen Novella
 
 
 In necessariis unitas,
 In dubiis libertas,
 in omnibus caritas.
-RUPERTUS MELDENIUS
+	RUPERTUS MELDENIUS
 
 
 Searching something unsorted is inefficient,
@@ -93,19 +94,23 @@ I am a revolutionary, so my son can be a farmer, so his son can be a poet.
 
 Somewhere a True Believer is training to kill you.
 He is training with minimal food or water, in austere conditions, day and night.
-The only thing clean on him is his weapon and he made his own web gear.
+The only thing clean on him is his weapon.
 He doesn't worry about what workout to do - his ruck weighs what it weighs, his run ends when the enemy stops chasing him.
 This True Believer is not concerned about 'how hard it is,' he either wins or dies.
 He doesn't go home at 17:00, he is home.
 He knows only The Cause.
+	Doc
+
+
+The Spartans do not ask how many the enemies are but where they are.
+	Agis II
 
 
 If they come for the innocent without stepping over your body, cursed be your religion and your life.
 	Dorothy Day
 
 
-Si vis pacem, para bellum.
-If you seek peace, prepare for war.
+Si vis pacem, para bellum.  _If you seek peace, prepare for war._
 	Plato via Publius Flavius
 
 
@@ -123,10 +128,6 @@ It is the soldier, who salutes the flag, who serves beneath the flag, and whose 
 In the beginning of a change, the patriot is a scarce man, brave, hated, and scorned.
 When his cause succeeds however, the timid join him, for then it costs nothing to be a patriot.
 	Mark Twain
-
-
-Be polite, be professional, but have a plan to kill everyone you meet.
-	GEN James Mattis, USMC
 
 
 A superior operator uses his superior judgement to keep himself out of situations that would require his superior skills.
@@ -191,16 +192,9 @@ The weak can never forgive.  Forgiveness is an attribute of the strong.
 	Mahatma Gandhi
 
 
-I like your Christ, I do not like your Christians.  Your Christians are so unlike your Christ.
-	Mahatma Gandhi
-
-
-Over the years, the United States has sent many of its fine young men and women into great peril to fight for freedom beyond our borders.  The only amount of land we have ever asked for is enough to bury those that did not return.
+The United States has sent many of its fine young men and women into great peril to fight for freedom beyond our borders.
+The only amount of land we have ever asked for is enough to bury those that did not return.
 	Colin Powell
-
-
-Amateurs train until they get it right, professionals train until they get it wrong.
-	Chris Costa
 
 
 Teach your children the art of war, so that they may teach their children math and science, and their children can study art and literature.
@@ -304,7 +298,7 @@ Ever tried.  Ever failed.  No matter.  Try again.  Fail again.  Fail better.
   Samuel Beckett
 
 
-After each of our wars, there has always been a great hue and cry to the effect that there will be no more wars, that disarmament is the sure road to health, happiness, and peace; and that by removing the fire department, we will remove fires.
+After each of our wars, there has always been a great hue and cry to the effect that...by removing the fire department, we will remove fires.
 	George S. Patton
 
 
@@ -332,10 +326,6 @@ My reading of history convinces me that most bad government results from too muc
 	Thomas Jefferson
 
 
-No free man shall ever be debarred the use of arms.
-	Thomas Jefferson
-
-
 I would never invade the United States.  There would be a gun behind every blade of grass.
 	Isoroku Yamamoto
 
@@ -348,13 +338,13 @@ If guns kill people, then:
 	pencils miss spel words,
 	cars make people drive drunk,
 	and spoons made Rosie O'Donnell fat.
-	GOOA
+GOOA
 
 
 My tone is a direct reflection of your attitude.
 
 
-An armed man is a citizen. An unarmed man is a subject.
+An armed man is a citizen.  An unarmed man is a subject.
 
 
 A gun in the hand is better than a cop on the phone.
@@ -366,13 +356,10 @@ Gun control is not about guns; it's about control.
 If guns cause crime, then cameras cause pornography.
 
 
-Free men should not have to ask permission to bear arms.
+Free men do not have to ask permission to bear arms.
 
 
 If you don't know your rights you don't have any.
-
-
-What part of "shall not be infringed" do you not understand?
 
 
 The second amendment is in place in case they ignore the others.
@@ -387,16 +374,10 @@ Know guns, know peace and safety.  No guns, no peace nor safety.
 Peace through superior firepower.
 
 
-Call 911: Government sponsored Dial-a-Prayer.
-
-
 Assault is a type of behavior, not a type of hardware.
 
 
 Criminals love gun control it makes their jobs easier and safer.
-
-
-Only a government that is afraid of its citizens tries to control them.
 
 
 The American Revolution wasn't about tea and taxes.  It was about taking guns!
@@ -426,19 +407,10 @@ Manners are good when one may have to back up his acts with his life.
 How can you praise freedom, and condemn that which gains and preserves it?
 
 
-Those who expect to reap the blessings of freedom must, like men, undergo the fatigue of supporting it.
-
-
 My wife and my gun: 'til death do us part.
 
 
 When they come for your guns, give them the ammo first!
-
-
-Bolt actions speak louder than words.
-
-
-The D.C. gun ban works: just ask James Brady.
 
 
 When seconds count, the cops are just minutes away...
@@ -575,6 +547,10 @@ In theory, there is no difference between theory and practice, but not in practi
 	Unknown
 
 
+If it doesn't fit, force it... If it breaks, it needed replacing anyway.
+	Unk
+
+
 Measure twice, cut once.
 	Unknown
 
@@ -617,14 +593,3 @@ He who asks is a fool for five minutes; he who does not ask remains a fool forev
 
 The person who says it cannot be done should not interrupt the person doing it.
 	Unknown
-
----
-
-## ANTI-INSPIRATIONAL
-
-Our task of creating a socialist America can only succeed when those who would resist us have been totally disarmed.
-	Sarah Brady
-
-
-We know that you, as a bee, have worked your whole life to get to the point where you can work for your whole life.
-	Bee Movie

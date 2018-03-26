@@ -1,0 +1,18 @@
+# Triad Progression
+Notes progress up the chain by triad class (root, mid, top)
+
+
+6
+4
+2
+7
+5
+3
+1
+6
+4
+2
+7
+5
+3
+1

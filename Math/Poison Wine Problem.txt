@@ -1,0 +1,6 @@
+Poison Wine Problem
+
+N sources
+
+X trials, where 2^X > N
+

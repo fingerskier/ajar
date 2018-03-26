@@ -1,0 +1,13 @@
+Basic Scales
+
+
+D EF G A BC D EF
+BC D EF G A BC D
+G A BC D EF G A BC
+D EF G A BC D EF
+     G
+
+2 34 5 6 71 2 34
+71 2 34 5 6 71 2 34
+5 6 71 2 34 5 6
+2 34 5 6 71 2 34
