@@ -1,15 +1,15 @@
 # Relative Notation
 
-Once the root note, 1, is determined all other pitches are derived from it and notated relative to it.
+Root note is determined by selecting the key: "key of G"
+Time signature is given like: "4:4"
+All pitches are derived relative to the root note.
 
-
-## General Info
----------------
-
-4:4			time signature
-key of ?	root note pitch class
-
-Once a key is selected notes and chords can be determined relatively.
+e.g.
+key of G
+meter 4:4
+1 = G
+2 = A
+6 = E
 
 
 ## Pitches
@@ -23,26 +23,26 @@ Once a key is selected notes and chords can be determined relatively.
 
 ### Triads
 ---
-!	~ 1 3 5
-@ ~ 2 4 6
-#	~ 3 5 7
-$	~ 4 6 1
-%	~ 5 7 2
-^	~ 6 1 3
-&	~ 7 2 4
+I	~ 1 3 5
+II ~ 2 4 6
+III	~ 3 5 7
+IV	~ 4 6 1
+V	~ 5 7 2
+VI	~ 6 1 3
+VII	~ 7 2 4
 
 
 ### Chord Modifiers
 ------------------
 * numbers in chord modifiers are relative to the chord root
 
-!	~ 1st inversion, root in the bass
-3/@	~ 2nd inversion, root in the treble
-5/#	~ 3rd inversion, root in the midst
-4/$	~ indicates another note in the bass (in this case the 4th)
-543/%	~ indicates a bass walk-down
-^\2	~ indicates another note in the treble (in this case the 2nd)
-&\23	~ indicates a treble walk-up
+I	~ 1st inversion, root in the bass
+3/I	~ 2nd inversion, root in the treble
+5/II	~ 3rd inversion, root in the midst
+4/V	~ indicates another note in the bass (in this case the 4th)
+543/V	~ indicates a bass walk-down
+IV\2	~ indicates another note in the treble (in this case the 2nd)
+IV\23	~ indicates a treble walk-up
 
 
 * nothing wrong with a little free-wheeling here:
@@ -58,4 +58,5 @@ $	~ 4 6 1
 * each line represents an octave
 ** octaves delineations are based on the key, 1->8
 
-* pipe symbols demarcate measures, each space represents one beat
+* pipe symbols demarcate measures
+* each space represents one beat
