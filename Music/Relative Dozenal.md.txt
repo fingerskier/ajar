@@ -1,0 +1,15 @@
+# Relative Dozenal
+
+
+0    Root
+1 
+2    second
+3 
+4    third
+5    fourth
+6 
+7    fifth
+8 
+9    sixth
+E 
+X    seventh

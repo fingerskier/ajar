@@ -1,4 +1,4 @@
-# Pentatonic Solfege
+# Pentatonic Vocale
 
 ## Visualization
 

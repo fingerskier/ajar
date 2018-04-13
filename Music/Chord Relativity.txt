@@ -1,0 +1,49 @@
+Triads
+------
+
+Major	5	1	2
+		3	6	7
+		1	4	5
+
+minor	6	7	3
+		4	5	1
+		2	3	6
+
+dim		4
+		2
+		7
+
+_unnatural_
+aug		5+
+		3
+		1
+
+
+Sevenths
+--------
+
+dom		-7
+		5
+		3
+		1
+
+Major	7
+		5
+		3
+		1
+
+minor	1	2	5
+		6	7	3
+		4	5	1
+		2	3	6
+
+dim/2	6
+		4
+		2
+		7
+
+_unnatural_
+dim		-6
+		4
+		2
+		7

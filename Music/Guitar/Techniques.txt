@@ -17,6 +17,9 @@ Guitar Techniques
 			all fingers
 			w/ slurs
 			tremolo
+		left thumb fretting
+			straight chords
+			w/ index bar
 		vibrato
 		 = roll knuckle front-to-back with the finger in-place
 			vary speed
@@ -103,7 +106,7 @@ Guitar Techniques
 			natural harmonics
 			artificial harmonics
 			pinch harmonics
-    chord harmonics
+		chord harmonics
 			bridge position
 			soundhole position
 			neck position
