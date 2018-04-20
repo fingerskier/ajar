@@ -21,28 +21,27 @@ meter 4:4
 ## Chords
 --------- 
 
-### Triads
----
-I	~ 1 3 5
-II ~ 2 4 6
-III	~ 3 5 7
-IV	~ 4 6 1
-V	~ 5 7 2
-VI	~ 6 1 3
-VII	~ 7 2 4
+Chords are assumed to triads unless otherwise notated
+1	~ 1 3 5
+2   ~ 2 4 6
+3	~ 3 5 7
+4	~ 4 6 1
+5	~ 5 7 2
+6	~ 6 1 3
+7	~ 7 2 4
 
 
 ### Chord Modifiers
 ------------------
 * numbers in chord modifiers are relative to the chord root
 
-I	~ 1st inversion, root in the bass
-3/I	~ 2nd inversion, root in the treble
-5/II	~ 3rd inversion, root in the midst
-4/V	~ indicates another note in the bass (in this case the 4th)
-543/V	~ indicates a bass walk-down
-IV\2	~ indicates another note in the treble (in this case the 2nd)
-IV\23	~ indicates a treble walk-up
+1	~ 1st inversion, root in the bass
+3/1	~ 2nd inversion, root in the treble
+5/2	~ 3rd inversion, root in the midst
+4/5	~ indicates another note in the bass (in this case the 4th)
+543/5	~ indicates a bass walk-down
+4\2	~ indicates another note in the treble (in this case the 2nd)
+4\23	~ indicates a treble walk-up
 
 
 * nothing wrong with a little free-wheeling here:
