@@ -1,0 +1,7 @@
+Standard Fretboard
+
+
+A BC D EF G A
+EF G A BC D E
+C D EF G A BC
+G A BC D EF G

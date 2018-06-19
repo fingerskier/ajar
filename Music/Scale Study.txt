@@ -1,0 +1,59 @@
+e  f# g#   b  c#    e  f# g#   b  c#    e  f# g#   b  c#    e
+
+           b  c# 
+
+
+
+e F Ga b C De F Ga b C De F Ga b C De
+ f g aA c d ef g aA c d ef g aA c d ef
+  F G Ab C D fF G Ab C D fF G Ab C D fF
+   g a bc d e Fg a bc d e Fg a bc d e Fg
+    G A cC D f gG A cC D f gG A cC D f gG
+     a b Cd e F Ga b Cd e F Ga b Cd e F Ga
+      A c dD f g aA c dD f g aA c dD f g aA
+       b C De F G Ab C De F G Ab C De F G Ab
+        c d ef g a bc d ef g a bc d ef g a bc
+         C D fF G A cC D fF G A cC D fF G A cC
+          d e Fg a b Cd e Fg a b Cd e Fg a b Cd
+           D f gG A c dD f gG A c dD f gG A c dD
+
+e F G  b C  e F G  b C  e F G  b C  e
+ f g a  c d  f g a  c d  f g a  c d  f
+  F G A  C D  F G A  C D  F G A  C D  F
+   g a b  d e  g a b  d e  g a b  d e  g
+    G A c  D f  G A c  D f  G A c  D f  G
+     a b C  e F  a b C  e F  a b C  e F  a
+      A c d  f g  A c d  f g  A c d  f g  A
+       b C D  F G  b C D  F G  b C D  F G  b
+        c d e  g a  c d e  g a  c d e  g a  c
+         C D f  G A  C D f  G A  C D f  G A  C
+          d e F  a b  d e F  a b  d e F  a b  d
+           D f g  A c  D f g  A c  D f g  A c  D
+
+
+e   a b C De F Ga b C De
+f   aA c d ef g aA c d e
+F    Ab C D fF G Ab C D 
+g   a bc d e Fg a bc d e
+G    A cC D f gG A cC D 
+a   a b Cd e F Ga b Cd e
+A   aA c dD f g aA c dD 
+b    Ab C De F G Ab C De
+c   a bc d ef g a bc d e
+C    A cC D fF G A cC D 
+d   a b Cd e Fg a b Cd e
+D    A c dD f gG A c dD 
+
+e     b C  e F G  b C  e
+f   a  c d  f g a  c d  
+F    A  C D  F G A  C D 
+lg   a b  d e  g a b  d e
+G    A c  D f  G A c  D 
+a   a b C  e F  a b C  e
+A    A c d  f g  A c d  
+b     b C D  F G  b C D 
+c   a  c d e  g a  c d e
+C    A  C D f  G A  C D 
+d   a b  d e F  a b  d e
+D    A c  D f g  A c  D 
+

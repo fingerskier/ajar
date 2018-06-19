@@ -1,0 +1,22 @@
+OSI Genetics
+
+ ~ Gamete
+ ~ Chromosome
+ ~ Gene
+ ~ DNA (sequence of codons)
+ ~ RNA (transcription, transportation, translation)
+    mRNA (transcription, ribosome)
+    tRNA (translation)
+ ~ Codon (triplet of bases)
+ ~ Bases (base-4 digits)(what about Uracil?)
+
+Application ~ 
+Presentation ~
+Session ~
+Transport ~ 
+Network ~ 
+Data Link ~ 
+Physical ~ 
+
+"Performance Limits in Communication Theory and Practice"
+JK Skwrzywski

@@ -1,0 +1,34 @@
+ X XO
+ X OX
+XO X
+OX X
+ X X
+ X X
+
+ X X 
+ X XO 
+X OX 
+XO X 
+OX X 
+ X X 
+
+ X X
+X XO
+X OX
+XO X
+OX X
+
+XO X
+OX X
+X X
+X XO
+X OX
+XO X 
+
+X OX
+XO X
+X X
+X X
+X XO
+X OX
+ 
