@@ -1,5 +1,16 @@
 # Manthra
 
+There are two hard problems in software engineering:
+	automatically synchronized and invalidated caching storage,
+	naming things,
+	and off-by-1 errors.
+M.Currier (reprise of Phil Karlton, Leon Bambrick)
+
+
+The first step towards wisdom is to call things by their proper name.
+	Confucius
+
+
 In order to be great it isn't enough to be right - you must be great.
      M.L'Engle
 
@@ -24,10 +35,6 @@ Upon review of the past year:
     Augustus Toplady
 
 
-The first step towards wisdom is to call things by their proper name.
-	Confucius
-
-
 The isn't much traffic on the extra mile
 	H.Barber
 
@@ -36,15 +43,11 @@ I profess to be one of those who, by profiting, write, and by writing profit.
 	Jean Calvin
 
 
-There are two hard problems in computer science: cache invalidation, naming things, and off-by-1 errors.
-	Phil Karlton
-	Leon Bambrick
-
-
 A design center should be equal parts monastery, pub, and sweatshop.
 
 
-Some have at first for wits, then poets passed, Turn’d critics next, and proved plain fools at last.
+Some have at first for wits, then poets passed, 
+Turn’d critics next, and proved plain fools at last.
 
 
 A man convinced against his will is of the same opinion still
@@ -60,9 +63,6 @@ The world is full of intellectual derelicts
 
 I don't skate to where the puck is, I skate to where the puck is going to be.
 	W.Gretsky
-
-
-Sunday school teachers have the patience of Job, the wisdom of Solomon, and are surrounded by the children of Israel.
 
 
 Who are the people most opposed to escapism?  Jailors!
@@ -117,7 +117,7 @@ If they come for the innocent without stepping over your body, cursed be your re
 	Dorothy Day
 
 
-Si vis pacem, para bellum.  _If you seek peace, prepare for war._
+Si vis pacem, para bellum.
 	Plato via Publius Flavius
 
 
