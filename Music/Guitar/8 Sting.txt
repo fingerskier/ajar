@@ -1,0 +1,11 @@
+8 String
+
+
+A
+E
+B
+G
+D
+A
+E
+B

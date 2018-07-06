@@ -1,0 +1,10 @@
+Split Nut
+
+
+EF G A BC D EF G A
+BC D EF G A BC D EF
+ G A BC D EF G A BC
+ D EF G A BC D EF G
+ A BC D EF G A BC D
+ EF G A BC D EF G A
+ 

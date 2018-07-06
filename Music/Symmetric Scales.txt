@@ -1,0 +1,47 @@
+Symmetric Scales
+
+Whole Tone
+
+a b C D f g a
+
+b C D f g a b
+c d e F G A c
+
+d e F G A c d
+
+e F G A c d e
+f g a b C D f
+
+g a b C D f g
+
+
+a b C D f g a
+  b C D f g a b
+   c d e F G A c
+     d e F G A c d
+       e F G A c d e
+        f g a b C D f
+          g a b C D f g
+          
+---
+
+min3
+
+aAbcCdDefFgGaAbcCdDefFgGa 
+a  c  D  F  a 
+  b  d  f  G  b 
+   c  D  F  a  c
+   
+---
+
+maj3
+
+aAbcCdDefFgGaAbcCdDefFgGa
+
+   c   e   G   c
+       e   G   c   e
+       
+---
+
+Maj6
+

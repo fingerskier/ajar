@@ -1,0 +1,11 @@
+# Whole Tone Scales
+
+E F# G# A# C D E
+
+
+E * * * C D E
+ C D E * * * C
+ * * C D E * *
+D E * * * C D 
+ * C D E * * * 
+E * * * C D E
