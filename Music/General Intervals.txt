@@ -1,0 +1,5 @@
+General Intervals
+...these Intervals are available for 6 or more diatonic tones in a key:
+
+P5 ~ 15 26 37 41 52 63
+-P4 ~ 51 

@@ -4,8 +4,18 @@
 A
 E
 B
+ G
+ D
+ A
+ E
+ B
+
+
+C
 G
 D
 A
-E
-B
+ F
+ C
+ G
+ D
