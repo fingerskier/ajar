@@ -1,8 +1,11 @@
 # Manthra
 
+<<<<<<< HEAD
 Tenacity is quality you need to overcome your spending lack of good judgment.
 
 
+=======
+>>>>>>> 1767f7b14834d5c6746a78e33a41da3fed1649fa
 Grace and glory differ very little;
  the one is the seed, the other is the flower;
  grace is glory militant, glory is grace triumphant.
