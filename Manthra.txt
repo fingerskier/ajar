@@ -1,5 +1,14 @@
 # Manthra
 
+Tenacity is quality you need to overcome your spending lack of good judgment.
+
+
+Grace and glory differ very little;
+ the one is the seed, the other is the flower;
+ grace is glory militant, glory is grace triumphant.
+Thomas Brooks
+
+
 There are two hard problems in software engineering:
 	automatically synchronized and invalidated caching storage,
 	naming things,
@@ -212,11 +221,11 @@ Those who sacrifice essential liberty for temporary safety are not deserving of 
 	Ben Franklin
 
 
-Where the spirit does not work with the hand there is no art
+Where the spirit does not work with the hand there is no art.
 	Leonardo da Vinci
 
 
-Nothing in Scripture depicts the Christian life as divided into sacred and secular parts
+Nothing in Scripture depicts the Christian life as divided into sacred and secular parts.
 	Dan Miller
 
 
@@ -254,7 +263,7 @@ The beauty of the Second Amendment is that it will not be needed until they try 
 
 
 Gun Control: the theory that a woman found dead in an alley, raped, and strangled with her own pantyhose, is somehow morally superior to a woman explaining to police how her attacker got that fatal bullet wound.
-	unknown
+	L.Neil Smith
 
 
 People sleep peacefully in their beds at night only because rough men stand ready to do violence on their behalf.
@@ -369,16 +378,10 @@ Free men do not have to ask permission to bear arms.
 If you don't know your rights you don't have any.
 
 
-The second amendment is in place in case they ignore the others.
-
-
 Guns only have two enemies: rust and liberals.
 
 
 Know guns, know peace and safety.  No guns, no peace nor safety.
-
-
-Peace through superior firepower.
 
 
 Assault is a type of behavior, not a type of hardware.
@@ -551,7 +554,7 @@ If I had eight hours to chop down a tree, I would spend 6 hours sharpening an ax
 
 
 In theory, there is no difference between theory and practice, but not in practice.
-	Unknown
+	Yogi Berra
 
 
 If it doesn't fit, force it... If it breaks, it needed replacing anyway.
@@ -563,7 +566,7 @@ Measure twice, cut once.
 
 
 One boy is half a man, two boys is a half a boy, and three boys ain't no help at all.
-	LCC
+	Lucius Currier
 
 
 On a visit to the NASA space center, President Kennedy spoke to a man sweeping up in one of the buildings.  "What's your job here?" asked Kennedy.  "Well Mr. President," the janitor replied, "I'm helping to put a man on the moon".

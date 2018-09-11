@@ -1,0 +1,80 @@
+AWS REST API Over MySQL
+
+
+Create an Amazon Cognito User Pool
+Amazon Cognito provides two different mechanisms for authenticating users. You can use Cognito User Pools to add sign-up and sign-in functionality to your application or use Cognito Identity Pools to authenticate users through social identity providers such as Facebook, Twitter, or Amazon, with SAML identity solutions, or by using your own identity system. For this module you'll use a user pool as the backend for the provided registration and sign-in pages.
+From the AWS Console click Services then select Cognito under Mobile Services.
+Choose Manage your User Pools.
+Choose Create a User Pool
+Provide a name for your user pool such as WildRydes, then select Review Defaults
+On the review page, click Create pool.
+Note the Pool Id on the Pool details page of your newly created user pool.
+
+
+Add an App to Your User Pool
+From the Amazon Cognito console select your user pool and then select the App clients section. Add a new app client and make sure the Generate client secret option is deselected. Client secrets aren't currently supported with the JavaScript SDK. If you do create an app with a generated secret, delete it and create a new one with the correct configuration.
+From the Pool Details page for your user pool, select App clients from the left General Settings section in the navigation bar.
+Choose Add an app client.
+Give the app client a name such as WildRydesWebApp.
+Uncheck the Generate client secret option. Client secrets aren't currently supported for use with browser-based applications.
+Choose Create app client.
+Note the App client id for the newly created application.
+
+
+Update the config.js File in Your Website Bucket
+The /js/config.js file contains settings for the user pool ID, app client ID and Region. Update this file with the settings from the user pool and app you created in the previous steps and upload the file back to your bucket.
+Download the config.js file from the website directory of the first module in this repository to your local machine. You can find it by returning to the S3 bucket you created and navigating to the folder named 'js'.
+Open the downloaded file using the text editor of your choice.
+Update the cognito section with the correct values for the user pool and app you just created.
+You can find the value for userPoolId on the Pool details page of the Amazon Cognito console after you select the user pool that you created. 
+You can find the value for userPoolClientId by selecting App clients from the left navigation bar. Use the value from the App client id field for the app you created in the previous section. 
+The value for region should be the AWS Region code where you created your user pool. E.g. us-east-1 for the N. Virginia Region, or us-west-2 for the Oregon Region. If you're not sure which code to use, you can look at the Pool ARN value on the Pool details page. The Region code is the part of the ARN immediately after arn:aws:cognito-idp:.
+The updated config.js file should look like this. Note that the actual values for your file will be different: 
+window._config = {
+    cognito: {
+        userPoolId: 'us-west-2_uXboG5pAb', // e.g. us-east-2_uXboG5pAb
+        userPoolClientId: '25ddkmj4v6hfsfvruhpfi7n4hv', // e.g. 25ddkmj4v6hfsfvruhpfi7n4hv
+        region: 'us-west-2' // e.g. us-east-2
+    },
+    api: {
+        invokeUrl: '' // e.g. https://rc7nyt4tql.execute-api.us-west-2.amazonaws.com/prod',
+    }
+};
+
+
+Save the modified file making sure the filename is still config.js.
+Open the Amazon S3 console by visiting https://console.aws.amazon.com/s3/.
+Select your Wild Rydes website bucket that you created in the previous module.
+Browse to the js prefix.
+Choose Upload, then Add Files.
+Browse to the directory where you saved your locally modified version of the config.js file, select it, and choose Open.
+Choose Upload on the left side of the dialog.
+Note: Instead of having you write the browser-side code for managing the registration, verification, and sign in flows, we provide a working implementation in the assets you deployed in the first module. The cognito-auth.js file contains the code that handles UI events and invokes the appropriate Amazon Cognito Identity SDK methods. For more information about the SDK, see the project page on GitHub.
+
+Test registration
+Test verification
+
+
+
+
+
+Setup Website
+- S3
+
+Setup Users
+- Cognito
+- IAM
+
+Backend
+- DB
+- Access
+
+REST API
+- API Gateway
+	Edge Optimized endpoint type
+	Authorizers
+		Cognito type
+		Authorization token source
+	Test
+		copy auth token???
+	Method Request authorization
