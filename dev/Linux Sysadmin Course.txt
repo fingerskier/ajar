@@ -1,0 +1,137 @@
+# Linux Sysadmin Course
+
+pwd
+---
+print working directory
+
+ls
+--
+list (directory contents)
+
+cd
+--
+change directory
+
+navigating the file system
+--------------------------
+.. ~ parent directory (unless already in root)
+
+mv
+--
+move [file/directory]
+
+rm
+--
+remove [file]
+
+rmdir
+-----
+remove [directory]
+
+touch
+-----
+create an empty file or flag it as "updated"
+
+mkdir
+-----
+make directory
+
+man
+---
+manual page
+
+man [command] gives the manual for the given command
+
+who
+---
+user info
+
+w
+-
+user details
+
+netstat
+-------
+network statistics
+
+-tupln ~= tcp udp progUsing progListening numeric
+
+less
+----
+paginate a file in the console
+
+
+tail
+----
+display end of a file
+
+
+dd
+--
+data duplicator
+
+can clone current to .iso
+
+
+&&
+--
+run after completion of first command
+[command] && [command]
+
+cut
+---
+cuts each line into fields by a delimiter
+
+sort
+----
+sorts line in a file
+
+uniq
+----
+gives only unique lines in a file
+
+wc
+--
+word-count of a file
+
+grep
+----
+general regex phinder
+
+
+User Accounts
+-------------
+
+/etc/passwd
+/etc/shadow
+/etc/group
+
+usually a user per service
+
+User:
+
+useradd
+-------
+useradd -m -d /home/blah -s /bin/bash
+
+adduser
+-------
+
+newusers
+--------
+batch input of new users
+
+
+## Processes
+------------
+PID ~ process identifier
+user ~ account that spawned the process
+euid ~ processes differing from it's spawning user
+egid
+niceness
+parentID
+
+
+## Signals
+----------
+messages between the kernel and processes

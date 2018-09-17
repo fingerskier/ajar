@@ -1,0 +1,13 @@
+set 0
+set 1
+identity
+negation
+
+
+Deutsch oracle
+	how many queries would it take to identify what function a black-box is
+	classical = 2
+	quantum = 2
+
+Quantum Computer Science
+Quantum Computing for Computer Scientists
