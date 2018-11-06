@@ -1,0 +1,67 @@
+cdefgabc
+
+cd M2
+ce M3
+cf P4
+cg P5
+ca M6
+cb M7
+cc P8
+
+de M2
+df m3
+dg P4
+da P5
+db M6
+dc m7
+dd
+
+ef m2
+eg m3
+ea P4
+eb P5
+ec m6
+ed m7
+ee
+
+fg M2
+fa M3
+fb +4
+fc P5
+fd M6
+fe M7
+ff
+
+ga M2
+gb M3
+gc P4
+gd P5
+ge M6
+gf m7
+gg
+
+ab M2
+ac m3
+ad P4
+ae P5
+af m6
+ag m7
+aa
+
+bc m2
+bd m3
+be P4
+bf -5
+bg m6
+ba m7
+bb
+
+---
+
+12 13 14 15 16 17
+23 24 25 26 27 21
+34 35 36 37 31 32
+45 46 47 41 42 43
+56 57 51 52 53 54
+67 61 62 63 64 65
+71 72 73 74 75 76

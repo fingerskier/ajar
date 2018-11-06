@@ -1,0 +1,15 @@
+"mangement style you're allergic to"
+
+1. What's the most interesting thing you've gotten to work on there?
+2. What's the balance between firefighting and project work?
+3. What's the one thing you wish you could change about the work environment?
+4. What's the tech-debt situation here?
+5. What's the work from home policy?  What's the on-call rotation?  What's the on-call scare quotient?
+
+1. What are the biggest technical challenges here?
+2. Where do you see the team in 1-2 years?
+3. What's the most annoying thing about working here?
+4. How would you describe the company culture?
+5. What does your mentorship look like?
+6. How many interviews do you do a year?
+7. Do you feel like your compensating correctly?

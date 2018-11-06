@@ -1,19 +1,30 @@
 # Manthra
 
-<<<<<<< HEAD
-Tenacity is quality you need to overcome your spending lack of good judgment.
+
+On two occasions, I have been asked [by members of Parliament], "Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?"
+I am not able to rightly apprehend the kind of confusion of ideas that could provoke such a question.
+	Charles Babbage
 
 
-=======
->>>>>>> 1767f7b14834d5c6746a78e33a41da3fed1649fa
+It doesn’t make sense to hire smart people and then tell them what to do; we hire smart people so they can tell us what to do.
+	Steve Jobs 
+
+
+Tenacity is the quality you need to overcome your stupendous lack of good judgment.
+
+
 Grace and glory differ very little;
  the one is the seed, the other is the flower;
  grace is glory militant, glory is grace triumphant.
 Thomas Brooks
 
 
+If you are neutral in situations of injustice, you have chosen the side of the oppressor.
+	Desmond Tutu
+
+
 There are two hard problems in software engineering:
-	automatically synchronized and invalidated caching storage,
+	automatically synchronized and invalidating caching storage,
 	naming things,
 	and off-by-1 errors.
 M.Currier (reprise of Phil Karlton, Leon Bambrick)
@@ -23,15 +34,31 @@ The first step towards wisdom is to call things by their proper name.
 	Confucius
 
 
+They know enough who know how to learn.
+	Henry Brooks Adams
+
+
+switching elements are modeled by quantum mechanics described by differential equations whose behavior is captured by numerical approximations represented in computer programs executing on computers composed of switching elements
+	Gerald Sussman
+
+
+"Computer Science" is not a science, and it's significance has little to do with computers.
+	Marvin Minsky
+
+
+I think computer science, by and large, is still stuck in the Modern Age.
+	Larry Wall
+
+
 In order to be great it isn't enough to be right - you must be great.
-     M.L'Engle
+	M.L'Engle
 
 
 There are three components to success: simplify, simplify, simplify
 
 
 The first gulp from the glass of natural sciences will make you an Atheist, but at the bottom of the glass, God is waiting for you.
-    Werner Heisenberg
+	Werner Heisenberg
 
 
 Ex falso sequitur quodlibet.
@@ -44,10 +71,10 @@ Upon review of the past year:
  My shortcomings and mis-doings, 
  my unbelief and want of love would sink me into the lowest hell,
  was not Jesus my righteousness and my redeemer.
-    Augustus Toplady
+	Augustus Toplady
 
 
-The isn't much traffic on the extra mile
+There isn't much traffic on the extra mile.
 	H.Barber
 
 
@@ -60,16 +87,17 @@ A design center should be equal parts monastery, pub, and sweatshop.
 
 Some have at first for wits, then poets passed, 
 Turn’d critics next, and proved plain fools at last.
+	C.S. Lewis
 
 
-A man convinced against his will is of the same opinion still
+A man convinced against his will is of the same opinion still.
 
 
 Contradiction is not a sign of falsity, nor the lack of contradiction a sign of truth.
 	Blaise Pascal
 
 
-The world is full of intellectual derelicts
+The world is full of intellectual derelicts.
 	C.Coolidge
 
 
@@ -85,11 +113,11 @@ When two partners always agree, one of them is not necessary.
 
 
 There is a principle which:
-	is a bar against all information
-	is a proof against all argument
-	cannot fail to keep man in everlasting ignorance
-	...condemnation before investigation
-    Edmund Spencer
+- is a bar against all information
+- is a proof against all argument
+- cannot fail to keep man in everlasting ignorance
+~ condemnation before investigation
+	Edmund Spencer
 
 
 Evidence for the conspiracy is evidence for the conspiracy.
@@ -111,22 +139,12 @@ I am a revolutionary, so my son can be a farmer, so his son can be a poet.
 	John Adams
 
 
-Somewhere a True Believer is training to kill you.
-He is training with minimal food or water, in austere conditions, day and night.
-The only thing clean on him is his weapon.
-He doesn't worry about what workout to do - his ruck weighs what it weighs, his run ends when the enemy stops chasing him.
-This True Believer is not concerned about 'how hard it is,' he either wins or dies.
-He doesn't go home at 17:00, he is home.
-He knows only The Cause.
-	Doc
+If they come for the innocent without stepping over your body, cursed be your religion and your life.
+	Dorothy Day
 
 
 The Spartans do not ask how many the enemies are but where they are.
 	Agis II
-
-
-If they come for the innocent without stepping over your body, cursed be your religion and your life.
-	Dorothy Day
 
 
 Si vis pacem, para bellum.
@@ -135,6 +153,16 @@ Si vis pacem, para bellum.
 
 Those people who will not be governed by God will be ruled by tyrants.
 	William Penn
+
+
+Somewhere a True Believer is training to kill you.
+He is training with minimal food or water, in austere conditions, day and night.
+The only thing clean on him is his weapon.
+He doesn't worry about what workout to do - his ruck weighs what it weighs, his run ends when the enemy stops chasing him.
+This True Believer is not concerned about 'how hard it is,' he either wins or dies.
+He doesn't go home at 17:00, he is home.
+He knows only The Cause.
+	Doc
 
 
 It is the soldier, not the reporter, who has given us Freedom of Press.
@@ -408,13 +436,7 @@ My gun?  I'd rather have it and not need it than need it and not have it.
 Firearm safety is a matter for education, not legislation.
 
 
-The day they want my guns they'll have to bring theirs.
-
-
 An armed society is a polite society.
-
-
-Manners are good when one may have to back up his acts with his life.
 
 
 How can you praise freedom, and condemn that which gains and preserves it?
@@ -459,22 +481,6 @@ Absorb what is useful, discard what is useless, and add what is uniquely your ow
 	the Cenotaph of Thermopylae
 
 
-They know enough who know how to learn.
-	Henry Brooks Adams
-
-
-switching elements are modeled by quantum mechanics described by differential equations whose behavior is captured by numerical approximations represented in computer programs executing on computers composed of switching elements
-	Gerald Sussman
-
-
-"Computer Science" is not a science, and it's significance has little to do with computers.
-	Marvin Minsky
-
-
-I think computer science, by and large, is still stuck in the Modern Age.
-	Larry Wall
-
-
 Programs must be written for people to read, and only incidentally for machines to execute.
 	H.Abelson & G.Sussman
 
@@ -501,11 +507,6 @@ Scientists, like many others, are touched with awe at the order and complexity o
 
 The most exciting phrase to hear in science - the one that heralds new discoveries - is not "Eureka!" but "That's funny...".
 	Isaac Asimov
-
-
-On two occasions, I have been asked [by members of Parliament], "Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?"
-I am not able to rightly apprehend the kind of confusion of ideas that could provoke such a question.
-	Charles Babbage
 
 
 A prudent question is one-half of wisdom.
@@ -541,19 +542,15 @@ About the only real power a CEO or Chairman has is giving motivational speeches,
 
 
 All programmers are playwrights and all computers are lousy actors.
-	Unknown
 
 
 Any programming problem can be solved by adding a level of indirection. (also see "Any performance problem..." by M. Haertel).
-	Unknown
 
 
 Experience is a poor teacher: it gives its tests before it teaches its lessons.
-	Unknown
 
 
-If I had eight hours to chop down a tree, I would spend 6 hours sharpening an axe.
-	Unknown
+Given 8 hours to chop down a tree, spend 6 hours sharpening the axe.
 
 
 In theory, there is no difference between theory and practice, but not in practice.
@@ -565,7 +562,6 @@ If it doesn't fit, force it... If it breaks, it needed replacing anyway.
 
 
 Measure twice, cut once.
-	Unknown
 
 
 One boy is half a man, two boys is a half a boy, and three boys ain't no help at all.
@@ -573,36 +569,27 @@ One boy is half a man, two boys is a half a boy, and three boys ain't no help at
 
 
 On a visit to the NASA space center, President Kennedy spoke to a man sweeping up in one of the buildings.  "What's your job here?" asked Kennedy.  "Well Mr. President," the janitor replied, "I'm helping to put a man on the moon".
-	Unknown
 
 
 One day a mother comes home from work and asks her son, "What did you do today?" The son replied, "I taught our dog how to play the piano."  The mother, incredulous, asked, "Our dog can play the piano?", to which the son laughed and replied, "Of course not mom.  I said that I taught him; I didn't say that he learned how."
-	Unknown
 
 
 The person who knows HOW will always have a job.  The person who knows WHY will always be his/her boss.
-	Unknown
 
 
 There are 10 different kinds of people in the world: those who know binary and those who don't.
-	Unknown
 
 
 Time is an excellent teacher; but eventually it kills all its students.
-	Unknown
 
 
 When a programming language is created that allows programmers to program in simple English, it will be discovered that programmers cannot speak English.
-	Unknown
 
 
 Give a man a fish and feed him for a day; teach a man to fish and feed him for a lifetime; teach him to teach others to fish - and you feed a nation.
-	Unknown
 
 
 He who asks is a fool for five minutes; he who does not ask remains a fool forever.
-	Unknown
 
 
 The person who says it cannot be done should not interrupt the person doing it.
-	Unknown

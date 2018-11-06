@@ -53,4 +53,3 @@ load order doesn't matter
 - script `filename`
 - behaviors [...]
 - exits [{ room_id, direction, leaveMessage }]
-

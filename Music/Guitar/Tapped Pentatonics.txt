@@ -36,3 +36,64 @@ L - L - R - - R - -
 L - L - - R - R - -
 L - L - - R - R - -
 L - - L - R - R - -
+
+---
+
+  L L  R R  *
+  L L  R R  *
+ L  L  R R
+ L  L R  R  *
+  L L R  R
+  L L  R R  *
+
+  L L R  R
+  L L  R R  *
+ L L  R R   *
+ L  L R R   
+ L  L R  R  *
+  L L R  R  
+
+ L  L R  R  *
+  L L R  R
+ L L  R R   *
+ L L  R R   *
+ L  L R R
+ L  L R  R  *
+
+ L  L R R
+ L  L R  R  *
+ L L R  R
+ L L  R R   *
+ L L  R R   *
+ L  L R R
+
+  L L  R R  *
+  L  L R R
+ L  L R  R  *
+  L L R  R
+  L L  R R  *
+  L L  R R  *
+
+---
+
+ L L R  R
+ L L  R R   *
+ L L  R R   *
+ L  L R R
+ L  L R  R  *
+ L L R  R
+ L L  R R   *
+ L L  R R   *
+ L  L R R
+ L  L R  R  *
+  L L R  R
+  L L  R R  *
+
+---
+
+LL R R
+ L R R
+L LR R
+L LR R
+LL R R
+LL R R

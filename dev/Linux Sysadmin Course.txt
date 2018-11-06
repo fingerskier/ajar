@@ -135,3 +135,23 @@ parentID
 ## Signals
 ----------
 messages between the kernel and processes
+
+which
+-----
+
+~/.bash_profile
+/etc/profile
+/etc/profile.d
+
+script
+------
+record a bash script
+
+scriptreplay
+------------
+replay a script
+
+alias
+-----
+e.g. alias lr="ls -lrc"
+
