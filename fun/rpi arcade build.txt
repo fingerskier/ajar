@@ -1,0 +1,10 @@
+			power socket
+			speakers
+television			controls
+PC			
+lights			
+			
+			
+keyboard			
+trackball			
+rpi			

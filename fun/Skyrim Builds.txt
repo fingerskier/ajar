@@ -1,2 +1,8 @@
 2-Hand
+  Orc Armour
+  Longhammer
+  Gauldur Amulet
+  Ring of Namira
+  Ebony Mail
+  Ebony Blade
   
