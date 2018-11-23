@@ -1,0 +1,10 @@
+Time Series Multi Net
+
+X > X' > X'' > ... > X*
+
+X1 = W10*X0
+
+X2 = W21*X1 + W20*X0
+
+X3 = W32*X2 + W31*X12 + W
+
