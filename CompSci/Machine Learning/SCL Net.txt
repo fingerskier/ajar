@@ -1,0 +1,57 @@
+	Input									
+	Inputs	Array[0..#N] of Real		Non-retain	True	True	True	False		
+	Expected	Array[0..#N] of Real		Non-retain	True	True	True	False		
+	Train	Bool	false	Non-retain	True	True	True	False		
+	Output									
+										
+	InOut									
+										
+	Static									
+	Net	Array[0..#N, 0..#N, 0..#Nn] of Real		Non-retain	True	True	True	False		
+	Error	Array[0..#N] of Real		Non-retain	True	True	True	False		
+	Temp									
+	X	Int								
+	Y	Int								
+	Z	Int								
+	signal	Real								
+	input	Real								
+	weight	Real								
+	Constant									
+	N	Int	3							
+	Nn	Int	4							
+
+// Glean Inputs
+FOR #Y := 0 TO #N DO
+    #Net[0, #Y, 0] := #Inputs[#Y];
+END_FOR;
+
+// Update Signals
+FOR #X := 1 TO #N DO
+    // start at 1 because level 0 is the inputs
+    FOR #Y := 0 TO #N DO
+        FOR #Z := 1 TO #Nn DO
+            // start at 1 because level 1 is the neurons
+            
+            // signal = input * weight
+            #input := #Net[#X - 1, #Y, 0];
+            #weight := #Net[#X, #Y, #Z];
+            #Net[#X, #Y, 0] := MAX_REAL(IN1 := #input * #weight, IN2 := 0.0);
+        END_FOR;
+    END_FOR;
+END_FOR;
+
+// Calculate Costs
+FOR #X := 0 TO #N DO
+    #Error[#X] := 1.0 + #Expected[#X] - #Net[#N, #X, 0];
+END_FOR;
+
+// Training
+IF #Train THEN
+    FOR #X := 1 TO #N DO
+        FOR #Y := 0 TO #N DO
+            FOR #Z := 1 TO #N DO
+                #Net[#X, #Y, #Z] := #Net[#X, #Y, #Z] * #Error[#Y];
+            END_FOR;
+        END_FOR;
+    END_FOR;
+END_IF;

@@ -1,0 +1,58 @@
+ 
+I     v   v  v
+IIIi v    v  v
+Vii  v  v    v
+VII  v  v  v
+     71 2 34 5
+
+II   v  v   v
+     2 34 5 6
+     
+Iii  v  v    v
+III  v  v   v
+IV    v   v  v
+VIi  v    v  v
+     34 5 6 71
+     
+V    v   v  v
+     5 6 71 2
+     
+IIi  v    v  v
+IVii v  v    v
+VI   v  v   v
+VII    v  v  v 
+     6 71 2 34
+     
+---
+
+     71 2 34 5
+     2
+     4
+
+II   v  v   v
+     2 34 5 6
+     
+Iii  v  v    v
+III  v  v   v
+IV    v   v  v
+VIi  v    v  v
+     34 5 6 71
+     
+V    v   v  v
+     5 6 71 2
+     
+IIi  v    v  v
+IVii v  v    v
+VI   v  v   v
+VII    v  v  v
+     6 71 2 34
+     
+---
+
+1 X 3X 5  i
+2 X4 X 6  j
+3X 5 X 7
+4 X 6 X1
+5 X 7X 2  i
+6 X1 X 3  
+7X 2 X4

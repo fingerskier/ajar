@@ -1,6 +1,13 @@
 # Manthra
 
 
+A grandfather talking to his young grandson tells the boy he has two wolves inside of him, struggling with each other.
+ The first is the wolf of peace, love and kindness.
+ The other is the wolf of fear, greed and hatred.
+ "Which wolf will win, grandfather?" asks the young boy.
+ The grandfather replied,  "Whichever one you feed."
+
+
 On two occasions, I have been asked [by members of Parliament], "Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?"
 I am not able to rightly apprehend the kind of confusion of ideas that could provoke such a question.
 	Charles Babbage

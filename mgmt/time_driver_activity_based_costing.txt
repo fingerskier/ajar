@@ -1,0 +1,37 @@
+Time-Driven Activity-Based Costing
+TDABC
+
+What is being costed, timed, based upon?  Activities.
+
+"Time-Driven"
+- implies that activities are sequential...in some way
+- activities have a definite start and end time
+- start and end times may be relative
+	- starts and ends are events
+	- events that are not controlled within the project must still be tracked if they convolve activities within the project
+
+"Activity-Based"
+- the central _unit_ of a project is an activity
+- an activity has:
+	- a start time
+	- an end time
+	- a start condition (the earliest activities start at project_start)
+	- an end condition
+		- this is the goal met by the activity
+		~ creating requirements is an activity
+		~ designing a sub-system to meet a requirement is an activity
+
+"Costing"
+- this is the amount of resources required to complete a project
+- ideally the cost of a project is the sum of all activity costs but there is always overhead
+- activity costs:
+	- man-hours
+	- development equipment usage
+	- fuel
+- overhead costs:
+	- true overhead is the cost of the infrastructure within which the project operates and flows
+	- activity transitions [can sometimes be nebulous]
+	- project oversight
+
+
+Cost = sum(activity_cost)

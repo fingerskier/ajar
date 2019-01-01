@@ -1,0 +1,7 @@
+# Higher-Order Markov Models
+
+The "order" of a Markov chain refers to the number of interconnections between elements in the sequence.
+
+probability(Xi|Xi-1,Xi-2,X1) = P(Xi|Xi-1,...,Xi-n)
+
+
