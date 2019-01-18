@@ -9,7 +9,7 @@ The chromatic scale: 0 1 2 3 4 5 6 7 8 9 L X 0 1 2 3 4 5 6 7 8 9 L X
 
 L ~ el, equivalent to decimal 11
 X ~ dec, equivalent to decimal 10
-...we avoid using letters so that this notation can sit alongside existing chord charts and other music
+...we avoid using letters A-G so that this notation can sit alongside existing chord charts and other music
 
 				0 1 2 3 4 5 6 7 8 9 X L
 "Key of A"		*   *   * *   *   *   *
@@ -17,6 +17,15 @@ pitch class		1   2   3 4   5   6   7
 
 "Key of C"		       *   *   * *   *   *   *
 pitch class		       1   2   3 4   5   6   7
+
+Corresponding traditional keys
+0 = A
+2 = B
+3 = C
+5 = D
+7 = E
+8 = F
+X = G
 
 
 In the 0-key we have three major chords:
@@ -33,14 +42,26 @@ In the 8-key we have three major chords:
 	1maj = 1 5 8
 	3maj = 3 7 L
 
-     |                                     |
-1	0 1 2 3 4 5 6 7 8 9 L X 0 1 2 3 4 5 6 7
-2	7 8 9 L X 0 1 2 3 4 5 6 7 8 9 L X 0 1 2
-3	3 4 5 6 7 8 9 L X 0 1 2 3 4 5 6 7 8 9 L
-4	L X 0 1 2 3 4 5 6 7 8 9 L X 0 1 2 3 4 5
-5	5 6 7 8 9 L X 0 1 2 3 4 5 6 7 8 9 L X 0
-6	0 1 2 3 4 5 6 7 8 9 L X 0 1 2 3 4 5 6 7
-     |    L   L   L         L              |
+A dozenal keyboard
+	 1  4 6  9 L 1
+	0 23 5 78 X 0 23
+
+A dozenal guitar fingerboard
+1	789LX0123456789LX0123456
+2	23456789LX0123456789LX01
+3	LX0123456789LX0123456789
+4	56789LX0123456789LX01234
+5	0123456789LX0123456789LX
+6	789LX0123456789LX0123456
+
+0-Key [A]
+	7 9 X0 2 45 7 9 X0 2 45 
+	2 45 7 9 X0 2 45 7 9 X0 
+	 X0 2 45 7 9 X0 2 45 7 9
+	5 7 9 X0 2 45 7 9 X0 2 4
+	0 2 45 7 9 X0 2 45 7 9 X
+	7 9 X0 2 45 7 9 X0 2 45 
+
 
 ## Nomenclature for Intervals
 -----------------------------
@@ -163,7 +184,7 @@ VII    v  v  v
 
 Guitar Fingerboard:
 89XL0123456789XL01234567
-3456789XL0123456789XL012
+3456789XL0123456789XL0123
 L0123456789XL0123456789X
 6789XL0123456789XL012345
 123456789XL0123456789XL0

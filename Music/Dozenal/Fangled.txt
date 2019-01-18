@@ -1,0 +1,34 @@
+case-sensitive
+capitals are tweeners
+
+aAbcCdDefFgGa
+
+
+a	a b Cd e F Ga b Cd e F Ga b Cd e F Ga b Cd e F Ga
+A	aA c dD f g aA c dD f g aA c dD f g aA c dD f g a
+b	 Ab C De F G Ab C De F G Ab C De F G Ab C De F G 
+c	a bc d ef g a bc d ef g a bc d ef g a bc d ef g a
+C	 A cC D fF G A cC D fF G A cC D fF G A cC D fF G 
+d	a b Cd e Fg a b Cd e Fg a b Cd e Fg a b Cd e Fg a
+D	 A c dD f gG A c dD f gG A c dD f gG A c dD f gG 
+e	a b C De F Ga b C De F Ga b C De F Ga b C De F Ga
+f	aA c d ef g aA c d ef g aA c d ef g aA c d ef g a
+F	 Ab C D fF G Ab C D fF G Ab C D fF G Ab C D fF G 
+g	a bc d e Fg a bc d e Fg a bc d e Fg a bc d e Fg a
+G	 A cC D f gG A cC D f gG A cC D f gG A cC D f gG 
+
+
+
+a	a b Cd e F Ga b Cd e F Ga
+A	A c dD f g aA c dD f g aA
+b	b C De F G Ab C De F G Ab
+c	c d ef g a bc d ef g a bc
+C	C D fF G A cC D fF G A cC
+d	d e Fg a b Cd e Fg a b Cd
+D	D f gG A c dD f gG A c dD
+e	e F Ga b C De F Ga b C De
+f	f g aA c d ef g aA c d ef
+F	F G Ab C D fF G Ab C D fF
+g	g a bc d e Fg a bc d e Fg
+G	G A cC D f gG A cC D f gG
+
