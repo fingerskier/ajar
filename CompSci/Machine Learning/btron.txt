@@ -1,0 +1,3 @@
+signal = round(average(norm(Wi*INi)))
+
+The _norm_ function returns either 0 or 1.  It expects an input between 0 & 1.

@@ -161,7 +161,7 @@ Sophecles, Tragedies
 Heroditus, History of the Persian Wars
 Eurypydes, Tragedies
 Theucydides, History of the Peloponnesian War
-Hypocrites, Medical Writings
+Hippocrates, Medical Writings
 Erostophones, Comedies
 Plato, Dialogs
 Aristotle, Works
