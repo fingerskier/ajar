@@ -13,3 +13,19 @@ sWords are a dimensional reduction of input data features.
 bWords are a features induction of the observed system.
 
 
+The Algorithm
+-------------
+w ~ window length
+s ~ number of symbols
+a ~ alphabet size
+
+windows are non-overlapping
+windows partitioned into 's' sub-windows
+
+
+
+???
+===
+auto-enc NN to create the SAX word?
+is it implied that every letter is the same density and every word the same length?
+a stream of words is gleaned from each input channel...multiple speakers
