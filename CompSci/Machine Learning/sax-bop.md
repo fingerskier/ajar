@@ -22,10 +22,17 @@ a ~ alphabet size
 windows are non-overlapping
 windows partitioned into 's' sub-windows
 
+Pooling
+-----------
+Pool = weights * word(letters(sub-sequence))
+
+letters() is a kerneling of the given data
 
 
 ???
 ===
 auto-enc NN to create the SAX word?
+...e.g. 
 is it implied that every letter is the same density and every word the same length?
+...what if we take natural dips in the 
 a stream of words is gleaned from each input channel...multiple speakers
