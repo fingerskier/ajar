@@ -28,3 +28,14 @@ A. What actions have you taken?
 B. What discoveries have you made?
 
 C. What partnerships have you built?
+
+^v^v^v^v
+
+D. What is your main focus?  What are you primary goals for the next 6 months?
+
+E. What new discoveries are you planning? 
+
+F. What new partnerships are you hoping to build?
+
+Ask A,B,C then discuss D,E,F at the review.
+
