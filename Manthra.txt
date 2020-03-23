@@ -1,9 +1,20 @@
 # Manthra
 
 
-the most improper job of any man, even saints (who at any rate were at least unwilling to take it on), is bossing other men. Not one in a million is fit for it, and least of all those who seek the opportunity.
+Knowledge is a rumor until you have it in your body.
 
-J.R.R. Tolkien
+
+the most improper job of any man, even saints (who at any rate were at least unwilling to take it on), is bossing other men.  Not one in a million is fit for it, and least of all those who seek the opportunity.
+	J.R.R. Tolkien
+
+
+Any political hack can sell his soul to get ahead;  A truly skilled politician can gain on the sale of the souls of others.
+
+
+God puts maggots in our lives to clean the wounds.
+
+
+The desire for preeminence is the death knell of usefulness.
 
 
 A grandfather talking to his young grandson tells the boy he has two wolves inside of him, struggling with each other.
@@ -12,7 +23,7 @@ A grandfather talking to his young grandson tells the boy he has two wolves insi
  "Which wolf will win, grandfather?" asks the young boy.
  The grandfather replied,  "Whichever one you feed."
 
-
+``````````````````````````````
 On two occasions, I have been asked [by members of Parliament], "Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?"
 I am not able to rightly apprehend the kind of confusion of ideas that could provoke such a question.
 	Charles Babbage
@@ -20,6 +31,10 @@ I am not able to rightly apprehend the kind of confusion of ideas that could pro
 
 It doesn’t make sense to hire smart people and then tell them what to do; we hire smart people so they can tell us what to do.
 	Steve Jobs 
+
+
+Be uncommon among uncommon people.
+	David Goggins
 
 
 Tenacity is the quality you need to overcome your stupendous lack of good judgment.
@@ -596,6 +611,10 @@ Time is an excellent teacher; but eventually it kills all its students.
 
 
 When a programming language is created that allows programmers to program in simple English, it will be discovered that programmers cannot speak English.
+
+
+Perfectly written code is self-documenting.  Which is why all code should contain comments.
+M.Currier
 
 
 Give a man a fish and feed him for a day; teach a man to fish and feed him for a lifetime; teach him to teach others to fish - and you feed a nation.

@@ -1,0 +1,14 @@
+viz
+1. location
+2. inside
+3. outside
+4. shape
+5. size
+6. color
+6. weight
+7. temperature
+8. texture
+
+age
+location
+event

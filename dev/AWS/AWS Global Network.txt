@@ -1,0 +1,22 @@
+Availability Zones
+- isolation
+- multiple data-centers in each
+- pipelines between each
+
+Transit Centers
+- comms between AZs
+- routes traffic to a target
+
+Regions
+- multiple AZs in each
+
+Traffic flow types
+- side-to-side (host to host)
+- up-and-down (to/from Internet, inter-region)
+
+Elasticity
+- intra-AZ
+- inter-AZ
+- Internet interface(s)
+
+ 

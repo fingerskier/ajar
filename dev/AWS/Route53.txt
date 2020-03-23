@@ -1,0 +1,2 @@
+TTL ~ message declaring how long a record is good for
+  AWS manages this TTL

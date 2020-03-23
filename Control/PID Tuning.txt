@@ -1,0 +1,29 @@
+Model
+  step-change
+  measure
+    delta-PV
+    delta-T
+  
+  process-gain = delta-PV / delta-output
+
+  time-constant ~= delta-T / 4
+
+PID
+  standard
+    Kc(1 + 1/TiS + TdS)
+  parallel 
+    Kp + Ki/S + KdS
+  classical
+    Kc(1 + 1/TiS)(1 + TdS)
+
+  Tune Rule
+    1st Order Closed Loop
+      gain = 1
+      Kc = 1 / (Kd * Tratio)
+      Ti = T/4
+      Td = 0
+    Tratio = Tol / Tp
+      1 = Faster
+      2 = Fast
+      3 = Safe
+      4 = Slow

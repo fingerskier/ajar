@@ -1,0 +1,31 @@
+Elastic Compute Cloud
+
+resizable
+web-service
+
+_instantly_ scale
+
+API
+- RunInstances
+  - returns a set of DNS names
+- StopInstances
+
+Storage
+- EBS - Elastic Block Store
+- Local Instance Store
+  - S3 based
+
+Instance Types
+- Spot
+- On-Demand
+
+CLI or WWW
+
+AMI ~ Amazon Machine Image
+- units of deployment
+
+Accelerated Computing Instances
+- GPU compute
+- GPU graphics
+- FPGA
+m

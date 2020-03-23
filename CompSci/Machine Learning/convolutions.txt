@@ -20,3 +20,10 @@ intermediate
 	...
 
 -> neural net -> 6 neurons
+
+Auto-Encoded Kernels:
+  S <-> S
+  S <-> S'
+  S <-> S_T
+  S <-> K
+

@@ -261,7 +261,7 @@ alexis de tocqueville; democracy in america
 john stuary mille; a system of logic, on libery, respresentative government, utilitarianism, the subjection of women, autobio
 charles darwin; the origin of species, the descent of amn, autobio
 charles dickens; works
-claude bernard; intorductino to thew sutdy of experimental medicine
+claude bernard; intorduction to the study of experimental medicine
 henry david thoureau; civil disobedience, walden
 karl marx; capital, the communist manifesto
 george elliot; adam beade, middle march

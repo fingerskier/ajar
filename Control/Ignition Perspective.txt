@@ -1,0 +1,9 @@
+Perspective
+
+Session
+    like multiple-tabs
+Page
+    like single-tab
+View
+Container
+Component

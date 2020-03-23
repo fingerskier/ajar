@@ -29,4 +29,20 @@ notes:
 
 chords:
 	a 2-note interval is indicated by A-3 (which would be a major 3rd below A) or A+4 (a major 4th above A)
->>>>>>> origin/master
+
+≠======
+
+OR
+
+...
+A BC D EF G a bc d ef g
+EF G A BC D ef g a bc d
+
+Major scale
+
+-
+-
+-
+-
+  b C De
+e F Ga
