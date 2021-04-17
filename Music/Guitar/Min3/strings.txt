@@ -1,0 +1,12 @@
+Db - 12
+Bb - 15
+G - 24
+E - 30
+Db - 32
+Bb - 42
+G - 44
+E - 56
+
+Ernie Ball
+Not even slinky
+Beefy slinky

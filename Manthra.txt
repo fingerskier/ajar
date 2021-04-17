@@ -10,6 +10,17 @@ Good enough isn't.
 Whether you think you're good enough or not you're right.
 
 
+dolor hic tibi proderit olim
+
+
+A man is one who has learned to operate under the authority of Jesus Christ while carrying out responsible and legitimate leadership within the sphere of influence that God has placed him.
+  Tony Evans
+
+
+A sample size of you is not a population.
+  Matthew Currier
+
+
 The most improper job of any man, even saints (who at any rate were at least unwilling to take it on), is bossing other men.  Not one in a million is fit for it, and least of all those who seek the opportunity.
 	J.R.R. Tolkien
 
@@ -18,6 +29,12 @@ Any political hack can sell his soul to get ahead;  A truly skilled politician c
 
 
 The desire for preeminence is the death knell of usefulness.
+  Alistair Begg
+
+
+Whoever controls the past controls the present,
+whoever controls the present controls the future.
+	George Orwell
 
 
 A grandfather talking to his young grandson tells the boy he has two wolves inside of him, struggling with each other.
@@ -31,6 +48,11 @@ A grandfather talking to his young grandson tells the boy he has two wolves insi
 God puts maggots in our lives to clean the wounds.
 
 
+A young fish swims up to an old fish, "I'm looking for the ocean!"
+The old fish says, "you're in it."
+The young fish says, "no, this is just water - I'm looking for the ocean!"
+
+
 On two occasions, I have been asked [by members of Parliament], "Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?"
 I am not able to rightly apprehend the kind of confusion of ideas that could provoke such a question.
 	Charles Babbage
@@ -40,7 +62,7 @@ It doesn’t make sense to hire smart people and then tell them what to do; we h
 	Steve Jobs
 
 
-We are now gods but for the wisdom
+We are now gods but for the wisdom.
 	Eric Weinstein
 	
 
@@ -55,6 +77,9 @@ Be uncommon among uncommon people.
 Tenacity is the quality you need to overcome your stupendous lack of good judgment.
 
 
+When told that his vision would blow up Apple, Steve Job said, "better we blow it up than someone else."
+
+
 Grace and glory differ very little;
  the one is the seed, the other is the flower;
  grace is glory militant, glory is grace triumphant.
@@ -65,8 +90,12 @@ If you are neutral in situations of injustice, you have chosen the side of the o
 	Desmond Tutu
 
 
+If an egg is broken by an outside force, life ends;
+If an egg is broken by an inside force, life begins.
+
+
 There are two hard problems in software engineering:
-	automatically synchronized and invalidating caching storage,
+	automatically synchronized and invalidating soreness, caching storage,
 	naming things,
 	and off-by-1 errors.
 M.Currier (reprise of Phil Karlton, Leon Bambrick)
@@ -639,3 +668,10 @@ He who asks is a fool for five minutes; he who does not ask remains a fool forev
 
 
 The person who says it cannot be done should not interrupt the person doing it.
+
+
+Child, "Does God really watch me?"
+Paster, "He loves you so much He can't take His eyes off of you."
+
+
+Life is painted on too big a canvas.

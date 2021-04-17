@@ -1,0 +1,8 @@
+--  off, minimum
+- low
++ high
+++ maximum
+
+[] key
+(++, +, -, --) pedal
+{--, +, o} guitar

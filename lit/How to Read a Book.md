@@ -24,6 +24,11 @@ Levels of reading are cumulative.
 	"Some books are to be tasted, others to be bitten, still fewer: to be chewed and digested."
 4. Syntopical
 
+- Skimming
+- Inspection
+- Analysis
+- Syntopical
+
 
 ## Inspectional
 ---------------

@@ -1,0 +1,7 @@
+peripheral -> slave -> server
+                   /
+central -> master -> client
+
+
+Spectrum = peripheral
+Chroma = central

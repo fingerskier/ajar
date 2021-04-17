@@ -1,0 +1,120 @@
+ 
+
+Juggling as Performing Mathematics
+
+Juggling is the Art of suspending more object than you have got hands.
+
+ 
+
+
+..........The juggler supports an excess of objects over hands by arranging for each airborne object to be on a trajectory which will bring it near a hand for later catching. Often the "catching" hand itself holds another object at the time the first object is launched in its direction. In order to make the catch, the catching hand must make a "defensive" throw, ridding itself of its contents. This defensive throw must be answered fairly quickly by a catch from the hand which made the earlier throw. And now this hand too will have to make a defensive throw in order to be ready for its catch. In this way the burden of excess objects is shifted from hand to hand while the objects are distributed in space. As long as each individual object is at all times being held or on its way to being caught, the entire set of objects is suspended.
+
+..........This definition of juggling is satisfied most simply and conveniently by what is called the cascade juggling pattern. The cascade involves three balls in two hands - belonging to one juggler. The cascade is generally the first juggling skill a person would learn. I have taught juggling to about one hundred people using the method sketched in section II. It usually takes about twenty to forty minutes for an individual to learn to juggle three balls through one cycle of the cascade - throwing each ball up once and catching all the balls. For most people it takes about twenty tries after the first success before a single cycle becomes easy and reliable. After a few hours' practice, the three balls can be suspended at will.
+
+..........Instruction in juggling provides an interesting model for instruction in mathematics because there is a considerable similarity between the processes involved in juggling and the abstract thought processes. In juggling, as in pure mathematics, no new facts are ever given to the student by the teacher. In the context of juggling, a new fact would be an entirely new use of the body, a new motor routine. The juggling student, however, can already throw and catch a ball, and these are the only two motor routines necessary for the cascade.
+
+..........In the context of mathematics, there has been much philosophical argument through the ages as to whether there could even exist such a thing as a new mathematical fact. Since math is often taken to be a collection of external, universal, and impersonal truths, this conservatism is quite natural. Allowing, however, that there are such things, and taking the perspective that "what you don't know is new to you", it still seems that the new facts of mathematics arise in students somewhat independently of a teacher. Every new mathematical fact becomes what it is only as a result of being seen as a derivative of other mathematical facts. A student must be able to derive a statement before it can become a mathematical fact for him. A teacher of math may set forth "the solution" to a problem, or demonstrate "the proper application" of a theorem, but unless a student is thereby prompted to have an experience of intellectual connection, insight, no math will have been taught. The mathematician's knowledge, like the juggler's knowledge, is an active doing, not a matter of observation or description of the world outside.
+
+..........Assuming, then, that neither mathematical nor juggling facts can change hands during the process of instruction, what is it that math teachers and juggling teachers do? In the juggling lesson, what is accomplished is twofold: the old routines of throwing and catching are refined and a new coordination - throwing defensively in order to catch - is created from the newly refined routines. The new coordination cannot come into existence until the old routines have been refined. Once the defensive throw routine exists it need only be caught up in a rhythm - and there is the cascade. It clicks like an insight.
+
+..........A lesson in basic algebra is similar to a lesson in juggling. The successful graduate of arithmetic can add and can subtract with fair accuracy. By virtue of this, the student is ready to learn the algebraic principle that "equals added to equals give equals". This new fact will only take hold, however, after the student has come to understand addition and subtraction formally, using x's rather than numerals. The new process evolves through a process of formalizing the old facts and coordinating them. (After the student develops facility with the new principle, he can "juggle" equations.)
+
+..........The refinement of throwing and catching is analogous to the algebraic formalization of addition and subtraction. A formal understanding of addition requires insight into the group structure of addition. It is this insight into addition independent of particular addends which the "x" notation of algebra expresses. It is the same quality, independence from particular circumstances, that characterizes a "refined" throw in juggling.
+
+..........The coordination of the juggler's hands corresponds exactly to the mathematical facility of "simultaneously" altering two sides of an equation as a single algebraic step. In fact, the "simultaneous" additions (or subtractions) are not experienced as simultaneous any more than the throw-catch-unit is experienced as a simultaneous throw and catch. The additions are glossed into a single step by the procedure of figuring out what goes on the right hand side of the equal sign while actually writing the altered left hand expression. There is a rhythmic aspect to this process, a kind of syncopation. The new left hand expression creates a miniature problem to be solved in writing the right side - as a throw in juggling will demand a catch.
+
+..........To expand this analogy further, note that the hand-coordination involved in the three ball cascade serves to maintain an average of one ball in the air at all times. Since the particular ball hovering there changes from moment to moment, the statement "one ball is in the air at all times" is only true in a certain sense. It is the abstraction "one ball", not any particular ball, that remains airborne throughout the juggler's volley. The juggling is the art of keeping the abstract ball in the air. In a like way the mathematical step which adds equals "simultaneously" to the two sides of an equation aims at preserving a mathematical abstraction: The equation which results from the transformation has the same conditional truth value, the same import, as its precursor. The transformation effected by any algebraic manipulation changes the equation's reading, but not its import. The throw-catch unit in the cascade changes the positioning of the balls within the pattern without changing the pattern itself. Both juggling and algebraic manipulation are examples of paraphrase: the preservation of an overall meaning or pattern while altering the arrangement of parts.
+
+There is not much excuse in this world for teachers.
+..........People learn to act in complex ways - and to develop a taste for complexity - through experience alone. A teacher can, however, facilitate the learning/appreciation process. The core assumption of the Cascade Teaching Method is that the teacher can be of most use by directly influencing the attention of the student - not the behavior (intention). In order to do this the teacher must have the conviction that the student's behavior is self-shaping, that it will evolve at its own rate and become its own interpretation/ performance of the material. There is not one cascade, but as many cascades as there are jugglers.
+
+...........The juggling teacher shapes attention first by breaking down the task of the cascade into manageable units, mini-tasks; secondly by calling attention to certain features of each mini-task; and thirdly through distracting the student's attention from irrelevant concerns such as performance anxiety. In both "calling attention to" and "distracting attention from", the teacher is inviting the student into an empathic relationship. (Which invitation a student may decline. One particularly good reason for declining such an invitation may be that the student is - himself - more interested in learning about his natural attentional processes than he is in learning "the material".) In this relationship the student gets to make use of the teacher's habits of attention in encountering the material.
+
+...........The goal of breaking down a task into mini-tasks is to present at each step only one new coordination. It is the new coordination which will demand attention until it is mastered. If a task is broken down sufficiently for a student, it will be obvious to him what he has to try for in each mini-task. This should never require verbalization by the teacher.
+
+...........The goal of calling attention to certain features - such as posture and throwing style - is two fold. It speeds the refinement process during the lesson so that the full lesson is not two days long. Also, it gives the student a vocabulary for his own use during practice time.
+
+..........The goal of distraction and comic release is to dispel the excess tension and self-consciousness which accompany any intensive effort at training. When a student is noticeably embarrassed or tense, comic distraction and even playful mockery are often more useful than "heavy-handed" emotional support. A student who is embarrassed knows that what he just did is funny in light of what he meant to do. By laughing together about the ball that broke formation - now orbiting Uranus - that student and teacher come to stand together outside the as yet unserviceable behavior. The support approach sometimes leads to a student's remaining identified with a behavior over which he has as yet no control. This leads to his suffering some emotional distress. In order to aid in the dis-identification process, successful behaviors can also be noted somewhat comically: "Your wrist just learned that it should stay straight" rather than "you see, you have to keep your wrist straight." The ability to dis-identify has something to do with appreciating what juggling and mathematics are all about.
+
+..........This approach to the process of formal instruction leads to some curious observations about the teaching of mathematics. There is no place in juggling instruction for using recipe-style drill. The recipe approach in mathematics consists of directly telling a student how to go about solving a problem, what to try for. In the juggling lesson, this is circumvented by the use of a thorough breakdown into mini-tasks, and by the recourse to even smaller exercises should they be needed. While practice in mathematics is indisputably helpful to the student, the direct telling of recipes may be a hindrance because recipes influence skill-learning in an intentional rather than attentional way.
+
+..........In addition to the dissemination of recipes, math teachers are known to students for the dropping of insidious hints. A "hint" is usually perceived by the student to be a recipe with the most important steps torn off. Problem-solving then becomes the hunt for the missing part of the recipe instead of an exercise in perceptive paraphrase. ("Is the missing part on the back of the test? Is it written in invisible ink? Is it - dread upon dread - locked up in the teacher's mind?) Hints are a second poor substitute for the complete breakdown of tasks. In addition hints sometimes serve as prepackaged substitutes for side-coaching.
+
+.........Because side-coaching is an attempt to directly influence the attentional process of the student, its effectiveness is dependent upon the active participation of the teacher in the student's efforts to master the material. It is guided as much by empathy as by the teacher's competence with the material; the tone and timing of remarks are as important as their content. It may be better at times to risk interrupting a student's concentration by giving spoken side-coaching than to give written hints which often miss the mark.
+
+Mathematics is the science of articulating more than you thought you knew.
+...........Problem solving is probably the most basic and common form of mathematical activity. In the solving of algebraic problems, information is re©arranged until the "unknown" is expressed explicitly through the "known" terms. Once this paraphrase is accomplished, there is no problem. The problem was only the inconvenience of implicitness.
+
+...........As algebra is a linguistic medium for mathematical problems, juggling is a physical medium for problems of spatial arrangement. A popular "problem" of the cascade type is to have one ball trace a large exterior hemisphere while the other two trace a central figure eight, the usual cascade trace. A problem in juggling has for its solution the establishment of a particular arrangement of traces arising from a general pattern type. The traces of the individual objects are distinguished and arranged by the repeated use of variations of the basic defensive throw. (The potential for elaboration and variation in throws is inherent in the refined defensive throw. Analogous freedom to manipulate is gained by the formalized symbol "x".) Once the traces are arranged, there is no problem. The problem lay in the inconvenience of indistinction.
+
+..........Another level of mathematical activity is modeling: the articulation of a few basic principles coupled with an open-ended inquiry into their consequences. The proofs of theorems which create new fields within math very frequently depend on modeling activity. Corresponding to this inquiry is the juggler's investigation of a set of constraints. A juggler may set out to discover/invent everything that can be done with, say, three balls and a hoop.
+
+...........A mathematician engaged in modeling is especially interested in classifying the types of consequences - "behaviors" - which arise from his chosen principles. Which of the model's behaviors arise in parallel ways? Which are reflections of each other? He has faith that by noting these "aesthetic" relationships among the behaviors he will be lead to deeper mathematical principles.
+
+..........The juggler is equally attentive to aesthetics. He has a similar faith. He may be able to invent an effect which arises so simple as a variant of more familiar effects that it seems to have been in his repertoire all along, waiting only to be discovered.
+
+...........It is toward the complete realization of what has first been glimpsed by the aesthetic intuition alone that both mathematics and juggling tend. In the moment of realization, simplicity can no longer be distinguished from truth - or ability - and paraphrase becomes creation.
+
+...........I look at a suspended, frozen pattern and then down at my busy hands. I am wondering what this pattern is, unable even to describe it. My own hands are involved in generating this pattern, but I am not in control of their motions. They do out of refined habit what I could not will them to do. I am not aware of willing anything, now, and for the first time I notice the two honed circles traced by my hands resonating with the sideways eight of the juggling balls' pattern. I can see two "patterns" now, but which one has induced the other?
+
+..........It is the same, I think, with mathematical knowledge and its instruments: we are participants in the abstract truths, and they beat a human hand.
+
+........The teacher instructs in juggling by presenting a set of tasks which lead stepwise to the cascade.
+..........Each step should be savored a bit before the next one is attempted - otherwise there will be the feeling of difficulty, and the buildup of tension will make attention impossible. A set of tasks for the cascade is listed below with annotations on what the teacher might side-coach to facilitate learning.
+
+..........When analogous approaches are taken in teaching mathematics, learning begins to feel sportive and artistic rather than constraining and dull. See The Juggling Book by "Carlo" for an extension of the juggling lesson.
+
+
+........A. The first task is to throw one ball up and down, catching it in the same hand that threw it. (For convenience let's assume that it is the right hand, abbreviated RH from here on.) Repeat this twenty or more times with side coaching, and repeat for LH.)
+
+..........SIDE COACHING: The teacher attends to the general state of the student, his readiness to learn, his relationship to the setting, etc. The teacher coaches the student into a playful state of mind, relaxed and attentive. He could point out tension in the student's body. Throughout the lesson he will call breaks whenever the student is overloaded with tension. Even 15 seconds is long enough for a break if the student relaxes completely for that 15 seconds. Clowning about the student's overzealousness or sense of inadequacy is useful, as is the reminder that "the body takes its own time". Ideally the entire lesson will have the feel of a series of explorations, so thoroughly absorbing in the present that neither the teacher nor the student is concerned about the overall goal of juggling three balls.
+
+..........Verbally the teacher calls attention to the balls, their weight, the duration of flight, and the ease and automatics of catching reflexes. Pointers are given on throwing from the center of the hand and being aware of body tension.
+
+B. The next task is to throw one ball back and forth between two hands in an arcing manner.
+...........SIDE COACHING: The teacher shapes the student's attention by having the student imagine the arc of the ball before each throw. The student could do this for the first several throws, and he is cued to relax and re-center between each throw by the teacher's assumption of a very centered stance. The techniques of reentering and "imagining first" cut down an overcompensation and the "widening gyre" which can result from individual erroneous throws.
+
+...........The student is asked to notice when and where the ball peaks and to "feel the time" a thrown ball spends in the air. Lazy posture can be corrected most easily if the teacher either caricatures the student's posture or exaggerates his own - presumably alert - posture. The student who tracks the ball with his head is given a pointer on attenuating eye movements and head movements without losing sense of where the ball is in space. The student who gazes blankly into the distance is asked what he is seeing there. The student is asked to catch as if his hands were paws, in the center of the hand.
+
+...........C. The next task is to throw one ball from RH to LH given the additional difficulty of there being a ball in the catching (L) hand. That ball, called "the garbage", is to be popped across the chest toward the opposite (R) shoulder. The garbage is to be "put out" when the incoming ball (from the RH) peaks. Repeat for the other hand.
+
+............SIDE COACHING: The teacher suggests that the student focus on the RH ball only, not on the garbage. The garbage pop should be "preprogrammed": a "quick, blind burst of energy". Its only function at this point is to empty the LH for the upcoming catch, a defensive maneuver. If the timing here does not come naturally, an exercise is given: to throw one ball from RH to LH (no second ball) will counting "1" on throw, "2" at peaking, and "3" at catch. The second ball is then put back in the LH and the student is asked to pop instead of saying "2". The student should pay attention to the first ball and reliably catch it before moving on to D.
+
+
+..........D. The next task is the same as C except the student now tries to catch the second ball, the garbage, himself. Repeat this reversing hands. Repeat in sequence starting with the RH, then starting again with the LH, etc. When this is fluid, it is called "vamping".
+
+............SIDE COACHING: Students often have difficulty because they are either attending to the second catch too early - thus failing to complete the first - or they attend to the second catch too late - and the garbage falls to the ground. (Of these, attending too late is the preferred situation. If attending too early, the student is destroying the coordination established thus far, out of worry for the new coordination. Taking a break might be useful.) If either happens more than a few times, return to C with this variation. The student is to call out "4" after "3" in the same tempo as established by "1", "2", "3". Next have him squeeze his R fist closed as he says "4". As this does not require any attention to a ball, it does not interfere with the first catch or second throw. Return to D. The garbage is reclaimed on "4". (This is similar to many constructions in mathematics which serve first as place holders. Zero is - historically and psychologically - such a construction.
+
+...........E. The next task is to throw a ball to the teacher (who stands facing the student) whenever the teacher throws a ball to the student. At first each partner has one ball. The ball is to leave the student's right hand whenever the incoming ball peaks. The student is expected to catch the incoming ball, re-center, and be ready to throw it back on the next round. the teacher times his throws to challenge the student into catching and readying more quickly. The student realizes juggling is an art of self defense. Repeat several times for each of the student's hands.
+
+
+...........The teacher slips an extra ball into his hand at the start of working a round with the student's stronger hand. After three balls are juggled with this hand, the student's weaker hand is worked. Repeat several times for each hand until three balls can be juggled easily between the two half©jugglers on either side.
+
+...........SIDE COACHING: Usually no verbal side coaching is needed from this point on. The teacher who follows the guideline of himself attending to whatever he hopes the student will tend to should find he has a very strong and attentive partner.
+
+............This portion of the instruction delivers the last little bit of magic: the student is learning an overall rhythm into which his juggling will fit. In addition he is learning to compensate for poor throws while reintroducing a minimum of error. This is really all the teacher ever did.
+
+............F. The next task is to repeat the three-ball half-juggling exercise with student and teacher standing side by side. The teacher's right hand takes the place of the student's left hand and the student's right hand takes the place of the teacher's left. Repeat on the other side. Whoever is on the right starts the volley (begins holding tow balls.) Repeat with the teacher, on the left, ending the volley after exactly one cycle of the cascade. Repeat with the student ending the volley after exactly one cycle. Switch sides frequently.
+
+............SIDE COACHING: The overall duration of the single cycle will be felt if both student and teacher sing a note on each throw and the final catch - 4 counts in 1 - 3 seconds.
+
+..........G. The last task is to "juggle by himself", without thinking or planning. "Let your body show off from the elbows down." This is the first time the student has held all three balls. It is the end of the instruction. The new juggler realizes juggling is magic. He doesn't know how he did it, but has the feeling it was right - a rhythmic sense. This feeling is shared by the other juggler.
+
+
+
+ 
+
+B. John Sommers
+
+Illustrated by Tom Parker
+
+ 
+
+Mr. Sommers is a mathematician, juggler, and teacher. He is a devoted practitioner of antimeaning and antipraxis. He lives here and there.
+ 
+
+Article reprinted and archived with permission by Henri Montandon, editor in chief of EDG.
+ 
+
+Juggling as Performing Mathematics / Juggling Information Service / jis@juggling.org
+© 2000 Juggling Information Service. All Rights Reserved.
