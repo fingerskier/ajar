@@ -1,0 +1,15 @@
+Symbol	    Meaning
+s∈S	        States.
+a∈A	        Actions.
+r∈R	        Rewards.
+St,At,Rt	State, action, and reward at time step t of one trajectory. I may occasionally use st,at,rt as well.
+γ	        Discount factor; penalty to uncertainty of future rewards; 0<γ≤1.
+Gt	        Return; or discounted future reward; Gt=∑∞k=0γkRt+k+1.
+P(s′,r|s,a)	Transition probability of getting to the next state s’ from the current state s with action a and reward r.
+π(a|s)	    Stochastic policy (agent behavior strategy); πθ(.) is a policy parameterized by θ.
+μ(s)	    Deterministic policy; we can also label this as π(s), but using a different letter gives better distinction so that we can easily tell when the policy is stochastic or deterministic without further explanation. Either π or μ is what a reinforcement learning algorithm aims to learn.
+V(s)	    State-value function measures the expected return of state s; Vw(.) is a value function parameterized by w.
+Vπ(s)	    The value of state s when we follow a policy π; Vπ(s)=Ea∼π[Gt|St=s].
+Q(s,a)	    Action-value function is similar to V(s), but it assesses the expected return of a pair of state and action (s, a); Qw(.) is a action value function parameterized by w.
+Qπ(s,a)	    Similar to Vπ(.), the value of (state, action) pair when we follow a policy π; Qπ(s,a)=Ea∼π[Gt|St=s,At=a].
+A(s,a)	    Advantage function, A(s,a)=Q(s,a)−V(s); it can be considered as another version of Q-value with lower variance by taking the state-value off as the baseline.

@@ -1,0 +1,51 @@
+Performative Linguistics
+
+
+Speech Act
+= speech or writing that includes information, intention, committment, and metadata (paraverbal)
+
+
+e.g.	promise, order, greet, warn, invite, congratulate
+
+
+Types of Acts
+	Locutionary
+		The performance of the information
+
+		The actual information and it's ostensible meaning
+
+		Comprised of phatic and rhetic acts
+		
+		Verbal, syntactic, and semantic aspects
+
+
+	Illocutionary
+		Intended significance of a performance (social validity)
+
+		Classifications
+			Assertives = commits the giver to belief of an expressed proposition
+				e.g. creed
+			Directves = cause the receiver to take action
+				e.g. request, command, advice
+			Commissives = commits the giver to some future action
+				e.g. promise, oath
+			Expressives = expresses the giver's attitude toward a proposition
+				e.g. congratulation, excuse, thanks
+			Declarations = declaration that changes the social sphere
+				e.g. baptism, covenant
+
+
+	Perlocutionary
+		The actual effect of a performance
+			e.g. persuasion, convincing, scaring, enlightening, inspiring
+
+		Imputed realization
+
+
+Interpretation
+	Conventional
+		An intrinsically intellectual parsing and reasoning about information.
+
+
+	Psychological
+		An understanding of information based on beliefs, intentions, etc.

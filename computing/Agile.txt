@@ -1,0 +1,43 @@
+Agile
+
+
+Code is necessary but not sufficient.  
+
+
+1. Never lie to your customer.
+2. Always take the blame if you screw up.
+
+
+Signs of good collaboration. A project team is collaborating well if:
+• Everyone clearly understands the goals of the system (functional and non-functional, schedule and cost).
+• The requirements are unambiguous, complete and understood by everyone.
+• Everyone is working on the right versions of documents.
+• Everyone understands who is in charge and what their individual responsibilities are.
+• People trust each other, exchanging information freely.
+
+There is no problem so bad that you can't make it worse.
+
+Cost = number of proxies * proxy productivity ± precision
+
+
+Cost in Hours
+	state machine
+	transaction
+		low complexity
+		medium complexity
+		high complexity
+	function point
+
+Productivity
+
+Effort = (size / producitivity) +- precision
+
+Your peers production quality is your responsibility, and yours is theirs.
+
+quality
+	functionality
+	realiability
+	usability
+	efficiency
+	maintainability
+	portability

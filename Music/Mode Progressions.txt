@@ -18,6 +18,37 @@ Matching Pentatonics (Lydian and Locrian don't match because of the 7/1, 3/4)
 
 IDM is the most majorish candidate, DMA is a fence-sitter, DPA is gloom
 
+====
+I is odd
+II is even
+III is odd
+IV is even
+V is odd
+VI is even
+VII is odd
+
+====
+
+I -> III
+I -> V
+II -> IV
+II -> VI
+III -> V
+III -> VII
+IV -> VI
+IV -> I*
+V -> VII
+V -> II*
+VI -> I*
+VI -> III*
+VII -> II*
+VII -> IV*
+
+An odd/even transition must go through IV, V, or VI.
+
+
+====
+Chart of 1-4-5 chord progressions
 
 I - 145, 
 145
@@ -82,3 +113,33 @@ VII - 734
 454
 776
 
+
+====
+Pentatonic progressions vs. chords
+i.e. a song generally uses 3-5 chords in it's entirety
+
+I   - 12356
+II  - 23561
+III - 35612
+IV  - 45612
+V   - 56723
+VI  - 61235
+
+
+Can't really go wrong with root/mode-I
+
+Mode-II is useful if the 2 is in play through or as a transitional mode
+e.g. 1-2-1, 1-2-4
+
+Modes III & IV share the same position
+
+Mode V is useful because of the natural 7 in it
+- the 7 is also shared with: iii & vii & the root-7 chords
+- this form 
+
+
+I   - 12356
+II  - 12356
+IV  - 12456
+V   - 23567
+VI  - 12356

@@ -1,5 +1,0 @@
-0. Column of interest is the 1st
-1. Choose a pivotal row based on current column of interest, which has a leading non-zero value
-2. Move that row to the top
-3. Zero other entries in column of interest by elementary modifications
-4. Choose the next column and repeat #1

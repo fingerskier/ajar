@@ -1,4 +1,0 @@
-Layer0 = bool
-Conx0 = w * N0 + b
-Layer1 = round(sigmoid(X))
-...

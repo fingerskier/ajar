@@ -1,0 +1,29 @@
+Time-Series Data:
+	a b c d e f g h i j k l m n o p q r s t u v w x y z
+
+Kernels:
+0	1	2	4	2	1	0
+1	2	4	2	1	0	1
+2	4	2	1	0	1	2
+4	2	1	0	1	2	4
+2	1	0	1	2	4	2
+1	0	1	2	4	2	1
+
+
+inputs
+
+Kernels
+
+intermediate
+	K1 Series
+	K2 Series
+	...
+
+-> neural net -> 6 neurons
+
+Auto-Encoded Kernels:
+  S <-> S
+  S <-> S'
+  S <-> S_T
+  S <-> K
+

@@ -1,0 +1,26 @@
+You can simply use the iwconfig tools on the both your Pis to join to an ad-hoc network.
+
+use the following:
+
+sudo iwconfig wlan0 mode ad-hoc channel 01 essid my-net
+
+You can use your Link-Local addresses to interact with the pis in general.
+
+A smart way to know your local network Pis can be to use:
+
+ping -I wlan0 224.0.0.1
+
+It is a Multicast Address which will give your pings from the Pis which have the same ad-hoc parameters.
+
+This should most definitely give you the 169.254.x.x address of the Pi within the ad-hoc network.
+
+Networking upon next boot
+In best case use the following in your (both Pis) /etc/rc.local file:
+
+sudo nano /etc/rc.local
+
+iwconfig wlan0 mode ad-hoc essid my-net channel 01
+exit 0
+and add brcmfmac in to your /etc/modules file for availability of chipset on boot.
+
+For further help I have a GitHub repository which can set up Pis (any model 2 or 3) in Ad-Hoc mode with IPv6 Link Local Addresses.

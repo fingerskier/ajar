@@ -1,3 +1,0 @@
-# Computer Science
-
-compsci notes...

@@ -1,0 +1,105 @@
+Xpath
+
+
+Nodes
+	element
+	attribute
+	text
+	namespace
+	processing-instruction
+	comment
+	document-node
+
+Atomic Value = a value with no children or parent
+
+Item = atomic value or node
+
+Parent
+	every element and attribute has one parent
+
+Children
+	nodes have 0 or more children
+
+Siblings = nodes that have the same parent
+
+Ancestors = a node's parent, grandparent, etc.
+
+Descendants = a node's children, grandchildren, etc.
+
+Selections
+	nodename	select a named node
+	/			selects from the root node
+	//			selects any descendant of the current node
+	.			current node
+	..			parent node
+	@			attributes
+
+!!! use xml.setProperty("SelectionLanguage","XPath"); to fix IE bug
+
+Predicates
+	[]				demarcates a predicate
+	1				digits indicate an index
+	[last()]
+	[position()<3]	indicates the first two
+	[price > 35]	selects all elements with a price element with a value greater than 35
+
+
+@lang 		selects all lang attributes
+[@lang]		selects nodes with lang attributes
+
+Wildcards
+	*		matches any element
+	@*		matches any attribute
+	node()	matches any node
+
+Multiple Paths
+	//book/title | //book/price 	select the title AND price of all books
+
+Axis = a node-set relative to the current node
+
+Axes
+	ancestor
+	ancestor-or-self
+	attribute
+	child
+	descendant
+	descendant-or-self
+	following
+	following-sibling
+	namespace
+	parent
+	preceding
+	preceding-sibling
+	self
+
+Absolute Location Path
+	/step/step/...
+
+Relative Location Path
+	step/step/...
+
+Step = axis::test[predicate]
+
+!!! Current Node?!
+
+Operators
+	|		AND, computes two node-sets
+	+		addition
+	-		subtraction
+	*		multiplication
+	div		division
+	=		equal
+	!=		not equal
+	<		less than
+	<=		less than or equal to
+	>		greater than
+	>=		greater than or equal to
+	or 		or
+	and 	and
+	mod		modulus
+
+Javascript Fx
+	var xmlhttp = new XMLHttpRequest()
+	xmlDoc.selectNodes(xpath);
+	xmlDoc.evaluate(xpath, xmlDoc, null, XPathResult.ANY_TYPE, null)
+	

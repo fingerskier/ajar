@@ -1,0 +1,58 @@
+BLE
+Bluetooth Low Energy
+
+Peripheral ~ device presenting the data
+
+Central Device ~ consumer of the data ?and/or controller/provider?
+
+Service ~ data channel
+
+Characteristic ~ data presentation/value
+
+
+Notification ~ signals that data changed
+  ...when enabled this automatically sends data to the receiver
+
+Indication ~ like a notification but the reader sends an acknowledgement
+
+
+BLE is a pub/sub model
+
+Central devices are clients
+Peripheral devices are servers
+
+Peripheral
+ - Services
+  - Characteristics
+
+There are standard Services
+
+Services have a UUID
+  - standard ~ 16-bit UUID
+  - custom ~ 128-bit UUID
+
+Characteristic value can be up to 512 bytes
+
+
+A central device can do these things with a characteristic:
+- Read
+- Write
+- Indicate ~ request continuous update
+- Notify ~ request continuous update
+
+
+General Advertising Profile (GAP)
+- contents
+  - device name
+  - info
+  - list of services
+  ! limited size (?)
+
+Peripheral can provide services that are not advertised
+
+
+General ATTribute profile (GATT)
+- defines services
+- defines characteristics
+- enables read/write/notify/indicate operations on characteristics
+- usually [not always] server is the central and client is the peripheral

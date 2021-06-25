@@ -1,0 +1,42 @@
+DNA is directional
+Convention = 5' (left) to 3' (right)
+
+a gene is the code for a protein 
+
+
+T G C A
+A C G T
+
+T A G C
+A T C G
+
+prokaryotic ~ no nucleus
+eukaryotic ~ with nucleus
+
+DNA is 4-dimensional
+...but this book approximates to 1D
+
+String likeness:
+- 1D, sequence of letters
+- 2D, words ~ definition
+- 3D, phrasing ~ meaning
+- 4D, flow ~ context
+
+DNA Alphabet:
+A C G T
+T G C A
+
+RNA Alphabet:
+A C G U
+U G C A
+
+Amino Acid Alphabet:
+A R N D C Q E G H I L K M F P S T W Y V
+
+Models:
+- multinomial (order 0 Markov chain)
+- Markov chains
+  - actual is an order 4 Markov chain
+  ? perhaps DNA is not a Markov chain because the links are neuronic rather than stochastic
+  ? reverse neural net?
+

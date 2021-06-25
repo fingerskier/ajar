@@ -1,3 +1,0 @@
-The process of sequentially applying filters to reveal a pattern.
-
-In time-series data we can apply multiple filters to several values as a list...
