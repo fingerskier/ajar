@@ -1,0 +1,8 @@
+1. electronify controls and feedbacks
+2. remote control controlled and feedbacks
+3. low level HMI ~ can be run, repeatably, by a coder who understands the process
+4. mid level ~ can be run by a non-coder, process expert
+5. high level ~ can be run by a trained client
+6. automation ~ can run alongside a non-expert
+
+

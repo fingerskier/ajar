@@ -1,4 +1,15 @@
 Fluid Number
 
 
-value += _granularity * (_setpoint - value)
+value += _viscocity * (_setpoint - value)
+
+overloading '=':
+  X = 100
+  ... gradually moves X to 100
+
+
+In some systems this can be employed when smooth changes are best but interactions are non-linear or excessively complicated.
+
+e.g. interdependent control variables
+  Fluid numbers are more efficient than PID and linear systems.  All controls can smoothly move towards a goal while goals are adjusted based on rules.
+

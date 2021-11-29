@@ -1,7 +1,20 @@
 # Manthra
 
 
+No Dad, no life
+Know Dad, know life
+
+
+Give a man a fish and feed him for a day; teach a man to fish and feed him for a lifetime; teach him to teach others to fish - and you feed a nation.
+
+
+Honor is the amount of personal risk one undertakes to manifest their beliefs.
+
+
 Knowledge is a rumor until you have it in your body.
+
+
+If you want something you've never had, you have to do something you've never done
 
 
 Good enough isn't.
@@ -19,6 +32,18 @@ A man is one who has learned to operate under the authority of Jesus Christ whil
 
 A sample size of you is not a population.
   Matthew Currier
+
+
+God doesn't worry when we struggle with sin; He worries when we stop.
+  Chris Murphy
+
+
+Ignorance is a sea, knowledge is a drop in that ocean.
+  William James
+
+
+The stock market has predicted 7 of the last 2 recessions
+	reprise: George Soros
 
 
 The most improper job of any man, even saints (who at any rate were at least unwilling to take it on), is bossing other men.  Not one in a million is fit for it, and least of all those who seek the opportunity.
@@ -40,10 +65,27 @@ whoever controls the present controls the future.
 A grandfather talking to his young grandson tells the boy he has two wolves inside of him, struggling with each other.
  The first is the wolf of peace, love and kindness.
  The other is the wolf of fear, greed and hatred.
- "Which wolf will win, grandfather?" asks the young boy.
+ "Which wolf will win, grandfather?" asks the boy.
  The grandfather replied,  "Whichever one you feed."
 
+
+The person who says it cannot be done should not interrupt the person doing it.
+
+
+Defeat is not failure but, rather, not to have tried.
+  re: George Woodberry
+
+
+Child, "Does God really watch me?"
+Paster, "He loves you so much He can't take His eyes off of you."
+
+
+Democracy is the worst form of government, except for all the others.
+	Winston Churchill
+
+
 ``````````````````````````````
+
 
 God puts maggots in our lives to clean the wounds.
 
@@ -51,6 +93,12 @@ God puts maggots in our lives to clean the wounds.
 A young fish swims up to an old fish, "I'm looking for the ocean!"
 The old fish says, "you're in it."
 The young fish says, "no, this is just water - I'm looking for the ocean!"
+
+
+Read yourself full,
+Speak yourself empty,
+Write yourself clear;
+	Allistair Begg
 
 
 On two occasions, I have been asked [by members of Parliament], "Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?"
@@ -66,11 +114,11 @@ We are now gods but for the wisdom.
 	Eric Weinstein
 	
 
-A great manager doesn't squeeze in what was left out, they draw out what was left in.
+A leader doesn't squeeze in what was left out, they draw out what was left in.
 	unk
 
 
-Be uncommon among uncommon people.
+Be uncommon amongst uncommon people.
 	David Goggins
 
 
@@ -83,7 +131,7 @@ When told that his vision would blow up Apple, Steve Job said, "better we blow i
 Grace and glory differ very little;
  the one is the seed, the other is the flower;
  grace is glory militant, glory is grace triumphant.
-Thomas Brooks
+	Thomas Brooks
 
 
 If you are neutral in situations of injustice, you have chosen the side of the oppressor.
@@ -94,8 +142,8 @@ If an egg is broken by an outside force, life ends;
 If an egg is broken by an inside force, life begins.
 
 
-There are two hard problems in software engineering:
-	automatically synchronized and invalidating soreness, caching storage,
+There are two hard problems in computing:
+	automatically synchronized and invalidating remote, caching storage,
 	naming things,
 	and off-by-1 errors.
 M.Currier (reprise of Phil Karlton, Leon Bambrick)
@@ -125,7 +173,11 @@ In order to be great it isn't enough to be right - you must be great.
 	M.L'Engle
 
 
-There are three components to success: simplify, simplify, simplify
+There are three components to success: simplify, simplify, simplify.
+
+
+Love is not an emotion. It is a policy.
+  Hugh Bishop
 
 
 The first gulp from the glass of natural sciences will make you an Atheist, but at the bottom of the glass, God is waiting for you.
@@ -133,6 +185,10 @@ The first gulp from the glass of natural sciences will make you an Atheist, but 
 
 
 Ex falso sequitur quodlibet.
+
+
+You feel things too deeply to bear them unless you can get them out of yourself through some sort of art.
+  Madeleine L'Engle
 
 
 Upon review of the past year:
@@ -337,7 +393,6 @@ If your attack is going too well, you're probably walking into an ambush.
 
 Divide et Impera
 Divide ut Regnes
-	a Roman saying via Napoleon
 
 
 There are four boxes to be used in the defense of liberty: soap, ballot, jury and ammo.  Please use in that order.
@@ -661,17 +716,7 @@ Perfectly written code is self-documenting.  Which is why all code should contai
 M.Currier
 
 
-Give a man a fish and feed him for a day; teach a man to fish and feed him for a lifetime; teach him to teach others to fish - and you feed a nation.
-
-
 He who asks is a fool for five minutes; he who does not ask remains a fool forever.
-
-
-The person who says it cannot be done should not interrupt the person doing it.
-
-
-Child, "Does God really watch me?"
-Paster, "He loves you so much He can't take His eyes off of you."
 
 
 Life is painted on too big a canvas.

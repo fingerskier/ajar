@@ -1,0 +1,15 @@
+1. Game logic in the UI
+  continually push logic into backend
+2. Mega classes
+  always prune classes into smaller ones
+  1 page full
+3. Making everything _public_
+  default to private and only go public when needed
+4. Setters with side effects
+  use observers and split up usages
+5. Not using interfaces
+  maybe sub-classing or componentry
+6. Completely ignoring performance
+  make elegant stuff
+7. Not getting feedback
+  put yourself out there
