@@ -1,0 +1,9 @@
+1. jab
+2. cross
+3. lead hook
+4. power hook
+5. lead uppercut
+6. power uppercut
+7. body lead hook
+8. body power hook
+
