@@ -1,0 +1,8 @@
+if (target_distance > N) and (speed < maximum_speed) {
+  speed += delta
+}
+
+if (target_distance < N) and (speed > minimum_speed) {
+  speed -= delta
+}
+

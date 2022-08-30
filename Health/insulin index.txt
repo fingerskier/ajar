@@ -1,0 +1,409 @@
+☰
+Insulin index chart of 140+ foods - complete list with sources
+Article author photo Victoria Mazmanyan by Victoria Mazmanyan | Last updated: September 20, 2021
+Education: General Medicine at YSMU
+The insulin index of foods demonstrates how much a food increases the insulin level in the blood, in the first two-hour period after consumption. The insulin index is measured by using a portion of the given food, along with a reference food, containing equal amounts of calories, usually 250 calories or 1000kJ (1). 
+
+Prolonged high levels of insulin in the blood can be a risk factor for various diseases. Therefore, food’s ability to induce insulin secretion after consumption can play an important role in the prevention and management of metabolic syndromes, such as insulin resistance and type 2 diabetes (2).
+
+Whilst the well-studied glycemic index of foods provides an idea of how the given food affects the body, it often falls short when giving information about foods with low carbohydrate content, such as lean meats, certain vegetables, or dairy products. For this reason, the insulin index can be a more useful tool when measuring the body’s response to food.
+
+The dietary insulin index depends not only on carbohydrate content but also quantity and quality of protein, fat, and their interactions (2).
+
+The higher the insulin index of the food, the more insulin the body produces as a response. Foods with lower insulinemic indices are recommended as part of a healthy diet, to help reduce risk of developing metabolic syndromes. The insulin index of pure glucose, for example, is 100, while avocados have an insulin index of 6.
+
+Using all reliable and accessible, scientifically-backed information we have collected a complete list of the insulin indices of over 100 foods. This list will grow as more studies are carried out about the insulin index of other foods.
+
+Sources.
+https://www.sciencedirect.com/science/article/pii/B9780128132784000099
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4955203/
+INSULIN INDEX TABLE
+Download pdf
+Image	Name	Insulin index	Source
+	Brie	7	
+https://ses.library.usyd.edu.au/handle/2123/11945
+	Cheese	45	
+https://academic.oup.com/ajcn/article/66/5/1264/4655967
+33 here https://clinicaltrials.gov/ProvidedDocs/93/NCT03387293/Prot_SAP_000.pdf Fat-free cheddar cheese has an II of 20 https://ses.library.usyd.edu.au/handle/2123/11945
+	Cottage cheese	40	
+II for reduced-fat cottage cheese https://ses.library.usyd.edu.au/handle/2123/11945
+II for low-fat cottage cheese is 52 https://ses.library.usyd.edu.au/handle/2123/11945
+	Cream cheese	18	
+https://ses.library.usyd.edu.au/handle/2123/11945
+	Milk	34	
+https://ses.library.usyd.edu.au/handle/2123/11945
+24 here https://clinicaltrials.gov/ProvidedDocs/93/NCT03387293/Prot_SAP_000.pdf II for whole milk is 33 https://www.researchgate.net/publication/26770180 II for skim milk is 60 https://ses.library.usyd.edu.au/handle/2123/11945
+	Chocolate milk	46	
+https://ses.library.usyd.edu.au/handle/2123/11945
+86 in this study https://academic.oup.com/jn/article/133/10/3149/4687533 81 here https://polyols-eu.org/wp-content/uploads/Publication.pdf
+	Egg	23	
+https://clinicaltrials.gov/ProvidedDocs/93/NCT03387293/Prot_SAP_000.pdf
+II is 31 for poached egg https://academic.oup.com/ajcn/article/66/5/1264/4655967
+	Butter	2	
+https://ses.library.usyd.edu.au/handle/2123/11945
+The fat type (sunflower oil or butter) does not affect the II value https://watermark.silverchair.com/4w0803002577.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAskwggLFBgkqhkiG9w0BBwagggK2MIICsgIBADCCAqsGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQ
+	Powdered milk	75-95	
+https://www.mdpi.com/2072-6643/5/1/23/htm
+	Soft serve	89	
+II for vanilla ice cream https://academic.oup.com/ajcn/article/66/5/1264/4655967
+	Ice cream sandwich	N/A	
+II for vanilla ice cream is 89.
+	American cheese	42	
+II for low-fat processed cheese https://ses.library.usyd.edu.au/handle/2123/11945
+	Yogurt	46	
+https://ses.library.usyd.edu.au/handle/2123/11945
+115 for strawberry fruit yogurt https://clinicaltrials.gov/ProvidedDocs/93/NCT03387293/Prot_SAP_000.pdf II for low fat strawberry yogurt is 84 https://clinicaltrials.gov/ProvidedDocs/93/NCT03387293/Prot_SAP_000.pdf 64 for peach-mango frozen yogurt https:/
+	Vinegar	N/A	
+Lowers the II of white wheat bread https://www.researchgate.net/publication/7729967 https://www.researchgate.net/publication/10758390
+	Baby food	N/A	
+The II of baby milk formula is 94 https://www.nature.com/articles/ejcn201529?WT.ec_id=EJCN-201508&spMailingID=49261214&spUserID=ODkwMTM2NjI5MQS2&spJobID=740955785&spReportId=NzQwOTU1Nzg1S0
+	Cooking oil	3	
+https://ses.library.usyd.edu.au/handle/2123/11945
+	Sunflower oil	N/A	
+The fat type (sunflower oil or butter) does not affect the II value https://watermark.silverchair.com/4w0803002577.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAskwggLFBgkqhkiG9w0BBwagggK2MIICsgIBADCCAqsGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQ
+	Chicken meat	23	
+II for roast chicken https://www.researchgate.net/publication/26770180
+17 here https://ses.library.usyd.edu.au/handle/2123/11945
+	Barbecue chicken	23	
+II for roast chicken https://www.researchgate.net/publication/26770180
+17 here https://ses.library.usyd.edu.au/handle/2123/11945
+	Lentil soup	N/A	
+The II for lentil soup is 42 https://ses.library.usyd.edu.au/bitstream/handle/2123/11945/Bell_KJ_thesis_2.pdf?sequence=2&isAllowed=y
+	Broth	N/A	
+The II of white rice with chicken broth is 87 https://www.researchgate.net/publication/270676832
+	Chicken soup	N/A	
+II for roast chicken is 23 https://www.researchgate.net/publication/13872119
+	Fish soup	N/A	
+II for white fish is 59. https://www.researchgate.net/publication/13872119
+	Fish sauce	N/A	
+II for white fish is 59. https://www.researchgate.net/publication/13872119
+	Tomato soup	N/A	
+II for tomato sauce is 41 https://ses.library.usyd.edu.au/handle/2123/11945
+	Bologna sausage	11	
+https://ses.library.usyd.edu.au/handle/2123/11945
+	Hot dog	16	
+https://ses.library.usyd.edu.au/handle/2123/11945
+	Porridge	40	
+https://academic.oup.com/ajcn/article/66/5/1264/4655967
+29 here https://ses.library.usyd.edu.au/handle/2123/11945
+	Oatmeal	40	
+The II for oatmeal porridge https://academic.oup.com/ajcn/article/66/5/1264/4655967
+	Cereal	75	
+II for cornflakes https://academic.oup.com/ajcn/article/66/5/1264/4655967
+23 here https://clinicaltrials.gov/ProvidedDocs/93/NCT03387293/Prot_SAP_000.pdf
+	Apple	59	
+II for Red Delicious apples https://academic.oup.com/ajcn/article/66/5/1264/4655967
+43 here https://clinicaltrials.gov/ProvidedDocs/93/NCT03387293/Prot_SAP_000.pdf
+	Dried fruit	N/A	
+The II for raisinins is 42 https://www.researchgate.net/publication/26770180
+	Avocado	6	
+https://www.researchgate.net/publication/26770180
+	Banana	81	
+II for Cavendish bananas https://academic.oup.com/ajcn/article/66/5/1264/4655967
+59 here https://clinicaltrials.gov/ProvidedDocs/93/NCT03387293/Prot_SAP_000.pdf 68 here https://polyols-eu.org/wp-content/uploads/Publication.pdf
+	Dates	64	
+https://www.researchgate.net/publication/256665818
+	Common fig	N/A	
+Fig extract reduces the II value https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6722713/
+	Grape	82	
+II for black grapes, Waltham cross https://academic.oup.com/ajcn/article/66/5/1264/4655967
+	Mango	112	
+https://www.researchgate.net/publication/247204692
+	Melon	127	
+II for honeydew melon https://www.researchgate.net/publication/26770180
+	Orange	60	
+II for Navel oranges https://academic.oup.com/ajcn/article/66/5/1264/4655967
+44 here https://ses.library.usyd.edu.au/handle/2123/11945
+	Orange juice	55	
+https://ses.library.usyd.edu.au/handle/2123/11945
+	Mandarin orange	60	
+Falls in a large range https://synapse.koreamed.org/articles/1043926
+	Papaya	129	
+https://www.researchgate.net/publication/247204692
+	Peach	39	
+https://ses.library.usyd.edu.au/handle/2123/11945
+45 for canned https://ses.library.usyd.edu.au/handle/2123/11945
+	Pear	45	
+Falls in a large range https://synapse.koreamed.org/articles/1043926
+	Persimmon	47	
+Falls in a large range https://synapse.koreamed.org/articles/1043926
+	Raisin	42	
+https://www.researchgate.net/publication/26770180
+38 here https://www.researchgate.net/publication/265391479
+	Watermelon	84	
+Falls in a large range https://synapse.koreamed.org/articles/1043926
+	Clementine	N/A	
+The II for tangerine is 60 https://synapse.koreamed.org/articles/1043926
+	Pork	19	
+II for grilled pork https://ses.library.usyd.edu.au/handle/2123/11945
+	Pork chop	19	
+II for grilled pork https://ses.library.usyd.edu.au/handle/2123/11945
+	Meat	19	
+II for grilled pork https://ses.library.usyd.edu.au/handle/2123/11945
+	Ham	19	
+II for shaved ham https://ses.library.usyd.edu.au/handle/2123/11945
+	Navy bean	120	
+II for canned navy beans in tomato sauce https://academic.oup.com/ajcn/article/66/5/1264/4655967
+	Broccoli	29	
+https://ses.library.usyd.edu.au/handle/2123/11945
+	Carrot	42	
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3127522/
+44 here https://ses.library.usyd.edu.au/handle/2123/11945
+	Cassava	N/A	
+II for cassava dough, cassava chips and cassava flakes https://www.ffhdj.com/index.php/ffhd/article/view/772/1371
+	Cauliflower	48	
+II for steamed cauliflower https://ses.library.usyd.edu.au/handle/2123/11945
+	Maize	53	
+https://www.researchgate.net/publication/26770180
+	Pea	37	
+II for steamed, frozen peas https://ses.library.usyd.edu.au/handle/2123/11945
+	Potato	121	
+II for boiled Russet potatoes https://academic.oup.com/ajcn/article/66/5/1264/4655967
+	Gratin	N/A	
+The II for boiled potatoes is 121.
+	Pumpkin	77	
+II for butternut pumpkin https://ses.library.usyd.edu.au/handle/2123/11945
+	Spinach	N/A	
+Lowers the II of white rice https://www.researchgate.net/publication/270676832
+	Sweet potato	96	
+II fot steamed orange sweet potato https://ses.library.usyd.edu.au/handle/2123/11945
+	Taro	73	
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2957607/
+	Yam	64	
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2957607/
+	Mexican tea	N/A	
+The II for the Mexican herb nopal is 36 https://www.researchgate.net/publication/264868472
+	Walnut	7	
+https://www.researchgate.net/publication/26770180
+	Beef tenderloin	51	
+II for topside lean beef steak https://academic.oup.com/ajcn/article/66/5/1264/4655967
+	Flank steak	51	
+II for topside lean beef steak https://academic.oup.com/ajcn/article/66/5/1264/4655967
+	Beer	20	
+https://ses.library.usyd.edu.au/handle/2123/11945
+130 here https://academic.oup.com/ajcn/article/96/1/44/4571450
+	White wine	3	
+https://ses.library.usyd.edu.au/handle/2123/11945
+	Tea	N/A	
+II for ice tea is 95 https://www.researchgate.net/publication/26770180
+	Coca-Cola	60	
+https://www.researchgate.net/publication/26770180
+	Distilled beverage	1	
+II for 40% gin https://ses.library.usyd.edu.au/handle/2123/11945
+	Cod	59	
+II for white fish https://academic.oup.com/ajcn/article/66/5/1264/4655967
+	Haddock	59	
+II for white fish https://academic.oup.com/ajcn/article/66/5/1264/4655967
+	Halibut	59	
+II for white fish https://academic.oup.com/ajcn/article/66/5/1264/4655967
+	Alaska pollock	59	
+II for white fish https://academic.oup.com/ajcn/article/66/5/1264/4655967
+	Swordfish	59	
+II for white fish https://academic.oup.com/ajcn/article/66/5/1264/4655967
+	Tuna	22	
+https://www.researchgate.net/publication/26770180
+II for tuna in oil is 16. II for tuna in water is 26 https://ses.library.usyd.edu.au/handle/2123/11945
+	Bass	59	
+II for white fish https://academic.oup.com/ajcn/article/66/5/1264/4655967
+	Baked beans	88	
+https://ses.library.usyd.edu.au/handle/2123/11945
+II for canned navy beans in tomato sauce is 120https://academic.oup.com/ajcn/article/66/5/1264/4655967
+	Kidney bean	69	
+II for dried kidney beans https://www.researchgate.net/publication/19614236
+	Bean	34	
+II for four bean mix https://ses.library.usyd.edu.au/handle/2123/11945
+88 for baked beans https://ses.library.usyd.edu.au/bitstream/handle/2123/11945/Bell_KJ_thesis_2.pdf?sequence=2&isAllowed=y
+	Chickpea	N/A	
+The II for hummus is 52 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4730744/ The II for chickpeas with Lebanese bread is 243 https://www.researchgate.net/publication/19880445
+	Lentil	58	
+II for lentils served in tomato sauce https://academic.oup.com/ajcn/article/66/5/1264/4655967
+103 here https://www.researchgate.net/publication/19614236
+	Cellophane noodles	38	
+II for mung bean noodles https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2957607/
+	Peanut	20	
+https://academic.oup.com/ajcn/article/66/5/1264/4655967
+17 here https://polyols-eu.org/wp-content/uploads/Publication.pdf
+	Soy milk	10	
+https://www.medigraphic.com/pdfs/revinvcli/nn-2006/nn065j.pdf
+The II of white bread with soy milk is 111 https://www.researchgate.net/publication/6608811
+	Hummus	52	
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4730744/
+	Peanut butter	15	
+https://www.researchgate.net/publication/26770180
+	Tofu	21	
+https://ses.library.usyd.edu.au/handle/2123/11945
+	Lamb and mutton	21	
+II for grilled lamb https://ses.library.usyd.edu.au/handle/2123/11945
+	Biscuit	48	
+II for plain arrowroot biscuit https://ses.library.usyd.edu.au/handle/2123/11945
+	Bread	100	
+II for fresh white bread from wheat flour https://academic.oup.com/ajcn/article/66/5/1264/4655967
+II for whole-meal bread is 96, and II for grain bread is 56.
+	White Bread	100	
+II for fresh white bread from wheat flour https://academic.oup.com/ajcn/article/66/5/1264/4655967
+82 here https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6770275/
+	Chocolate cake	82	
+II for chocolate cake with frosting https://academic.oup.com/ajcn/article/66/5/1264/4655967
+88 in this study https://academic.oup.com/jn/article/133/10/3149/4687533
+	Gingerbread	73	
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6770275/
+	Pound cake	N/A	
+The II for vanilla cake is 67 https://www.researchgate.net/publication/5607016_
+	Chocolate brownie	60	
+https://ses.library.usyd.edu.au/handle/2123/11945
+	Butter cookie	N/A	
+II for cookies is 62 or 58 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6770275/
+	Saltine cracker	87	
+II for water crackers https://academic.oup.com/ajcn/article/66/5/1264/4655967
+	Cracker	87	
+II for water crackers https://academic.oup.com/ajcn/article/66/5/1264/4655967
+71 in here https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6770275/
+	Croissant	79	
+https://academic.oup.com/ajcn/article/66/5/1264/4655967
+	French toast	79	
+https://pubmed.ncbi.nlm.nih.gov/2841177/
+	Muffin	69	
+https://ses.library.usyd.edu.au/handle/2123/11945
+	Pancake	58	
+https://ses.library.usyd.edu.au/handle/2123/11945
+	Sweet roll	42	
+II for cinnamon swirl pastry https://ses.library.usyd.edu.au/handle/2123/11945
+	Baker's yeast	N/A	
+The II for Einkorn yeast bread is 98 https://www.nature.com/articles/1601680.pdf?origin=ppub
+	Chocolate chip cookie	92	
+https://academic.oup.com/ajcn/article/66/5/1264/4655967
+33 or 67 here https://ses.library.usyd.edu.au/handle/2123/11945
+	Apple pie	47	
+https://ses.library.usyd.edu.au/handle/2123/11945
+	Pretzel	102	
+https://www.nature.com/articles/ejcn20169/tables/2
+74 for fat-free pretzels https://ses.library.usyd.edu.au/handle/2123/11945 79 for wheat pretzel, 75 for soy pretzel https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3686824/
+	White chocolate	63	
+https://academic.oup.com/jn/article/133/10/3149/4687533
+	Ice cream	89	
+https://academic.oup.com/ajcn/article/66/5/1264/4655967
+65 here https://ses.library.usyd.edu.au/handle/2123/11945 69 for vanilla ice cream
+	Sherbet	89	
+https://ses.library.usyd.edu.au/handle/2123/11945
+	Jelly bean	160	
+https://academic.oup.com/ajcn/article/66/5/1264/4655967
+117 here https://ses.library.usyd.edu.au/handle/2123/11945
+	Candy bar	37	
+The II for a Snickers bar https://ses.library.usyd.edu.au/handle/2123/11945
+	Cocoa bean	N/A	
+Cococa powder increases II https://www.researchgate.net/publication/5607016_
+	Custard	57	
+https://ses.library.usyd.edu.au/handle/2123/11945
+	Pudding	80	
+https://academic.oup.com/jn/article/133/10/3149/4687533
+	Rice pudding	62	
+II for vanilla pudding https://academic.oup.com/jn/article/133/10/3149/4687533
+	Chocolate ice cream	71	
+https://academic.oup.com/jn/article/133/10/3149/4687533
+	MARS	122	
+https://academic.oup.com/ajcn/article/66/5/1264/4655967
+	Honey	62	
+II for 7 types of honey https://www.researchgate.net/publication/236880818
+	Fruit preserves	85	
+II for raspberry jam https://www.researchgate.net/publication/26770180
+	Molasses	N/A	
+Decreases II response https://www.researchgate.net/publication/267871575
+	Brown sugar	83	
+II for sucrose https://www.nature.com/articles/1600666.pdf?origin=ppub
+	Corn syrup	N/A	
+The II for high-fructose corn syrup is 65 https://www.researchgate.net/publication/267871575
+	Snickers	37	
+https://ses.library.usyd.edu.au/handle/2123/11945
+	Potato chip	61	
+https://academic.oup.com/ajcn/article/66/5/1264/4655967
+45 here https://ses.library.usyd.edu.au/handle/2123/11945
+	Chocolate	34	
+II for milk chocolate https://ses.library.usyd.edu.au/handle/2123/11945
+102 here https://polyols-eu.org/wp-content/uploads/Publication.pdf https://www.pnfs.or.kr/journal/view.html?uid=1409&vmd=Full
+	Sugar substitute	35	
+II for malitol https://pubmed.ncbi.nlm.nih.gov/19087388/
+	Barley	46	
+https://www.nature.com/articles/ejcn201128/tables/3
+70 here https://www.researchgate.net/publication/10758390 71 here https://www.researchgate.net/publication/21344061
+	Cornmeal	N/A	
+https://www.researchgate.net/publication/238715976_
+	Couscous	84	
+https://ses.library.usyd.edu.au/handle/2123/11945
+	Millet	104	
+II for pearl millet https://www.researchgate.net/publication/21344061
+	Bran	51	
+The II value for an oat product containing 45g of oat bran https://www.nature.com/articles/1602561/tables/2
+	Brown rice	62	
+https://academic.oup.com/ajcn/article/66/5/1264/4655967
+81 here https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2957607/
+	Oat	75	
+The II value for an oat product containing 6g of oat starch https://www.nature.com/articles/1602561/tables/2
+	Rice	79	
+https://academic.oup.com/ajcn/article/66/5/1264/4655967
+IIs for Basmati and Jasmine rice are 57 and 76 https://pubmed.ncbi.nlm.nih.gov/25789978/
+	Rye	N/A	
+Rye bread has an II of 73 https://nutritionj.biomedcentral.com/articles/10.1186/1475-2891-8-42/tables/5
+	Tagliatelle	42	
+II for long pasta https://www.scielo.cl/scielo.php?script=sci_arttext&pid=S0717-75182010000400008
+	Pasta	40	
+https://academic.oup.com/ajcn/article/66/5/1264/4655967
+29 here https://ses.library.usyd.edu.au/handle/2123/11945
+	Noodle	22	
+II for Hokkien noodles https://ses.library.usyd.edu.au/handle/2123/11945
+	Spaghetti	46	
+The II for semolina spaghetti https://www.mdpi.com/2072-6643/13/2/451
+42 here https://www.researchgate.net/publication/10758390 61 here https://www.nature.com/articles/1600718.pdf?origin=ppub
+	Semolina	N/A	
+The II for semolina spaghetti is 53 https://www.mdpi.com/2072-6643/13/2/451/pdf
+	Taco	24	
+https://ses.library.usyd.edu.au/handle/2123/11945
+	Coleslaw	20	
+https://ses.library.usyd.edu.au/handle/2123/11945
+	French fries	74	
+https://academic.oup.com/ajcn/article/66/5/1264/4655967
+54 or 57 here https://ses.library.usyd.edu.au/handle/2123/11945
+	Mashed potato	118	
+https://www.cambridge.org/core/journals/british-journal-of-nutrition/article/protein-and-fat-modify-the-glycaemic-and-insulinaemic-responses-to-a-mashed-potatobased-meal/51D3162EA04C1473FD5C59C450CD0E9D
+	Pizza	64	
+https://www.researchgate.net/publication/26770180
+47 for cheese pizza https://ses.library.usyd.edu.au/handle/2123/11945
+	Chicken fingers	41	
+II for chicken nuggets https://ses.library.usyd.edu.au/handle/2123/11945
+	Lasagne	34	
+II for beef lasagne https://ses.library.usyd.edu.au/handle/2123/11945
+	Fettuccine	N/A	
+The II for long pasta is 42. https://www.scielo.cl/scielo.php?script=sci_arttext&pid=S0717-75182010000400008
+	Penne	N/A	
+The II for short pasta is 118 https://www.scielo.cl/scielo.php?script=sci_arttext&pid=S0717-75182010000400008
+	Rib eye steak	51	
+II for topside lean beef steak https://academic.oup.com/ajcn/article/66/5/1264/4655967
+	Steak	51	
+II for topside lean beef steak https://academic.oup.com/ajcn/article/66/5/1264/4655967
+	Beefsteak	51	
+II for topside lean beef steak https://academic.oup.com/ajcn/article/66/5/1264/4655967
+37 for grilled beaf steak https://ses.library.usyd.edu.au/handle/2123/11945
+	Beef	51	
+II for topside lean beef steak https://academic.oup.com/ajcn/article/66/5/1264/4655967
+	Tortilla	36	
+https://ses.library.usyd.edu.au/handle/2123/11945
+	Rose hip	N/A	
+Reduces II https://d-nb.info/1098714520/34 The II of a fermented oatmilk drink with rose hip is 71 https://nutritionj.biomedcentral.com/articles/10.1186/s12937-018-0335-0/tables/3
+	Juice	55	
+https://ses.library.usyd.edu.au/handle/2123/11945
+II for apple juice is 64 https://www.researchgate.net/publication/26770180
+	Vermicelli	N/A	
+The II for spaghetti is 46 https://www.mdpi.com/2072-6643/13/2/451/pdf
+	Tomato sauce	41	
+https://ses.library.usyd.edu.au/handle/2123/11945
+	Vegetable oil	3	
+II for olive oil https://ses.library.usyd.edu.au/handle/2123/11945
+DOWNLOAD PDF
+Article author photo Victoria Mazmanyan
+Collected & medically reviewed by: Victoria Mazmanyan
+Education: General Medicine at YSMU
+Last updated: September 20, 2021
+DMCA.com Protection Status DMCA.com Protection Status
+    
+en ru hy
+About us Contact us Privacy Policy Terms & Conditions Report a problem
+Copyright ©FoodStruct 2016 - 2021

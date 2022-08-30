@@ -1,0 +1,36 @@
+E
+double knife hands
+head punch
+
+W
+double knife hands
+head punch
+
+S
+low block
+head punch
+head punch
+*head punch
+
+W
+double high block
+head punch
+
+E
+double high block
+head punch
+
+N
+low block / high block
+high block
+high block
+high block
+
+E
+knife hand
+head punch
+
+W
+knife hand
+head punch
+
