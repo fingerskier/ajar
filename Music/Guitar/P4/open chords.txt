@@ -1,0 +1,6 @@
+E ~ EG#B, CEG, AC#E
+A ~ ACE, FAC, DF#A
+D ~ DF#A, BD#F#, GBD
+G ~ GBD, EbGBb, CEG
+C ~ CFA, AbCEb, FAC
+F ~ 
