@@ -25,3 +25,20 @@ A cell's nucleus (or a virus' capsid) contains DNA with 50ATM of pressure
   - the most likely structure is the one with the most bonds; i.e. no free strands of DNA
   - a corellary to this is that each of ACTG can only bond with one other nucleotide
   
+
+Proteins have [at least] 20 amino acid building blocks
+- named with english letters
+
+Enzyme ~ ?active protein?
+
+Native Fold
+- one arrangement of C bridges that occurs most of the time (99%)
+- a sort of thermodynamic equilibrium of the sub-system of protein molecules
+  ? this assumes that the native fold is the lowest energy state; this can't be the case because the environment plays a role which could reverse entropy in the protein
+
+Bridges
+- molecular connections that form between points on the protein's chain of molecules
+- C, hydrogen, salt, &pi;-&pi;
+
+Mining protein configurations involves calculating the 3D angles of molecular bonds in a certain configuration.  Why is this valid?  Does this tell us anything about the usefulness of a certain protein configuration?
+

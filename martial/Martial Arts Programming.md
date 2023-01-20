@@ -2,21 +2,21 @@ Martial Arts Program
 
 
 6 Keys
-- Athleticism
+- Technique
 - Power
 - Mobility
-- Technique
+- Agility
 - Combat
 - Rest
 
 Concentrate on one of these keys each day.
-Perhaps do a secondary key after the first.
 
 
 e.g.
 
-Athleticism
+Agility
 ===========
+*Athleticism
 Skipping
 Lunges
 Wheelbarrows
@@ -32,20 +32,23 @@ Plyo push-up
 One-leg squat
 Nordic curl
 Pull-up
+Back-bridge
+Inchworm
 
 
 Mobility
 ========
 Shoulder rolls
+90-90
 Shrimping
-Clamshells
-Table-tops
+Beast kick-through
+Cossack squat w/ hands down
 
 
 Technique
 =========
 Focus pad kicks & punches
-Kata/forms
+Forms
 
 
 Combat
