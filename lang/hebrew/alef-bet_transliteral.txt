@@ -1,0 +1,40 @@
+a   alef      א
+b   bet       
+g   gimel
+d   daled
+h   hey       הִ
+v   vav       וַ
+x   tsayin    זְ
+k   chet      תַּ
++   tet       
+'   yod       יֹּ
+c   khaf      כִּ 
+l   lamed     לֹ
+m   mem       מֶ ם
+n   nun
+s   samekh
+y   ayin      ץ ע
+p   pe
+z   tzade
+q   qof
+r   resh      ר
+$   shin
+t   tav
+
+
+
+
+e f i j o u w
+
+
+prefixes
+  at ~ also
+  v ~ and
+  l ~ to/for
+  la ~ not
+  h ~ of/was/is
+  b ~ in/over
+  yl ~ on/upon
+  lm ~ by
+  cl ~ every
+  c' ~ that

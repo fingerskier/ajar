@@ -18,6 +18,25 @@ Rest
 
 ====
 
+Repetition cadence:
+  3 eccentric
+  1 concentric
+  2 isometric
+
+====
+
+Skill/Technique
+Speed
+Power
+Strength
+Hypertrophy
+Endurance
+Anerobic capacity
+Aerobic capacity
+Steady state
+
+====
+
 
 1RM ~ One Rep Max
 
