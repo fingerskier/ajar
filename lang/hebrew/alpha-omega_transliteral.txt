@@ -24,22 +24,54 @@ ps
 w
 
 
-auto ~ [self]
-estin ~ is
-tous ~ this
-ei ~ are
-ep ~ on
-eme ~ me
+auto ~ [self]; I/them
+de ~ not
+ean ~ ?than?
 egw ~ I
-ev ~ in
+ei ~ are
+eis ~ on
+eme/emo ~ me/my
+en ~ in
+ep ~ on
+estin ~ is
 h ~ of
+ina ~ to
 kai ~ and
+mou ~ mine
 my ~ don't
-o ~ whom
+o ~ whom/who/whose
+ou ~ no
+oik ~ don't/doesn''t
+sou ~ you/your
 tade ~ this
 ti ~ what
-to ~ the
+ta/to/ai ~ the
+tous ~ this
 tw ~ to
+twn ~ ?your?
 tyn ~ with/which
 tys ~ of
-ws ~ like
+umin ~ you
+ws ~ like/as
+
+====
+
+chrono ~ time
+didaxy ~ teach
+doulos ~ servant
+dwsw ~ give
+ego ~ self
+ergon ~ works
+erxomai ~ coming
+eschatos ~ end-times
+ethnon ~ nations
+idolothutos ~ idols' sacrifices
+kratys ~ follow
+meta ~ after
+metanoyson ~ repent/change
+omoi ~ similar
+outw ~ self
+porneia ~ pornography
+proto ~ first
+taxu ~ quickly
+tekna ~ children

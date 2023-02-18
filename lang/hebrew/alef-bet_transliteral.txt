@@ -28,13 +28,40 @@ e f i j o u w
 
 
 prefixes
+  al ~ unto
   at ~ also
-  v ~ and
+  b ~ in/over/with/?when
+  c ~ like/but
+  c' ~ that
+  cl ~ all
+  h ~ of/was/is/be
   l ~ to/for
   la ~ not
-  h ~ of/was/is
-  b ~ in/over
-  yl ~ on/upon
   lm ~ by
-  cl ~ every
-  c' ~ that
+  m ~ of
+  n ~ take?
+  t ~ may?
+  v ~ and
+  y' ~ unto
+  yl ~ on/upon
+
+suffixes
+  ' ~ I/mine
+  d ~ you/thee
+  h ~ to/[possesive]
+
+
+====
+
+alh'm - god
+bar ~ son
+g'l ~ rejoice
+'hvh - God's name
+hnh ~ behold
+l' ~ to me
+ms'k ~ annointed
+rvk ~ wind
+mlc ~ king
+rxn ~ ruler 
+qds' ~ holy
+'vm ~ day
