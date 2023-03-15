@@ -1,40 +1,82 @@
-a   alef      א
-b   bet       
-g   gimel
-d   daled
-h   hey       הִ
-v   vav       וַ
-x   tsayin    זְ
-k   chet      תַּ
+
+Michigan-Clairmont transliteration
+
+ 
+ A = Alef  
+ B = Beit  
+ G = Gimmel 
+ D = Dalet 
+ 
+ H = Hey  
+ W = Waw
+ Z = Zain  
+ 
+ X = Chet  
+ + = Tet    
+ Y = Yud   
+ K = Kaf  
+ 
+ L = Lamed
+ M = Mem   
+ N = Nun   
+ 
+ S = Samech 
+ @ = Ayin  
+ P = Pey  
+ C = Tzadi
+ 
+ Q = Kuf   
+ R = Reish 
+ $ = Shin   
+ T = Tav
+
+====
+
+My modified transliteration scheme
+
+A   alef      א
+B   bet       
+G   gimel
+D   daled
+
+H   hey       הִ
+V   vav       וַ
+X   tsayin    זְ
+
+K   chet      תַּ
 +   tet       
 '   yod       יֹּ
-c   khaf      כִּ 
-l   lamed     לֹ
-m   mem       מֶ ם
-n   nun
-s   samekh
-y   ayin      ץ ע
-p   pe
-z   tzade
-q   qof
-r   resh      ר
+C   khaf      כִּ 
+
+L   lamed     לֹ
+M   mem       מֶ ם
+N   nun
+
+S   samekh
+Y   ayin      ץ ע
+P   pe
+Z   tzade
+
+Q   qof
+R   resh      ר
 $   shin
-t   tav
-
-
-
+T   tav
 
 e f i j o u w
 
+====
+
 
 prefixes
-  al ~ unto
+  A(T) ~ the/with
+  al ~ unto, not
   at ~ also
   b ~ in/over/with/?when
-  c ~ like/but
+  c ~ as / like/but
   c' ~ that
   cl ~ all
   h ~ of/was/is/be
+  ` ~ to
   l ~ to/for
   la ~ not
   lm ~ by
@@ -49,19 +91,54 @@ suffixes
   ' ~ I/mine
   d ~ you/thee
   h ~ to/[possesive]
+  'n ~ his/hers/theirs
 
 
 ====
 
 alh'm - god
+AKD ~ one
+AMD ~ mother
+asr ~ because/which
 bar ~ son
+BCRD ~ firstborn
+brch ~ blessing
+B'N ~ understand
+DYT ~ know
 g'l ~ rejoice
+gm ~ also
+GRGRVT ~ neck (i.e. garotte)
 'hvh - God's name
+'H'H ~ to-be
+hgdl ~ greatest/first
 hnh ~ behold
+H$CL ~ prudence
+hq+n ~ small
+K'DH ~ riddle
+'RAT ~ fear
 l' ~ to me
+LQK ~ teaching 
+MVSR ~ discipline
+M'$R'M ~ equity
+ML'ZH ~ satire
+MXMH ~ purpose/plot
 ms'k ~ annointed
+M$P+ ~ justice
+nps ~ soul
+NT'BH ~ path
+P'L ~ 
+PTA' PT' ~ simple
 rvk ~ wind
+m' ~ who
 mlc ~ king
+YD ~ until
+$kh ~ bow [down]
+$AVL ~ Sheol, grave
+$LL ~ spoil
 rxn ~ ruler 
 qds' ~ holy
 'vm ~ day
+TKBLH ~ counsel
+TNM ~ gratuitously
+ZDQ ~ righteousness
+z'd ~ wild game
