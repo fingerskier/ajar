@@ -25,6 +25,34 @@ ps
 w
 
 
+prefixes
+  a ~ lacking
+  pro ~ for/on-the-side-of
+  para ~ beside/beyond
+  homo ~ same
+  hetero ~ different
+  di/bi ~ two
+  geo ~ earth
+  hemi ~ half
+  electro ~ electric
+  anti ~ opposite
+  mono ~ one/sole/only
+  poly ~ many
+  tele ~ at a distance
+  hyper ~ extra/over
+  tri ~ three
+  neo ~ new
+  proto ~ first/original
+  hydro ~ water(y)
+  hypo ~ under/below
+  iso ~ equal
+  meta ~ along-with/beyond
+  mega ~ very large
+  micro ~ very small
+  idio ~ individual/unique
+  pyro ~ fire
+  auto ~ self
+
 a ~ which
 auto ~ [self]; I/them
 alla ~ but
@@ -38,6 +66,7 @@ ek ~ from
 eme/emo ~ me/my
 en ~ in
 ep/epi ~ on/upon
+epithymiad ~ desire
 estin ~ is
 h ~ of
 ina ~ to/have
@@ -127,9 +156,12 @@ pous ~ foot
 poian ~ type
 poieo ~ practice
 polis ~ city
+poreuo ~ travel
 porneia ~ pornography
 prokeintai ~ set-before
 proto ~ first
+stoma ~ mouth
+tautotys ~ identity
 taxu ~ quickly
 tekna ~ children
 tetyrys ~ guard(ing)

@@ -1,38 +1,5 @@
-
-Michigan-Clairmont transliteration
-
- 
- A = Alef  
- B = Beit  
- G = Gimmel 
- D = Dalet 
- 
- H = Hey  
- W = Waw
- Z = Zain  
- 
- X = Chet  
- + = Tet    
- Y = Yud   
- K = Kaf  
- 
- L = Lamed
- M = Mem   
- N = Nun   
- 
- S = Samech 
- @ = Ayin  
- P = Pey  
- C = Tzadi
- 
- Q = Kuf   
- R = Reish 
- $ = Shin   
- T = Tav
-
-====
-
-My modified transliteration scheme
+Transliteration scheme
+* modified from Michigan/Clairmont
 
 A   alef      א
 B   bet       
@@ -68,33 +35,46 @@ e f i j o u w
 
 
 prefixes
-  A(T) ~ the/with
-  al ~ unto, not
-  at ~ also
-  b ~ in/over/with/?when
-  c ~ as / like/but
-  c' ~ that
-  cl ~ all
-  h ~ of/was/is/be
+  B ~ in/with/by
+  C ~ as/like
+  H ~ the
+  M ~ from/out-of
+  V ~ and
   ` ~ to
-  l ~ to/for
-  la ~ not
-  lm ~ by
-  m ~ of
-  n ~ take?
-  t ~ may?
-  v ~ and
-  y' ~ unto
-  yl ~ on/upon
+  L ~ for/to
+
+  conjugations
+    A ~ I
+    ' ~ He
+    N ~ We
+    T ~ She
+  
+  others
+    H ~ interrogative
+    $ ~ that/which/whom
+    V ~ past <-> future
+
 
 suffixes
   ' ~ I/mine
-  d ~ you/thee
-  h ~ to/[possesive]
-  'n ~ his/hers/theirs
+  D ~ you/thee
+  H ~ his/hers
+  'HM ~ theirs
+  'N ~ his/hers/theirs
 
 
 ====
+
+A(T) ~ the/with
+AL ~ unto, not
+AT ~ also
+C' ~ for/that
+CL ~ all
+LA ~ not
+LM ~ by
+YD ~ til/until
+Y' ~ unto
+YL ~ on/upon
 
 alh'm - god
 AKD ~ one
@@ -102,22 +82,29 @@ AMD ~ mother
 asr ~ because/which
 bar ~ son
 BCRD ~ firstborn
+BYL ~ master
 brch ~ blessing
 B'N ~ understand
+BZY ~ covet
+DM ~ blood
 DYT ~ know
 g'l ~ rejoice
 gm ~ also
 GRGRVT ~ neck (i.e. garotte)
 'hvh - God's name
 'H'H ~ to-be
+'QK ~ fetch
 hgdl ~ greatest/first
 hnh ~ behold
 H$CL ~ prudence
 hq+n ~ small
 K'DH ~ riddle
+KCMH ~ wisdom
+KNM ~ nothing
 'RAT ~ fear
 l' ~ to me
 LQK ~ teaching 
+MHR ~ haste(n)
 MVSR ~ discipline
 M'$R'M ~ equity
 ML'ZH ~ satire
@@ -128,17 +115,22 @@ nps ~ soul
 NT'BH ~ path
 P'L ~ 
 PTA' PT' ~ simple
+PTK' ~ entrance
+RGL ~ foot
 rvk ~ wind
 m' ~ who
 mlc ~ king
 YD ~ until
 $kh ~ bow [down]
+$PD ~ pour
 $AVL ~ Sheol, grave
 $LL ~ spoil
+$NAV ~ hate
 rxn ~ ruler 
 qds' ~ holy
 'vm ~ day
 TKBLH ~ counsel
 TNM ~ gratuitously
+TTN ~ cry-out
 ZDQ ~ righteousness
 z'd ~ wild game
