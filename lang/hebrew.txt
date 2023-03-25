@@ -65,10 +65,10 @@ suffixes
 
 ====
 
-A(T) ~ the/with
 AL ~ unto, not
-AT ~ also
-C' ~ for/that
+AM ~ if
+AT ~ the/with/also
+C' ~ that/for
 CL ~ all
 LA ~ not
 LM ~ by

@@ -127,7 +127,7 @@ hymeras
 hypo ~ under
 hypomonys ~ 
 idolothutos ~ idols' sacrifices
-idou ~ 
+idou ~ look
 imatiois ~ clothing (imitation)
 kainos ~ new
 klepys ~ thief
@@ -165,6 +165,7 @@ tautotys ~ identity
 taxu ~ quickly
 tekna ~ children
 tetyrys ~ guard(ing)
+tezetai ~ birth
 thura ~ door
 tropos ~ way (i.e. trope)
 wras ~ hour
