@@ -87,6 +87,7 @@ brch ~ blessing
 B'N ~ understand
 BZY ~ covet
 DM ~ blood
+DR ~ way
 DYT ~ know
 g'l ~ rejoice
 gm ~ also
@@ -94,6 +95,7 @@ GRGRVT ~ neck (i.e. garotte)
 'hvh - God's name
 'H'H ~ to-be
 'QK ~ fetch
+'$R ~ upright
 hgdl ~ greatest/first
 hnh ~ behold
 H$CL ~ prudence
@@ -101,6 +103,7 @@ hq+n ~ small
 K'DH ~ riddle
 KCMH ~ wisdom
 KNM ~ nothing
+K$D ~ darkness
 'RAT ~ fear
 l' ~ to me
 LQK ~ teaching 
@@ -130,6 +133,7 @@ rxn ~ ruler
 qds' ~ holy
 'vm ~ day
 TKBLH ~ counsel
+TM ~ integrity
 TNM ~ gratuitously
 TTN ~ cry-out
 ZDQ ~ righteousness

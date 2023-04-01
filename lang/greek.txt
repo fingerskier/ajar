@@ -54,9 +54,10 @@ prefixes
   auto ~ self
 
 a ~ which
+apo ~ away/from
 auto ~ [self]; I/them
 alla ~ but
-de ~ not
+de ~ then
 ean ~ ?than?
 egw ~ I
 ei ~ are
@@ -73,6 +74,7 @@ ina ~ to/have
 kai ~ and
 kata ~ come (catabolic)
 met ~ after
+M$PT ~ justice
 mou ~ mine
 my ~ don't
 yn ~ which
