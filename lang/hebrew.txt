@@ -72,6 +72,7 @@ AT ~ the/with/also
 C' ~ that/for
 CL ~ all
 LA ~ not
+LD ~ for-you
 LM ~ by
 YD ~ til/until
 Y' ~ unto
