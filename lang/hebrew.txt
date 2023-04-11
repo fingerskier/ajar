@@ -71,6 +71,8 @@ AM ~ if
 AT ~ the/with/also
 C' ~ that/for
 CL ~ all
+DY ~ know
+KN ~ favor
 LA ~ not
 LD ~ for-you
 LM ~ by

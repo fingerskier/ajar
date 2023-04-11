@@ -27,6 +27,7 @@ w
 
 prefixes
   a ~ lacking
+  auto ~ self
   pro ~ for/on-the-side-of
   para ~ beside/beyond
   homo ~ same
@@ -38,7 +39,6 @@ prefixes
   anti ~ opposite
   mono ~ one/sole/only
   poly ~ many
-  tele ~ at a distance
   hyper ~ extra/over
   tri ~ three
   neo ~ new
@@ -51,7 +51,7 @@ prefixes
   micro ~ very small
   idio ~ individual/unique
   pyro ~ fire
-  auto ~ self
+  tele ~ at a distance
 
 a ~ which
 apo ~ away/from
