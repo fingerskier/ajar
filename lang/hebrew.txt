@@ -62,6 +62,7 @@ suffixes
   'HM ~ theirs
   'N ~ his/hers/theirs
   N ~ paragogic/emphasis
+  V ~ his/hers
 
 
 ====
