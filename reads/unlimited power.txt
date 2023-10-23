@@ -39,3 +39,34 @@ evaluate feedback
 refine
 
 
+
+belief = perception filters
+
+Generators:
+- Environment
+- Events
+- Knowledge
+- Past Results
+- Imagination
+
+CHANGE
+
+Past limiting beliefs
+1. Not talents enough
+2. Not educated enough
+3. Too old
+4. Too wicked
+
+Potential > Action
+    ^          v
+ Belief   < Results 
+
+Belief = self-fulfilling prophecy = a propensity for, not a guarantee of, success
+
+Beliefs of Success
+1. Everything happens for a reason
+2. There is no failure, only Results
+3. Whatever happens, take responsibility
+
+Modeling Process
+1. Establish beliefs
