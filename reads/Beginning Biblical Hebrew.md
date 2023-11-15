@@ -75,3 +75,52 @@ Nouns
       certain expressions of time
         'VM'M ~ two days, fd
         'VM ~ day, fs
+
+A B G D  H V X
+K + ' C  L M N
+S Y P Z  Q R $ T
+
+HM / HMH ~ they, m
+HNH ~ they, f
+ATM ~ you, mp
+ATN / ATNH ~ you, fp
+ANKNV ~ we
+HVA ~ he, it
+H'A ~ she, it
+ATH ~ you, ms
+AT ~ you, fs
+AN' / ANC' ~ I
+
+
+Revised transliteration:
+ Letters:
+  A
+  B / b
+  G
+  D
+  H
+  V
+  X
+  K
+  +
+  '
+  C / c
+  L
+  M
+  N
+  $
+  Y
+  P / p
+  Z
+  Q
+  R
+  S / s
+  T
+ 
+ Vowels:
+  none ~ none, or shortest class
+  . ~ short like 'ah'
+  .. ~ medium like 'ih'
+  | ~ long like 'uh'
+  _ ~ long like 'oo'
+  
