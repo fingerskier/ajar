@@ -57,3 +57,8 @@ Vocative case - used for direct address
 a b  g d e z y th i  k l  m
 n xi o p r s t u  ph x ps w
 
+a b g d e z y th i k l m
+n xi o p r s t u ph xi ps w
+
+a b g d e z y th i k l m
+n xi o p r s t u ph x ps w

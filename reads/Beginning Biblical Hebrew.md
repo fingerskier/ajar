@@ -119,8 +119,58 @@ Revised transliteration:
  
  Vowels:
   none ~ none, or shortest class
-  . ~ short like 'ah'
-  .. ~ medium like 'ih'
-  | ~ long like 'uh'
-  _ ~ long like 'oo'
-  
+  .
+  _ 
+  |
+  e
+  i
+  o
+  u
+  ..
+  __
+  ||
+  .|
+  _|
+  |.
+  |_
+  _|
+  |_
+
+             | "a" | "i" | "u" |
+     long    |  a  |  i  |  u  | 
+     medium  | |_  |  .. |  _. |
+     short   |  _  |  .  |  |  |
+             |     |  e  | |_  |
+  very short | _.  |  e| | _|  |
+
+  ah  _
+  eh  v, ..
+  ih  .
+  oh  |_
+  oo  ._
+
+
+Pronouns:
+  AN' AB ~ I'm father
+  AB AN' ~ father I-am
+  H'A AM ~ she's mother
+  BN ATH ~ son you-are
+
+  subject and predicate agree in number and gender
+
+  BT AT ~ you're daughter
+  HM AL'M ~ they're gods
+
+
+The root word is the the word without vowels, prefixes, and suffixes.
+Words from the same root usually have related meanings.
+
+XRY
+XR_X._  he sowed
+X..R_Y  seed
+M.X..R_Y  sown land
+
+
+A Bb G D H V X
+K + ' Cc L M N
+$ Y PP Z Q R Ss T
