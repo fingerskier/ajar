@@ -11,7 +11,7 @@ V   vav       וַ
 X   tsayin    זְ
 
 K   chet      תַּ
-+   tet       
++   tet       טְ 
 '   yod       יֹּ
 Cc  kaf/kof   כִּ 
 
@@ -31,13 +31,15 @@ T   tav       תְּ
 
 Vowels follow the letter
   .
-  ..
   _
   |
+  ..
   _.
+  ._
+  __
   _|
   |_
-  ._
+  ||
   
   e.g. B.A.|R..s'T = בָּרָשִׁית  (in the beginning)
 

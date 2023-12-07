@@ -409,3 +409,9 @@ For all finite sets: |A x B| = |A| * |B|
 
 1.62) A = {nil, {nil}}, P(A) = {nil, {nil}, {{nil}}, {nil, {nil}}}
   A x P(A) = {(nil), (nil,{nil}), (nil,{{nil}}), (nil,{nil,{{nil}}}), (nil,{nil}), (nil,{nil,{nil}}), (nil,{{nil}}), (nil,{nil,{{nil}}})}
+
+1.63) A = {1,2}, B = {nil}
+  A x B = {{1,nil}, {2,nil}}
+  P(A) = {nil, {1}, {2}, {1,2}}
+  P(B) = {nil, {nil}}
+  P(A) x P(B) = {(nil), (nil,{nil}), ({1},nil), ({1},{nil}), ({2},nil), ({2},{nil}), ({1,2},nil), ({1,2},{nil})}
