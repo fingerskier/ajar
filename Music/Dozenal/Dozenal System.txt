@@ -28,12 +28,12 @@ Corresponding traditional keys
 X = G
 
 
-In the 0-key we have three major chords:
-	I	= 0   4  7
+In the 0-key we have these chords:
+	I	  = 0   4  7
 	ii	= 2  5   9
 	iii	= 4  7   X
 	IV	= 5   9  0
-	V	= 7   X  2
+	V	  = 7   X  2
 	vi	= 9  0   4
 	vii	= X  2  5
 =======
@@ -75,8 +75,23 @@ A dozenal guitar fingerboard
 7 = dominant
 8 = rub
 9 = harmony
-L = carry
-X = lead
+X = carry
+L = lead
+
+
+## Specifying music
+-------------------
+
+### Chords
+	8iii = 8 X 0
+
+### Octaves
+	there are N octaves, each of which start at 0 and end at L
+	+ = up
+	- = down
+	8+7 means 8 and the 7 above 8
+	as opposed to 87 which means 8 and the 7 in the same octave as it, which would be a half-step down
+
 
 
 ## Practical Usage

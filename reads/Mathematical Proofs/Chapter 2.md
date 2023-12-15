@@ -180,3 +180,115 @@ F | F | T
 P: earn an A on the final exam
 Q: earn an A in the course
 
+2.19) P: 17 is even; Q: 19 is prime
+  a) 17 is odd, T
+  b) F
+  c) F
+  d) 17 being even implies 19 is prime T
+
+2.20)
+  P | Q | P=>Q=>~P
+
+2.21) P: sqrt(2) is rational; Q: 22/7 is rational
+  a) T
+  b) F
+  c) F
+  d) F
+
+2.22) P: sqrt(2) is rational; Q: 2/3 is rational; R: sqrt(3) is rational
+  a) T
+  b) F
+  c) F
+  d) T
+
+2.23) {S1,S2} partition set of S, x in S
+  a) F
+  b) F
+  c) T
+  d) T
+  e) F
+
+2.24) A and B are nonempty, disjoint subsets of S; x in S
+  a) T
+  b) T
+  c) F
+  d) T
+  e) T
+  f) F
+
+2.25) P: A in calc1; Q: A in discrete
+      P and Q => calc2 or compsci
+  a) T
+  b) F
+  c) T
+  d) T
+  e) T
+
+2.26) if not today then tomorrow
+  a) F
+  b) T
+  c) F
+  d) F
+
+2.27) Alice, Ben, Cindy, Don
+  Ben will go if Alice does
+  Cindy will go if Ben does
+  Don will go it Cindy does
+  ...exactly two go, which two?
+
+  Ben => Alice
+  Cindy => Ben
+  Don => Cindy
+
+  Don & Cindy
+
+2.28) P: concert => dinner
+  a) F
+  b) T
+  c) T
+  d) T
+  e) F
+  f) T
+  g) T
+
+2.29) P, Q
+  ...which imply P or Q is false
+  a) T
+  b) F
+  c) T
+  d) T
+  e) T
+
+
+P1(x): x == -3
+P2(x): |x| == 3
+
+P1(x) => P2(x) for all x in R
+
+
+P(T): T is equilateral
+Q(T): T is isosceles
+S is the set of all triangles
+the domain of T is S
+
+premise implies conclusion
+hypothesis implies conclusion
+
+ex2.9)
+  P(n): n^2 - n + 1 is prime
+  Q(n): n^3 - n + 1 is prime
+  S = {2,3,5}
+
+  S | P | Q | P=>Q
+  =================
+  2 | T | T | T
+  3 | T | F | F
+  5 | F | F | T
+
+
+2.30) P(n): 5n+3 is prime;  Q(n): 7n+1 is prime
+  a) 5n+3 being prime implies that 7n+1 is prime
+  b) F
+  c) F
+
+
