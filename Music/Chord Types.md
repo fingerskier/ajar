@@ -17,8 +17,8 @@
 
 # Nomenclature 
 
-1st, root ~ changing the root changes the chord
-3rd, suspension ~ b2, 2, 3, 4
-5th, dominant ~ b5, 5, #5
-7th, lead ~ 6, b7, 7
-iii, inversion ~ the makeup of the triad (lead tone is always above)
+* 1st, root ~ changing the root changes the chord
+* 3rd, suspension ~ b2, 2, 3, 4
+* 5th, dominant ~ b5, 5, #5
+* 7th, lead ~ 6, b7, 7
+* iii, inversion ~ the makeup of the triad (lead tone is always above)
