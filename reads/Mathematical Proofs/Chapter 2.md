@@ -292,3 +292,342 @@ ex2.9)
   c) F
 
 
+2.31) determine P(x)=>Q(x) for x in S
+  a) -4,F; -3,T; 1,T; 4,T; 5,T
+  b) -6,T; -4,T; 0,T; 3,T; 4,T; 8,T
+  c) 0,T; 2,T; 3,T; 4,T; 6,T
+
+2.32) 
+  a) x = {x: x>=8 or x<7}
+  b) x = {x: x >= 0}
+  c) x = {x: x >= 0}
+  d) x = {-1}
+
+2.34)
+  a) If x = 3 - 2y, and x in Z, then y in Z
+  b) If x is odd then its square is odd
+  c) If 3n+7 is even then n is odd
+  d) If f(x)=cos(x) then f'(x)=-sin(x)
+  e) If C is a circle of circumference 4pi then its area is 4pi.
+  f) If n^3 is even then n is even
+
+
+Q=>P is the converse of P=>Q
+
+P<=>Q is the biconditional of P and Q
+...if and only if
+
+P | Q | P=>Q | Q=>P | P<=>Q
+============================
+T | T |  T   |  T   |   T
+T | F |  F   |  T   |   F
+F | T |  T   |  F   |   F
+F | F |  T   |  T   |   T
+
+2.35) P: 18 is odd; Q: 25 is even
+  18 is odd if and only if 25 is even;  P<=>Q is true
+
+2.36) P(x): x is odd; Q(x): x^2 is odd; x in Z
+  1) x is odd if and only if x^2 is odd for all integers
+  2) if x is odd this is necessary and sufficient to show that x^2 is odd (false)
+
+2.37)
+  1) |x-3| < 1 if and only if x is 2 or 4
+  2) x is either 2 or 4 if and only if |x-3| < 1
+
+2.38) P(x): x = -2; Q(x): x^2 = 4; x in {-2,0,2}
+  a) ~P(x) -> F, T, T
+  b) P(x) or Q(x) -> T, F, T
+  c) P(x) and Q(x) -> T, F, F
+  d) P(x) => Q(x) -> T, T, T 
+  e) Q(x) => P(x) -> T, T, F
+  f) P(x) <=> Q(x) -> T, T, F
+
+2.39)
+  a) {-4, 4}
+  b) {4, 6}
+  c) {4}
+
+2.40)
+  a) F, T, T
+  b) T, F, T
+  c) T, F, F, T
+
+2.41)
+  {F, F, F}
+
+2.42)
+  <=> when N is odd
+
+2.43)
+    | P | Q 
+  =========
+  1 | T | F
+  2 | T | F
+  3 | T | T
+
+  P!=>Q 1
+  Q!=>P nil
+  P<=>Q 3
+
+2.44)
+
+2.45)
+     | P | Q | P<=>Q
+  ==================
+  2  | T | T | T
+  3  | T | T | T
+  4  | F | F | T
+  5  | F | T | F
+  6  | F | F | F
+  11 | F | T | F
+
+
+Tautologies and Contradictions
+
+logical connectives
+  and
+  or
+  not
+  implies
+  if and only if
+
+component statements are also called atomic statements; they are either true or false by definition
+compound statements are composed of component statements; they are true or false depending on the value of their component statements
+
+a tautology is a statement that is true regardless of the truth values of its component statements
+
+e.g. P or not P
+e.g. !Q or P=>Q
+
+a contradiction is a statement that is false regardless of the truth values of its component statements
+
+
+P | Q | (P and Q) => (P or Q)
+=============================
+T | T | T
+T | F | T
+F | T | T
+F | F | T
+
+P | Q | (P and ~Q) <=> P=>Q
+=============================
+T | T | F
+T | F | F
+F | T | F
+F | F | F
+
+2.46)
+  P | Q | P => (P or Q)
+  ======================
+  T | T | T
+  T | F | T
+  F | T | T
+  F | F | T
+
+2.47)
+  P | Q | (P and ~Q) and (P and Q)
+  ==============================
+  T | T | F
+  T | F | F
+  F | T | F
+  F | F | F
+
+  P | Q | (P => ~Q) and (P and Q)
+  ==============================
+  T | T | F
+  T | F | F
+  F | T | F
+  F | F | F
+
+2.48)
+  P | Q | (P and (P => Q)) => Q
+  ==============================
+  T | T | T
+  T | F | T
+  F | T | T
+  F | F | T
+
+  modus ponens ~ affirming the antecedent
+  P with P implying Q implies Q
+  The former with the former implying the latter implies the latter
+
+2.49) 
+  P | Q | R | ((P=>Q) and (Q=>R)) => (P=>R)
+  =========================================
+  T | T | T | T
+  T | T | F | T
+  T | F | T | T
+  T | F | F | T
+  F | T | T | T
+  F | T | F | T
+  F | F | T | T
+  F | F | F | T
+
+syllogism ~ a form of reasoning in which a conclusion is drawn from two given or assumed propositions (premises); a common or middle term is present in the two premises but not in the conclusion, which may be invalid (e.g., all dogs are animals; all animals have four legs; therefore all dogs have four legs ).
+
+2.50) R is a tautology, S is a contradiction
+  a) R or S is a tautology
+  b) R and S is a contradiction
+  c) R => S is a contradiction
+  d) S => R is a tautology
+
+2.51)
+  P | Q | (P or Q) or (Q => P)
+  ============================
+  T | T | T
+  T | F | T
+  F | T | T
+  F | F | T
+  ...tautology
+
+2.52)
+  P | Q | ((P=>Q) => P) => (P => (Q=>P))
+  ============================
+  T | T | t,t,T
+  T | F | t,t,T
+  F | T | f,f,T
+  F | F | t,t,T
+
+
+Logical Equivalence, ==
+...logical reflexivity
+
+!P => !Q is the inverse of P => Q
+
+2.53)
+  P | Q | !P | !Q | !P => !Q | P => Q
+  ====================================
+  T | T | F  | F  | T         | T
+  T | F | F  | T  | T         | F
+  F | T | T  | F  | F         | T
+  F | F | T  | T  | T         | T
+
+2.54)
+  P | Q | ~(P or Q) | ~P or ~Q
+  ============================
+  T | T | F         | F
+  T | F | F         | T
+  F | T | F         | T
+  F | F | T         | T
+
+  the biconditional works
+
+2.55)
+  P | Q | (P or Q) <=> P | P => Q
+  ================================
+  T | T | T         | T
+  T | F | T         | F
+  F | T | F         | T
+  F | F | T         | T
+  ...not equivalent
+
+2.56)
+  P | Q | ~Q => (P and ~P)
+  ========================
+  T | T | T
+  T | F | F
+  F | T | T
+  F | F | F
+  ...this seems crazy...the implication of the inverse of _anything_ is some other thing contradicting itself?
+
+2.57)
+  P | Q | R | (P or Q) => R | (P => R) and (Q => R)
+  ================================================
+  T | T | T | T             | T
+  T | T | F | F             | F
+  T | F | T | T             | F
+  T | F | F | F             | F
+  F | T | T | T             | T
+  F | T | F | F             | F
+  F | F | T | F             | T
+  F | F | F | T             | T
+  ?! not equivalent but book says they should be...?
+
+2.58)
+  If two compound statements utilizing the same components are not logically equivalent then the logical operators must differ between.
+
+2.59)
+  If a group of compound statements are logically equivalent when the components all have the same logical value then they must have the same result at least twice because the result of any logical operation is binary and the they are the result of the same logical operations.
+
+
+Logical Commutivity
+
+P = ~(~P)
+P and Q = Q and P
+P or Q = Q or P
+
+
+Logical Associativity
+
+P or (Q or R) = (P or Q) or R
+P and (Q and R) = (P and Q) and R
+
+
+Logical Distributivity
+
+P or (Q and R) = (P or Q) and (P or R)
+P and (Q or R) = (P and Q) or (P and R)
+
+
+DeMorgan's Laws
+
+~(P or Q) = ~P and ~Q
+~(P and Q) = ~P or ~Q
+
+
+P | Q | ~(P => Q) | ~P => ~Q
+=============================
+T | T | F          | T
+T | F | T          | T
+F | T | F          | F
+F | F | F          | T
+
+
+2.60)
+  P | Q | R | P or (Q and R) | (P or Q) and (P or R)
+  ===================================================
+  T | T | T | T              | T
+  T | T | F | T              | T
+  T | F | T | T              | T
+  T | F | F | T              | T
+  F | T | T | T              | T
+  F | T | F | F              | F
+  F | F | T | F              | F
+  F | F | F | F              | F
+
+  P | Q | ~(P or Q) | ~P and ~Q
+  ==============================
+  T | T | F         | F
+  T | F | F         | F
+  F | T | F         | F
+  F | F | T         | T
+
+
+2.61)
+  a) x <> 0 and y <> 0
+  b) the integers a or b are odd
+
+2.62) If X and Y are even, then XY is even.
+  a) XY is even only if X and Y are even
+  b) If X or Y are not even, then XY is odd.
+  c) XY being odd implies that X or Y are odd.
+  d) XY being even implies that either X or Y are odd
+
+2.63) (P and ~Q) or (Q and ~P)
+  Either X^2 is 2 and X is not the sqrt(2)  or  X is the sqrt(2) and X^2 is not 2.
+
+2.64)
+  P | Q | (P or Q) and ~(P and Q) | P <=> Q
+  ========================================
+  T | T | F                       | T
+  T | F | T                       | F
+  F | T | T                       | F
+  F | F | F                       | T
+
+2.65)
+  3n+4 is even or 5n-6 is odd
+
+2.66)
+  3n+4 is even if and only if 7n+2 is even
+

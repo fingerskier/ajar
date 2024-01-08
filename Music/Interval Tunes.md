@@ -1,10 +1,10 @@
 # Interval Tunes
 
-		Up						Down
+		Up									Down
 R		Happy Birthday
 m2		Pink Panther			Fur Elise
 M2		Frere Jacques			Mary had a little lamb
-m3		Greensleeves			Hey Jude
+m3		What Child is this			Hey Jude
 M3		O When the Saints		Swing Low Sweet Chariot
 P4		Amazing Grace			Oh Come All Ye Faithful
 TT		Simpsons				Enter Sandman

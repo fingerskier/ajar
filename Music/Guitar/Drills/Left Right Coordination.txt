@@ -1,0 +1,11 @@
+Same scale with each hand
+
+Different modes per Hand
+
+Drum same beat with both hands 
+
+Drum different beat with boths hands
+
+Arpeggio left / Scale right
+
+Arpeggio right / Scale left

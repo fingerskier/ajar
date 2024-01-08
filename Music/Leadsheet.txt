@@ -1,0 +1,12 @@
+Key ---> [G]
+Time --> 3/4
+
+
+Chord ----->   IV       |    |
+Melody ---->   345   432|1   |
+Position -->   VII      |    |
+
+
+Position csn be blank.
+Melody spacing...
+| symbol ends a measure
