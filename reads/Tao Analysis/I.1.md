@@ -30,3 +30,13 @@ Number properties
 
 p.25
 
+circularity - using an advanced fact to prove a more elementary fact
+
+Peano Axioms
+1. 0 is a natural number
+2. every natural number has a successor
+3. 0 is not the successor of any natural number
+4. two natural numbers of which the successors are equal are themselves equal
+5. if a set of natural numbers contains 0 and also the successor of every number in the set, then every natural number is in the set
+
+p.26 2.1

@@ -631,3 +631,104 @@ F | F | F          | T
 2.66)
   3n+4 is even if and only if 7n+2 is even
 
+
+universal quantifier ~ for every X in S, P(X) is true
+
+existential quantifier ~ there exists an X in S such that P(X) is true
+..."for at least one"
+
+
+~ Negation
+& Conjunction
+| Disjunction
+=> Implication
+<=> Biconditional
+
+Negation  ~
+Conjunction  &
+Disjunction  |
+Implication  =>
+Biconditional  <=>
+Universal quantifier  for all
+Existential quantifier  there exists
+
+
+2.67) S is the odd integer
+  P(X): X^2+1 is even
+  Q(X): X^2 is even
+  For every X where X is an odd integer, X^2+1 is even.
+  There exists an X where X is an odd integer and X^2+1 is even.
+
+2.68) for S ~ odd Z; R(x): x^2+1 is odd
+  For all odd integers X, there exists an odd integer where X^2+1 is odd.
+  There exists an X, which is an odd integer, where X^2+1 is odd.
+
+2.69) 
+  a) There exists a set A where A intersect A' is not nil.
+  b) For every set A, A' is not a subset of A.
+
+2.70)
+  a) There exists a real number N where 1/N is not rational.
+  b) For every rational number R, R^2 != 2.
+
+2.71) P(n): (5n-6)/3 is in Z
+  a) Is it true for all integers?  No, it is false for n=2.
+  b) Is it true for any integer?  Yes, it is true for n=3.
+
+2.72) 
+  a) Yes, true for x=1
+  b) Yes, true for all N
+  c) No, false for negative numbers
+  d) Yes, true for x=1
+  e) Yes, true for x=2, y=4
+  f) No, false for x=1, y=2
+  g) Yes, true for sqrt(4.5)
+  h) No, false for x=1, y=2
+
+2.73) 
+  a) E(xists) a, b in Z; ab < 0 AND a+b > 0
+  b) A(ll) X, Y in R; X !== Y => X^2 + Y^2 > 0
+  c) A(ll) a,b in Z; ab >= 0 AND a+b <= 0
+     E(xists) X,Y in R; X == Y => X^2 + Y^2 <= 0
+  d) 
+
+2.74) d
+
+2.75) f
+
+2.76) 
+  a) for all X in R, all Y in R, and all Z in R, (x-1)^2 + (y-2)^2 + (z-2)^2 > 0
+  b) always true because a square is always positive, therefore the sum is always positive
+  c) E(X) in R, E(Y) in R, and E(Z) in R, ~P(X,Y,Z)
+  d) there exists an X in R, Y in R, and Z in R, such that (x-1)^2 + (y-2)^2 + (z-2)^2 <= 0
+  e) the negation is false
+
+2.77) s in S, t in S, st-2 is prime
+      S = {3,5,11}
+  a) A(s)
+
+2.78) A is the set of circles centered at (0,0)
+      B is the set of circles centered at (1,1)
+
+  a) P is the set of pairs circles in A and B which have two points in common
+  b) 
+  c) 
+
+2.79) triangle T: r(T) is the raiot of the length of its longest side to its smallest side
+      A is all triangles
+      P(T1, T2): r(T1) >= r(T2)
+  a) for every T1 in A, there exists a T2 in A such that P(T1, T2)
+  b) 
+  c) there exists a T1 in A, for every T2 in A, such that P(T1, T2)
+
+2.80) P(a,b): a/b < 1; a in A = {2,3,5}; b in B = {2,4,6}
+  a) for all a in A there exists a b in B where P(a,b)
+  b) not true for 2/2, 3/2, 5/2, or 5/4  ???
+
+2.81) Q(a,b): a-b < 0
+      a in A = {3,5,8}
+      b in B = {3,6,10}
+  a) there exists _b_ in _B_, for every _a_ in _A_, such that Q(a,b)
+  b) 3: -6 or -10 is less then 0
+     5: -6 or -10 is less then 0
+     8: -10 is less then 0
