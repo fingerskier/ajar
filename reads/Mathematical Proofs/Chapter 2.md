@@ -732,3 +732,19 @@ Existential quantifier  there exists
   b) 3: -6 or -10 is less then 0
      5: -6 or -10 is less then 0
      8: -10 is less then 0
+
+
+P <=> Q represents (P=>Q) and (Q=>P)
+
+P if and only if Q
+
+P iff Q
+
+A characterization of a concept gives an alternative, but equivalent, way of looking at this concept.
+
+
+2.82)
+  a) Two lines are perpendicular if and only if the product of their slopes is -1.
+     Two lines are perpendicular if and only if the angle of their crossing is 90 degrees.
+  b) A number is _rational_ if and only if it can be expressed as a ratio of two integers.
+     A number is _rational_ if and only if it can be expressed as a finite decimal.
