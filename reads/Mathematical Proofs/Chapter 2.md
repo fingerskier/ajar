@@ -748,3 +748,55 @@ A characterization of a concept gives an alternative, but equivalent, way of loo
      Two lines are perpendicular if and only if the angle of their crossing is 90 degrees.
   b) A number is _rational_ if and only if it can be expressed as a ratio of two integers.
      A number is _rational_ if and only if it can be expressed as a finite decimal.
+
+2.83) An integer is odd if and only if it is not even.
+      An integer is even if and only if it is not divisible by 2.
+
+2.84)
+  a) Yes, by definition 2 sides will be the same
+  b) Not a characterization but a definition
+  c) Not a characterization but too nebulous to be a definition
+  d) A characterization but an overstatement of this concept
+  e) This is a characterization
+
+2.85)
+  a) characterization
+  b) characterization
+  c) not a characterization, a formula for the area of a right triangle necessarily involves both the perpendicular sides
+  d) not a characterization, the "rightness" of a right triangle has nothing to do with the lengths of its sides
+  e) not a characterization, all triangles have this property so it does not characterize right triangles in particular
+
+2.86)
+  a) yes
+  b) yes
+  c) yes
+  d) no, because a point could be on neither line
+
+2.87) P and (Q => ~P)
+  P | Q | Q=>~P | P and (Q => ~P)
+  ===============================
+  T | T | F     | F 
+  T | F | T     | T
+  F | T | T     | F
+  F | F | T     | F
+
+2.88) (Q or R) => !P is false
+      Q is false
+      R is whatever
+      P is false
+
+2.89) P | Q | !Q | X
+      ==============
+      T | T | F  | T
+      T | F | T  | T
+      F | T | F  | F
+      F | F | T  | T
+      
+      X(P,Q): 
+
+2.90) a) T
+      b) F
+      c) F
+      d) F
+      e) T
+      f) F
