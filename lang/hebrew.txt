@@ -2,7 +2,8 @@ Transliteration scheme
 * modified from Michigan/Clairmont
 
 A   alef      א
-Bb  bet/vet   בְּ
+B   bet       בְּ
+b   vet       ב
 G   gimel     גְּ 
 D   daled     דְּ
 
@@ -13,44 +14,52 @@ X   tsayin    זְ
 K   chet      תַּ
 t   tet       טְ 
 '   yod       יֹּ
-Cc  kaf/kof   כִּ 
+C   kaf       כִּ 
+c   kof       כ  
 
 L   lamed     לֹ
 M   mem       מֶ ם
-N   nun       נְ
+N   nun       נְ 
 
 $   samekh    סְ
 Y   ayin      ץ ע
-Pp  pe/ph     פְּ
+P   pe        פְּ
+p   ph        ף
 Z   tzade     צְ
 
 Q   qof       קְ
 R   resh      ר
-Ss  sin/shin  שְׁ
+S   sin       שְׁ
+s   shin      שְׂ
 T   tav       תְּ
 
+
 Vowels follow the letter
-  .
-  _
-  |
-  ..
-  _.
-  ._
-  __
-  _|
-  |_
-  ||
-  +
+  A_     ah    patach
+  A_|    aah   qamats
+  A|_    o     hataph-qamats
+
+  A..    iy    tsere
+  A.     ee    hiriq
+  A...   ehh   segol
+
+  Ao     oh    holam
+  A-     ooh   shuruq
+
+  A|     x/e   shva  
   
-  e.g. B.A.|R..s'T = בָּרָשִׁית  (in the beginning)
-
-  !!! These are not finalized yet... !!!
-
 ====
+
+Pronouns
+  1s  ANC' / AN'    he/she
+  2s  A_T_|H        you
+  3s  HVA           they/them
 
 
 prefixes
   B ~ in/with/by
+    B_| ~ in
+    B_ ~ in the
   C ~ as/like
   H ~ the
   M ~ from/out-of

@@ -1,0 +1,72 @@
+F4 Silver Slugger build
+
+Str 4
+Per 1
+End 3
+Chr 1
+int 9
+Agl 9
+Lck 1
+
+Sanctuary
+- S.P.E.C.I.A.L book
+- Grognak the Barbarian
+- build shelves to hit level 2
+Red Rocket
+- dogmeat
+Concord
+- first house baseball bat behind door
+Sanctuary
+- modify baseball bat- chain-wrapped
+Concord
+- minuteman quest
+  - FT to Sanctuary to repair armor prior to Deathclaw
+Robotics Disposal Ground
+- self-destruct sentry bot from terminal
+Satellite Station Olivia
+Mole Rat Den (red rocket)
+Abernathy Farms
+Concord
+Sanctuary
+- cellar
+Abernathy Farms
+- shack to the south w/ whiskey
+Umarked Building north of Arcjet
+Diamond City
+- buy Rockville Slugger from Mo
+- chain-wrap the Slugger
+Story of the Century
+Nick Valentine
+<<<===>>>
+Corvega
+
+
+blacksmith
+blitz
+nuclear physicist
+big leagues
+medic (??? or scrapper?)
+action boy
+big leagues 2
+ninja (scrapper)
+armorer
+science
+Luck 2
+nuclear physicist 2
+armorer 2
+big leagues 3
+blacksmith 2
+science 2
+action boy 2
+medic 2
+<<<===>>>
+ninja 2
+Luck 3
+Luck 4
+Luck 5
+Luck 6
+Luck 7
+Luck 8
+big leagues 4
+grim reaper's sprint
+blacksmith 3
