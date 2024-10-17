@@ -78,3 +78,13 @@ It seems that, when we consider doctrines as binary (essential/non-essential) we
 They build doctrine on arbitrary passages of scripture divorced of context.
 All doctrines are essential- the question is how important they are to first-time salvation, ongoing salvation, future salvation, and whether _how_ urgent they are for believers (and at what stage of their development.)
 
+
+### Poverty of Awareness
+
+I think this may end up being my favorite section, pp.54-55, because it illuminates the deep problem with idiot christians.
+Those of us who are not trained in theology or philosophy should not take a firm position on secondary doctrines.
+Once we attain some enlightenment we can being to soidify our position but too often we start form a staunch position and work the shore it up rather than growing.
+
+"Better to be wrong than indifferent."
+
+

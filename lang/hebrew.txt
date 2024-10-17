@@ -12,7 +12,7 @@ V   vav       וַ
 X   tsayin    זְ
 
 K   chet      תַּ
-t   tet       טְ 
++   tet       טְ 
 '   yod       יֹּ
 C   kaf       כִּ 
 c   kof       כ  
@@ -29,8 +29,8 @@ Z   tzade     צְ
 
 Q   qof       קְ
 R   resh      ר
-S   sin       שְׁ
-s   shin      שְׂ
+S   shin      שְׁ
+s   sin       שְׂ
 T   tav       תְּ
 
 
@@ -39,8 +39,8 @@ Vowels follow the letter
   A_|    aah   qamats
   A|_    o     hataph-qamats
 
-  A..    iy    tsere
   A.     ee    hiriq
+  A..    ay    tsere
   A...   ehh   segol
 
   Ao     oh    holam
@@ -53,7 +53,7 @@ Vowels follow the letter
 Pronouns
   1s  ANC' / AN'    he/she
   2s  A_T_|H        you
-  3s  HVA           they/them
+  3s  HVoA          they/them
 
 
 prefixes
