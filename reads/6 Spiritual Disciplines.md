@@ -135,3 +135,37 @@ He adds (something worthy of much more discussion) the implication from Joshua 2
 
 ## Resilience
 
+Dryness is of particular interest to me because I find most Christian media and practice to be unnourishing.
+However, I'm not totally in agreement that resignations and divisions are causing by a lack of spirituality.
+There are many cases where ministers move on from a successful ministry, feeling a calling to something different.
+
+Albeit, Whitney is probably referring to believers, specifically pastors, who __quit__ the faith altogether.
+This is a real problem.
+We have not established a culture where people of all levels of faith can seek and grow.
+We expect those among us to have linear growth, to adhere to the planks of a platform, and to uphold the proclivities of our tradition.
+
+The important point of this section is that it is not the acts which are the source of refreshment, it is Jesus.
+We are to engage in that continual struggle of seeking the man who is not yet here.
+We do so by engaging in the ocean of truth which requires wading through shallows and diving the great depths.
+
+We'll ignore the poorly worded phrase "The Holy Spirit who indwells you is the Spirit of Jesus" rather than presume Whitney has an errant anti-trinitarian doctrine of hypostatic stratification :).
+
+
+## Fellowship
+
+The section on dryness, and longing, naturally segues into the treatise on fellowship.
+__Koinonia__ is literally "common knowledge" and the implication of sharing that with others.
+I would have liked him to say more about circles of influence and choosing vs being chosen for fellowship regarding different topics and levels of discourse.
+This goes hand-in-glove with __oikonomia__ in terms of God's structuring of His household.
+We would do well to partake rather then enforce the fellowship of the saints.
+I do sympathize with the plight [he mentions] of turning inward during struggle; but we need to know of outlets for fellowship.
+There is an element of recruitment implied in ministry.
+
+
+## Struggle
+
+Of course, as a man/dad/husband in the world I acquainted with struggle...certainly [at least] at the level of Whitney and the target audience.
+I have a hard time accepting that continual, relentless struggle is just part of the faith.
+Even Paul had times of refreshment and there were sometimes years that went by with narry a word from him.
+It's easy for a man to jump in front of the bullet and "die fighting, die hoping, die praying" but it's much harder to live fighting, hoping, praying.
+Perhaps it just a bit of dramatic salesmanship but I would much rather live practicing spirtual disciplines...
