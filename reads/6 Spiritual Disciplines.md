@@ -109,3 +109,29 @@ Jesus, in Matthew 6, saying "when" is just as much an acknowledgment of the soci
 If fasting is not a societal norm there may not be a "when".
 For us fasting becomes an ascetic practice- a way to deny and purge what distracts us from God.
 This necessarily involves separation from __norms__.
+
+However, as Whitney points out, God is not impressed by our suffering...only that of Christ.
+God is, however, moved by our suffering.
+We see this Job, the Exodus, and among others.
+Jeremiah 18:5 illuminates this idea that God "repents" when people change direction.
+This is thesis of the book of Jonah.
+So, we come the conclusion that asceticism is valuable if private and devoted to God (again in Matthew 6-7.)
+I would hesistate to proclaim the "sure reward" of fasting as Whitney does but...
+
+
+## Family Worship
+
+This is a profound one that depends heavily on defining **family** and **worship**.
+It has been my experience that children who are imbued with scripture and christian practices grow into believing adults.
+We know there are exceptions but we also know that God's word **always does work** (Isaiah 55:11).
+
+He points out the importance that the father is the spiritual leader of the family;
+and that this leading involves worship centered on scripture through prayer, music, et cetera.
+
+The mandate to worship at home is folly.
+It seems most likely that the fervent believer will naturally worship at all times, especially with those closest to him.
+He adds (something worthy of much more discussion) the implication from Joshua 24:15 that service is a necessary worship practice.
+
+
+## Resilience
+
