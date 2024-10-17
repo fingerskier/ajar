@@ -1,11 +1,4 @@
-# 6 Spiritaul Disciplines of Healthy Pastors
-
-1. ## Necessity
-
-2. ## Vine Work
-
-3. ## Reading [the Bible]
-
+# 6 Spiritual Disciplines of Healthy Pastors
 
 
 ## The Goal
