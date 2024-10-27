@@ -43,3 +43,13 @@ What's more [still], there is a conscious connection through such experiences th
 It is supposed that this conscious experience is an intangible level of information beyond anything neuronic.
 It is a sort of information that did not exist prior to the experience.
 In her explorations Mary has created; she has expanded conscious connections and created new information above that of knowledge.
+
+
+====
+
+Mary is a scientist who knows everything about color perception in the brain and mind and the physics of color but has lived her entire life in a black-and-white room, viewing the world only in shades of gray.  One day, Mary is allowed to see color for the first time—  Does Mary learn something new upon seeing color, even though she knew every about it beforehand? 
+
+  If she does, it suggests that some knowledge goes beyond physical facts.  This implies that things have an irreducible "qualia"- irreducible because they cannot be explained in physical terms, quality because they are integral with the thing.  Another, associated, implication is that there are preternatural or supernatural elements to things. 
+  This goes beyond the soulish nature of complex organisms.  Even the most basic things in the physical universe have these extra features. 
+
+
