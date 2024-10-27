@@ -15,7 +15,7 @@ Has she gained anything from the experience?
 
 It is clear from the premise that she cannot gain new knowledge because she knows everything about color already.
 As to whether she has gained or attained anything it is fair to say that "had" a new experience.
-The conundrum is that experience in not knowledge.
+The conundrum is of what form this experience takes.
 
 
 ## Further
