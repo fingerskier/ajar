@@ -51,4 +51,8 @@ Eastern Orthodox deuterocanon
 
 ## How does the story work? Name the five divisions that complete the whole story.
 
-
+Torah
+N) Prophets
+K) Writings
+Gospels
+Apostles
