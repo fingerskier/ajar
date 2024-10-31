@@ -51,8 +51,13 @@ Eastern Orthodox deuterocanon
 
 ## How does the story work? Name the five divisions that complete the whole story.
 
-Torah
-N) Prophets
-K) Writings
-Gospels
-Apostles
+God created a framework in which we could be with Him.
+He also created the means for us to be redeemed when we inevitably fail because He gave us the freedom to do so.
+Without that freedom we could not love Him fully.
+In the end He will recreate things such that we have freedom, in Christ, and are also able to be with Him.
+
+1. Creation and dominion
+2. Rebellion and fallout
+3. God's covenant
+4. Jesus
+5. Kingdom of God
