@@ -1,0 +1,990 @@
+[
+  {
+    "name": "A",
+    "children": [
+      {
+        "name": "Ab",
+        "children": [
+          {
+            "name": "A_.b",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "AL",
+        "children": []
+      },
+      {
+        "name": "AVR",
+        "children": [
+          {
+            "name": "AVOR ~ light",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "AEs ~ man",
+        "children": []
+      },
+      {
+        "name": "A$R",
+        "children": [
+          {
+            "name": "A+S_R AeT ~ tie / bind",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "A$P",
+        "children": [
+          {
+            "name": "A+$_p AeT ~ gather",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "A=TiMVOL ~ yesterday",
+        "children": []
+      },
+      {
+        "name": "AX",
+        "children": [
+          {
+            "name": "A+X ~ then",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "AMR",
+        "children": [
+          {
+            "name": "A+M_R L+K AeT ~ say [to you]",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "As",
+        "children": [
+          {
+            "name": "Aes ~ fire",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "AT",
+        "children": [
+          {
+            "name": "AeT ~ it/to",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "AKD",
+        "children": [
+          {
+            "name": "A%K+D ~ one",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "ACR",
+        "children": [
+          {
+            "name": "A.C+R ~ farmer",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "AsH",
+        "children": [
+          {
+            "name": "A.s+H ~ woman",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "B",
+    "children": [
+      {
+        "name": "BQR",
+        "children": [
+          {
+            "name": "B+Q+R ~ cattle",
+            "children": []
+          },
+          {
+            "name": "BOQ=R ~ morning",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "BtK",
+        "children": [
+          {
+            "name": "B+t_K B: ~ trust",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "BR'T",
+        "children": [
+          {
+            "name": "B:R.'T ~ covenant",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "BTVK",
+        "children": [
+          {
+            "name": "B:TVOK ~ midst",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "G",
+    "children": [
+      {
+        "name": "GV'",
+        "children": [
+          {
+            "name": "GoVO' ~ nation",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "GML",
+        "children": [
+          {
+            "name": "G+M+L ~ camel",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "GDVL",
+        "children": [
+          {
+            "name": "G+DVOL ~ great",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "D",
+    "children": [
+      {
+        "name": "DM",
+        "children": [
+          {
+            "name": "D+M ~ blood",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "DRK",
+        "children": [
+          {
+            "name": "D+R_K Y_L ~ tread, march",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "H",
+    "children": [
+      {
+        "name": "HpK",
+        "children": [
+          {
+            "name": "H+p_K AeT ~ overturn",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "V",
+    "children": []
+  },
+  {
+    "name": "X",
+    "children": [
+      {
+        "name": "XCR",
+        "children": [
+          {
+            "name": "X+x_R AeT",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "XbK",
+        "children": [
+          {
+            "name": "X+b_K AeT ~ slaughter",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "XQN",
+        "children": [
+          {
+            "name": "X+Q+N ~ beard",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "K",
+    "children": [
+      {
+        "name": "KGR",
+        "children": [
+          {
+            "name": "K+G_R AeT ~ gird",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "KRS",
+        "children": [
+          {
+            "name": "K+R+s ~ craftsman",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "KtA",
+        "children": [
+          {
+            "name": "K+t+A L: ~ sin [again'm]",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "K'H",
+        "children": [
+          {
+            "name": "K+'+H ~ animal",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "KLQ",
+        "children": [
+          {
+            "name": "KeL=Q ~ portion",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "KtAT",
+        "children": [
+          {
+            "name": "KtAT ~ sin offering",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "KZ",
+        "children": [
+          {
+            "name": "KeZ ~ arrow",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "KtH",
+        "children": [
+          {
+            "name": "K.T+H ~ wheat",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "KZR",
+        "children": [
+          {
+            "name": "K+ZeR ~ court",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "t",
+    "children": [
+      {
+        "name": "t't",
+        "children": [
+          {
+            "name": "TET ~ mud",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "tHVR",
+        "children": [
+          {
+            "name": "t+HVOR ~ clean",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "'",
+    "children": [
+      {
+        "name": "'DY",
+        "children": [
+          {
+            "name": "'+D_Y AeT ~ know",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "'RD",
+        "children": [
+          {
+            "name": "'+R_D ~ descend",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "'ZA",
+        "children": [
+          {
+            "name": "'+Z+A MiN ~ exit",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "'RA",
+        "children": [
+          {
+            "name": "'+ReA M.N ~ fear [from]",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "C",
+    "children": [
+      {
+        "name": "CVS",
+        "children": [
+          {
+            "name": "CoVOS ~ bowl",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "CSL",
+        "children": [
+          {
+            "name": "C+s_L ~ stumble",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "CL'",
+        "children": [
+          {
+            "name": "C:Li' ~ implement",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "CRT",
+        "children": [
+          {
+            "name": "C+R_T AeT ~ cut-off",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "L",
+    "children": [
+      {
+        "name": "Lb",
+        "children": [
+          {
+            "name": "Leb ~ heart",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "L'LH",
+        "children": [
+          {
+            "name": "L_':L+H ~ night",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "M",
+    "children": [
+      {
+        "name": "MZA",
+        "children": [
+          {
+            "name": "M+Z+A AeT ~ find",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "MLAK",
+        "children": [
+          {
+            "name": "M_L:A+K ~ messenger",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "MLKMH",
+        "children": [
+          {
+            "name": "MiL:K+M+H ~ battle",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "MsPKH",
+        "children": [
+          {
+            "name": "Mis:P+K+H ~ family",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "MGL",
+        "children": [
+          {
+            "name": "M_G+L ~ sickle",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "MXBK",
+        "children": [
+          {
+            "name": "M.X:Be_K ~ altar",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "MKR",
+        "children": [
+          {
+            "name": "M+K+R ~ tomorrow",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "MLK",
+        "children": [
+          {
+            "name": "M+L_K Y_L ~ reign",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "N",
+    "children": [
+      {
+        "name": "NPL",
+        "children": [
+          {
+            "name": "N+p_L ~ fall",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "NAD",
+        "children": [
+          {
+            "name": "NAOD ~ wineskin",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "NKL",
+        "children": [
+          {
+            "name": "N_K_L ~ wadi",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "NGp",
+        "children": [
+          {
+            "name": "N+G_p AeT ~ strike",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "NYR",
+        "children": [
+          {
+            "name": "N_Y_R ~ youth",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "NsR",
+        "children": [
+          {
+            "name": "N%s%R ~ eagle, vulture",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "$",
+    "children": [
+      {
+        "name": "$'R",
+        "children": [
+          {
+            "name": "SER ~ port",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Y",
+    "children": [
+      {
+        "name": "Y'R",
+        "children": [
+          {
+            "name": "YE'R ~ city",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "YTH",
+        "children": [
+          {
+            "name": "Y_T+H ~ now",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "YL",
+        "children": [
+          {
+            "name": "Y_L ~ on",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "YVp",
+        "children": [
+          {
+            "name": "YVOp ~ flier, bird",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "YX",
+        "children": [
+          {
+            "name": "YeX ~ she-goat",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "YLH",
+        "children": [
+          {
+            "name": "YOL+H ~ whole burnt offering",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "P",
+    "children": [
+      {
+        "name": "P$L",
+        "children": [
+          {
+            "name": "p=$=L ~ idol",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "PQD",
+        "children": [
+          {
+            "name": "P+Q_D AeT ~ visit",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "PR'",
+        "children": [
+          {
+            "name": "P:R.' ~ fruit",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Z",
+    "children": [
+      {
+        "name": "ZAN",
+        "children": [
+          {
+            "name": "ZAON ~ herd",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "ZKQ",
+        "children": [
+          {
+            "name": "Z+K_Q ~ laugh",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "ZMR",
+        "children": [
+          {
+            "name": "Z%M%R ~ wool",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Z'H",
+        "children": [
+          {
+            "name": "Z.'+H ~ desert",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Q",
+    "children": [
+      {
+        "name": "QL",
+        "children": [
+          {
+            "name": "QOL ~ voice",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "QRA",
+        "children": [
+          {
+            "name": "Q+R+A A=L ~ call",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "QHL",
+        "children": [
+          {
+            "name": "Q+H+L ~ assembly",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "QDVs",
+        "children": [
+          {
+            "name": "Q+DVOs ~ holy",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "QRVb",
+        "children": [
+          {
+            "name": "Q+RVOb ~ near",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "R",
+    "children": [
+      {
+        "name": "RVK",
+        "children": [
+          {
+            "name": "RVo_K ~ spirit, wind",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "RAs",
+        "children": [
+          {
+            "name": "ROAs ~ head",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Rcb",
+        "children": [
+          {
+            "name": "R=c=b ~ chariot",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "RGX",
+        "children": [
+          {
+            "name": "R+G_X ~ quake, fidget",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "RDp",
+        "children": [
+          {
+            "name": "R+D_p AeT ~ pursue",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "RbZ",
+        "children": [
+          {
+            "name": "R+b_Z B: ~ lie down",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "RKVQ",
+        "children": [
+          {
+            "name": "R+KVOQ ~ distant",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "S",
+    "children": [
+      {
+        "name": "SDH",
+        "children": [
+          {
+            "name": "S+D=H ~ field (cultivated)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "sVR",
+        "children": [
+          {
+            "name": "sVOR ~ bull",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "sbR",
+        "children": [
+          {
+            "name": "s+b_R AeT ~ break",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "sBT",
+        "children": [
+          {
+            "name": "s_B+T ~ sabbath",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "sMs",
+        "children": [
+          {
+            "name": "s=M=s ~ sun",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "sM",
+        "children": [
+          {
+            "name": "s+M ~ there",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "sRs",
+        "children": [
+          {
+            "name": "sOR%s ~ root",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "scN",
+        "children": [
+          {
+            "name": "s+c_N B: ~ abide",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "sLVM",
+        "children": [
+          {
+            "name": "s+LVOM ~ completeness",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "sLp",
+        "children": [
+          {
+            "name": "s+L_p AiT ~ draw [sword]",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "sYR",
+        "children": [
+          {
+            "name": "s_Y_R ~ gate",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "T",
+    "children": []
+  }
+]

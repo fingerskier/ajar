@@ -81,7 +81,7 @@ This is probably the most profound spiritual practice because it encapsulates re
 The "day and night" issue of meditation is interesting because it implies that we must have scripture permeating our selves.
 This is a conundrum for those of us that have __day jobs__.
 
-
+[text](<../../../Users/finge/OneDrive - osteostrongfranchising.com/dev/spectrum/spectrum-app_1.2.10-beta.deb>)
 ## Dealing With Problems
 
 It's easy to say, "don't just pray the same thing over and over" but hard to do.
