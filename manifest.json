@@ -1,0 +1,810 @@
+[
+  {
+    "path": "ART/Color Theory.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/ART/Color Theory.md"
+  },
+  {
+    "path": "Being Dad.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/Being Dad.md"
+  },
+  {
+    "path": "Breath.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/Breath.md"
+  },
+  {
+    "path": "Control/Alarms.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/Control/Alarms.md"
+  },
+  {
+    "path": "Control/HMI Design.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/Control/HMI Design.md"
+  },
+  {
+    "path": "Control/Signal Color Meanings.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/Control/Signal Color Meanings.md"
+  },
+  {
+    "path": "Control/fingerprinting.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/Control/fingerprinting.md"
+  },
+  {
+    "path": "Emasculation.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/Emasculation.md"
+  },
+  {
+    "path": "Grammar.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/Grammar.md"
+  },
+  {
+    "path": "Health/MAF.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/Health/MAF.md"
+  },
+  {
+    "path": "Health/Maximize Testosterone.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/Health/Maximize Testosterone.md"
+  },
+  {
+    "path": "Health/Seven Postures.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/Health/Seven Postures.md"
+  },
+  {
+    "path": "Health/conditioning.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/Health/conditioning.md"
+  },
+  {
+    "path": "HumanTech.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/HumanTech.md"
+  },
+  {
+    "path": "Institutes.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/Institutes.md"
+  },
+  {
+    "path": "Learning Cycle.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/Learning Cycle.md"
+  },
+  {
+    "path": "Linguistics.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/Linguistics.md"
+  },
+  {
+    "path": "Markdown Cheatsheet.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/Markdown Cheatsheet.md"
+  },
+  {
+    "path": "Maths/Constructor Theory.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/Maths/Constructor Theory.md"
+  },
+  {
+    "path": "Maths/Knot Theory.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/Maths/Knot Theory.md"
+  },
+  {
+    "path": "Maths/Seven Pillars of Statistical Wisdom.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/Maths/Seven Pillars of Statistical Wisdom.md"
+  },
+  {
+    "path": "Maths/Ultimate Electronics.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/Maths/Ultimate Electronics.md"
+  },
+  {
+    "path": "Maths/compute inscribed polygon.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/Maths/compute inscribed polygon.md"
+  },
+  {
+    "path": "Music/Aleatory.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/Music/Aleatory.md"
+  },
+  {
+    "path": "Music/Centricity.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/Music/Centricity.md"
+  },
+  {
+    "path": "Music/Chord Types.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/Music/Chord Types.md"
+  },
+  {
+    "path": "Music/Deviancy.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/Music/Deviancy.md"
+  },
+  {
+    "path": "Music/Diminished Chords.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/Music/Diminished Chords.md"
+  },
+  {
+    "path": "Music/Ear Training.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/Music/Ear Training.md"
+  },
+  {
+    "path": "Music/EarTrain/Solfege Voicings.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/Music/EarTrain/Solfege Voicings.md"
+  },
+  {
+    "path": "Music/Guitar/Practices.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/Music/Guitar/Practices.md"
+  },
+  {
+    "path": "Music/Interval Tunes.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/Music/Interval Tunes.md"
+  },
+  {
+    "path": "Music/Learning a Song.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/Music/Learning a Song.md"
+  },
+  {
+    "path": "Music/Macroharmony.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/Music/Macroharmony.md"
+  },
+  {
+    "path": "Music/Music in Nature.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/Music/Music in Nature.md"
+  },
+  {
+    "path": "Music/Music.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/Music/Music.md"
+  },
+  {
+    "path": "Music/Pentatonic Vocale.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/Music/Pentatonic Vocale.md"
+  },
+  {
+    "path": "Music/Relative Notation.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/Music/Relative Notation.md"
+  },
+  {
+    "path": "Music/Song Categories.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/Music/Song Categories.md"
+  },
+  {
+    "path": "Music/Theory.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/Music/Theory.md"
+  },
+  {
+    "path": "NoteTaking.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/NoteTaking.md"
+  },
+  {
+    "path": "Philosophy/Black and White Mary.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/Philosophy/Black and White Mary.md"
+  },
+  {
+    "path": "Philosophy/Chinese Room.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/Philosophy/Chinese Room.md"
+  },
+  {
+    "path": "Philosophy/Epistemology.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/Philosophy/Epistemology.md"
+  },
+  {
+    "path": "Philosophy/Galileos Gravity.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/Philosophy/Galileos Gravity.md"
+  },
+  {
+    "path": "Philosophy/God.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/Philosophy/God.md"
+  },
+  {
+    "path": "Philosophy/Godels Thought Experiment.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/Philosophy/Godels Thought Experiment.md"
+  },
+  {
+    "path": "Philosophy/Hemingway Paradox.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/Philosophy/Hemingway Paradox.md"
+  },
+  {
+    "path": "Philosophy/Ontology.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/Philosophy/Ontology.md"
+  },
+  {
+    "path": "Philosophy/Pessimitstic Fallacy.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/Philosophy/Pessimitstic Fallacy.md"
+  },
+  {
+    "path": "Philosophy/Spirituality.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/Philosophy/Spirituality.md"
+  },
+  {
+    "path": "Philosophy/Success.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/Philosophy/Success.md"
+  },
+  {
+    "path": "Philosophy/Tautology.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/Philosophy/Tautology.md"
+  },
+  {
+    "path": "Philosophy/Teleology.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/Philosophy/Teleology.md"
+  },
+  {
+    "path": "Philosophy/The Bomb Experiment.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/Philosophy/The Bomb Experiment.md"
+  },
+  {
+    "path": "Philosophy/The Floppy Disk.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/Philosophy/The Floppy Disk.md"
+  },
+  {
+    "path": "Philosophy/The Frame Problem.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/Philosophy/The Frame Problem.md"
+  },
+  {
+    "path": "Philosophy/The Isle of Providence.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/Philosophy/The Isle of Providence.md"
+  },
+  {
+    "path": "Philosophy/Trolley.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/Philosophy/Trolley.md"
+  },
+  {
+    "path": "Psychoses.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/Psychoses.md"
+  },
+  {
+    "path": "README.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/README.md"
+  },
+  {
+    "path": "Science.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/Science.md"
+  },
+  {
+    "path": "Skilled Insight.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/Skilled Insight.md"
+  },
+  {
+    "path": "SocraticSchooling.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/SocraticSchooling.md"
+  },
+  {
+    "path": "Speech Preparation.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/Speech Preparation.md"
+  },
+  {
+    "path": "Spiritual/CFSF2.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/Spiritual/CFSF2.md"
+  },
+  {
+    "path": "Spiritual/CFSF3.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/Spiritual/CFSF3.md"
+  },
+  {
+    "path": "Spiritual/Triperspectivalism.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/Spiritual/Triperspectivalism.md"
+  },
+  {
+    "path": "Success.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/Success.md"
+  },
+  {
+    "path": "Teaching.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/Teaching.md"
+  },
+  {
+    "path": "Var/Historical Introduction to a Formal Theory of Creativity.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/Var/Historical Introduction to a Formal Theory of Creativity.md"
+  },
+  {
+    "path": "Var/StructWriting.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/Var/StructWriting.md"
+  },
+  {
+    "path": "Var/Win and Influence.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/Var/Win and Influence.md"
+  },
+  {
+    "path": "bio/Genetics/Evolution 2.0.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/bio/Genetics/Evolution 2.0.md"
+  },
+  {
+    "path": "bio/Genetics/Genetics.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/bio/Genetics/Genetics.md"
+  },
+  {
+    "path": "bio/brilliant genomics.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/bio/brilliant genomics.md"
+  },
+  {
+    "path": "birds.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/birds.md"
+  },
+  {
+    "path": "biz/BusinessPlan.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/biz/BusinessPlan.md"
+  },
+  {
+    "path": "character/Augustine.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/character/Augustine.md"
+  },
+  {
+    "path": "computing/Blockchains.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/computing/Blockchains.md"
+  },
+  {
+    "path": "computing/Category Theory.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/computing/Category Theory.md"
+  },
+  {
+    "path": "computing/Category Theory/Category.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/computing/Category Theory/Category.md"
+  },
+  {
+    "path": "computing/Category Theory/Semantics.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/computing/Category Theory/Semantics.md"
+  },
+  {
+    "path": "computing/Category Theory/Types.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/computing/Category Theory/Types.md"
+  },
+  {
+    "path": "computing/Caveat.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/computing/Caveat.md"
+  },
+  {
+    "path": "computing/Data Science.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/computing/Data Science.md"
+  },
+  {
+    "path": "computing/Ethernet.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/computing/Ethernet.md"
+  },
+  {
+    "path": "computing/Fractals.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/computing/Fractals.md"
+  },
+  {
+    "path": "computing/Hierarchy.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/computing/Hierarchy.md"
+  },
+  {
+    "path": "computing/Information Theory.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/computing/Information Theory.md"
+  },
+  {
+    "path": "computing/Information Theory/Compression.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/computing/Information Theory/Compression.md"
+  },
+  {
+    "path": "computing/Information Theory/Error Correction.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/computing/Information Theory/Error Correction.md"
+  },
+  {
+    "path": "computing/Information Theory/Fingerprinting.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/computing/Information Theory/Fingerprinting.md"
+  },
+  {
+    "path": "computing/Information Theory/Information.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/computing/Information Theory/Information.md"
+  },
+  {
+    "path": "computing/Information Theory/Kalman Filters.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/computing/Information Theory/Kalman Filters.md"
+  },
+  {
+    "path": "computing/Information Theory/Markov Chains.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/computing/Information Theory/Markov Chains.md"
+  },
+  {
+    "path": "computing/IntroAI_3rd/0.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/computing/IntroAI_3rd/0.md"
+  },
+  {
+    "path": "computing/IntroAI_3rd/1.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/computing/IntroAI_3rd/1.md"
+  },
+  {
+    "path": "computing/IntroAI_3rd/2.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/computing/IntroAI_3rd/2.md"
+  },
+  {
+    "path": "computing/IntroAI_3rd/readme.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/computing/IntroAI_3rd/readme.md"
+  },
+  {
+    "path": "computing/Linguistics.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/computing/Linguistics.md"
+  },
+  {
+    "path": "computing/Machine Learning/2-layer Multi Net.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/computing/Machine Learning/2-layer Multi Net.md"
+  },
+  {
+    "path": "computing/Machine Learning/Index.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/computing/Machine Learning/Index.md"
+  },
+  {
+    "path": "computing/Machine Learning/NEAT/Ganglion.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/computing/Machine Learning/NEAT/Ganglion.md"
+  },
+  {
+    "path": "computing/Machine Learning/NEAT/NEAT.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/computing/Machine Learning/NEAT/NEAT.md"
+  },
+  {
+    "path": "computing/Machine Learning/Perceptron Web.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/computing/Machine Learning/Perceptron Web.md"
+  },
+  {
+    "path": "computing/Machine Learning/RNN_FSM.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/computing/Machine Learning/RNN_FSM.md"
+  },
+  {
+    "path": "computing/Machine Learning/TICA.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/computing/Machine Learning/TICA.md"
+  },
+  {
+    "path": "computing/Machine Learning/backpropogation.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/computing/Machine Learning/backpropogation.md"
+  },
+  {
+    "path": "computing/Machine Learning/convolution.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/computing/Machine Learning/convolution.md"
+  },
+  {
+    "path": "computing/Machine Learning/futuretek.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/computing/Machine Learning/futuretek.md"
+  },
+  {
+    "path": "computing/Machine Learning/random.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/computing/Machine Learning/random.md"
+  },
+  {
+    "path": "computing/Machine Learning/reinforcement learning.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/computing/Machine Learning/reinforcement learning.md"
+  },
+  {
+    "path": "computing/Machine Learning/sax-bop.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/computing/Machine Learning/sax-bop.md"
+  },
+  {
+    "path": "computing/Mathematical Linguistics.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/computing/Mathematical Linguistics.md"
+  },
+  {
+    "path": "computing/Neural Nets.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/computing/Neural Nets.md"
+  },
+  {
+    "path": "computing/Operations Research/LP.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/computing/Operations Research/LP.md"
+  },
+  {
+    "path": "computing/Operations Research/Manufacturing.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/computing/Operations Research/Manufacturing.md"
+  },
+  {
+    "path": "computing/Operations Research/Methodology.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/computing/Operations Research/Methodology.md"
+  },
+  {
+    "path": "computing/Probability/Measure Theory.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/computing/Probability/Measure Theory.md"
+  },
+  {
+    "path": "computing/Probability/index.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/computing/Probability/index.md"
+  },
+  {
+    "path": "computing/PvNP.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/computing/PvNP.md"
+  },
+  {
+    "path": "computing/README.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/computing/README.md"
+  },
+  {
+    "path": "computing/RegEx.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/computing/RegEx.md"
+  },
+  {
+    "path": "computing/Relational Algebra.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/computing/Relational Algebra.md"
+  },
+  {
+    "path": "computing/Relational Calculus.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/computing/Relational Calculus.md"
+  },
+  {
+    "path": "computing/Rules of XML Data.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/computing/Rules of XML Data.md"
+  },
+  {
+    "path": "computing/Spinlock.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/computing/Spinlock.md"
+  },
+  {
+    "path": "computing/Type Theory.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/computing/Type Theory.md"
+  },
+  {
+    "path": "computing/Windowing.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/computing/Windowing.md"
+  },
+  {
+    "path": "computing/crew_ai.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/computing/crew_ai.md"
+  },
+  {
+    "path": "computing/index.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/computing/index.md"
+  },
+  {
+    "path": "computing/kernel convolutions.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/computing/kernel convolutions.md"
+  },
+  {
+    "path": "dev/AWS/Analytics.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/dev/AWS/Analytics.md"
+  },
+  {
+    "path": "dev/AWS/IAM.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/dev/AWS/IAM.md"
+  },
+  {
+    "path": "dev/AWS/Practitioner.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/dev/AWS/Practitioner.md"
+  },
+  {
+    "path": "dev/AWS/TODO.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/dev/AWS/TODO.md"
+  },
+  {
+    "path": "dev/CANbus.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/dev/CANbus.md"
+  },
+  {
+    "path": "dev/CouchDB/CouchDB.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/dev/CouchDB/CouchDB.md"
+  },
+  {
+    "path": "dev/CouchDB/users.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/dev/CouchDB/users.md"
+  },
+  {
+    "path": "dev/Ethernet/index.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/dev/Ethernet/index.md"
+  },
+  {
+    "path": "dev/ExtJS.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/dev/ExtJS.md"
+  },
+  {
+    "path": "dev/Ignition.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/dev/Ignition.md"
+  },
+  {
+    "path": "dev/Ignition/SFCs.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/dev/Ignition/SFCs.md"
+  },
+  {
+    "path": "dev/MQTT/ports.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/dev/MQTT/ports.md"
+  },
+  {
+    "path": "dev/MongoDB/Overview.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/dev/MongoDB/Overview.md"
+  },
+  {
+    "path": "dev/Psychoses.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/dev/Psychoses.md"
+  },
+  {
+    "path": "dev/Solidity.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/dev/Solidity.md"
+  },
+  {
+    "path": "dev/Sonic Pi.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/dev/Sonic Pi.md"
+  },
+  {
+    "path": "dev/lxc_lxd.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/dev/lxc_lxd.md"
+  },
+  {
+    "path": "dev/ranvier.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/dev/ranvier.md"
+  },
+  {
+    "path": "fun/FO4 VATS Sniper.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/fun/FO4 VATS Sniper.md"
+  },
+  {
+    "path": "game/FO4/You're Special duplication.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/game/FO4/You're Special duplication.md"
+  },
+  {
+    "path": "lang/Grammar.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/lang/Grammar.md"
+  },
+  {
+    "path": "lang/Semantics.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/lang/Semantics.md"
+  },
+  {
+    "path": "literary analysis.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/literary analysis.md"
+  },
+  {
+    "path": "martial/ChinShunjutsu.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/martial/ChinShunjutsu.md"
+  },
+  {
+    "path": "martial/Human Planes of Movement.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/martial/Human Planes of Movement.md"
+  },
+  {
+    "path": "martial/Martial Arts Programming.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/martial/Martial Arts Programming.md"
+  },
+  {
+    "path": "martial/TKD/Yul Gok.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/martial/TKD/Yul Gok.md"
+  },
+  {
+    "path": "martial/animal movements.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/martial/animal movements.md"
+  },
+  {
+    "path": "martial/firearm safety.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/martial/firearm safety.md"
+  },
+  {
+    "path": "martial/jo_staff.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/martial/jo_staff.md"
+  },
+  {
+    "path": "martial/knee pain.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/martial/knee pain.md"
+  },
+  {
+    "path": "mgmt/Managing.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/mgmt/Managing.md"
+  },
+  {
+    "path": "mgmt/Performance Review.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/mgmt/Performance Review.md"
+  },
+  {
+    "path": "mgmt/Performance.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/mgmt/Performance.md"
+  },
+  {
+    "path": "mgmt/talent.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/mgmt/talent.md"
+  },
+  {
+    "path": "phys/Bodyweight Exercises.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/phys/Bodyweight Exercises.md"
+  },
+  {
+    "path": "phys/Rowing Technique.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/phys/Rowing Technique.md"
+  },
+  {
+    "path": "psych/DunningKrugerEffect.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/psych/DunningKrugerEffect.md"
+  },
+  {
+    "path": "psych/PsyCap.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/psych/PsyCap.md"
+  },
+  {
+    "path": "psych/Psychic Entropy.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/psych/Psychic Entropy.md"
+  },
+  {
+    "path": "psych/Twelve Steps.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/psych/Twelve Steps.md"
+  },
+  {
+    "path": "psych/hard_work.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/psych/hard_work.md"
+  },
+  {
+    "path": "psych/intrinsic motivation.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/psych/intrinsic motivation.md"
+  },
+  {
+    "path": "psych/ultralearning.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/psych/ultralearning.md"
+  },
+  {
+    "path": "reads/48 Laws of Power.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/reads/48 Laws of Power.md"
+  },
+  {
+    "path": "reads/6 Spiritual Disciplines.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/reads/6 Spiritual Disciplines.md"
+  },
+  {
+    "path": "reads/Becoming A Leader.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/reads/Becoming A Leader.md"
+  },
+  {
+    "path": "reads/Becoming Supernatural.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/reads/Becoming Supernatural.md"
+  },
+  {
+    "path": "reads/Beginning Biblical Hebrew.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/reads/Beginning Biblical Hebrew.md"
+  },
+  {
+    "path": "reads/Beginning New Testament Greek.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/reads/Beginning New Testament Greek.md"
+  },
+  {
+    "path": "reads/Category Theory in Context.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/reads/Category Theory in Context.md"
+  },
+  {
+    "path": "reads/Etymology.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/reads/Etymology.md"
+  },
+  {
+    "path": "reads/FindingTheRightHillsToDieOn.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/reads/FindingTheRightHillsToDieOn.md"
+  },
+  {
+    "path": "reads/Functional Analysis, Erdman/00.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/reads/Functional Analysis, Erdman/00.md"
+  },
+  {
+    "path": "reads/Functional Analysis, Kreyszig/00.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/reads/Functional Analysis, Kreyszig/00.md"
+  },
+  {
+    "path": "reads/Functional Analysis, Kreyszig/01.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/reads/Functional Analysis, Kreyszig/01.md"
+  },
+  {
+    "path": "reads/How to Read a Book.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/reads/How to Read a Book.md"
+  },
+  {
+    "path": "reads/Introduction to Genomics/01.intro.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/reads/Introduction to Genomics/01.intro.md"
+  },
+  {
+    "path": "reads/Introduction to Genomics/03.cs.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/reads/Introduction to Genomics/03.cs.md"
+  },
+  {
+    "path": "reads/Introduction to Genomics/04.stats.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/reads/Introduction to Genomics/04.stats.md"
+  },
+  {
+    "path": "reads/Introduction to Genomics/05.python.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/reads/Introduction to Genomics/05.python.md"
+  },
+  {
+    "path": "reads/Mathematical Proofs/Chapter 1.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/reads/Mathematical Proofs/Chapter 1.md"
+  },
+  {
+    "path": "reads/Mathematical Proofs/Chapter 2.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/reads/Mathematical Proofs/Chapter 2.md"
+  },
+  {
+    "path": "reads/Mathematical Proofs/Music Algebra.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/reads/Mathematical Proofs/Music Algebra.md"
+  },
+  {
+    "path": "reads/Plots and Settings.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/reads/Plots and Settings.md"
+  },
+  {
+    "path": "reads/Tao Analysis/I.1.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/reads/Tao Analysis/I.1.md"
+  },
+  {
+    "path": "reads/The Letter of Paul to the Ephesians, Ramirez.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/reads/The Letter of Paul to the Ephesians, Ramirez.md"
+  },
+  {
+    "path": "reads/money master the game.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/reads/money master the game.md"
+  },
+  {
+    "path": "reads/think and grow rich.md",
+    "url": "https://raw.githubusercontent.com/fingerskier/ajar/master/reads/think and grow rich.md"
+  }
+]
