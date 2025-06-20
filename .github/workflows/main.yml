@@ -1,0 +1,50 @@
+name: Build Markdown Manifest
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  manifest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # need full history for git ls-files
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Generate manifest.json
+        run: |
+          node <<'NODE'
+          const { execSync } = require('child_process');
+          const fs = require('fs');
+
+          // Resolve branch/ref (e.g. main or feature branch)
+          const ref = process.env.GITHUB_REF_NAME || 'main';
+          const repo = process.env.GITHUB_REPOSITORY;
+          const base = `https://raw.githubusercontent.com/${repo}/${ref}/`;
+
+          // List every tracked *.md file
+          const files = execSync('git ls-files "*.md"', { encoding: 'utf8' })
+            .trim()
+            .split('\n')
+            .filter(Boolean);
+
+          // Build manifest entries
+          const manifest = files.map(path => ({ path, url: base + path }));
+
+          // Write the manifest file
+          fs.writeFileSync('manifest.json', JSON.stringify(manifest, null, 2));
+          console.log(`Wrote ${manifest.length} markdown entries to manifest.json`);
+          NODE
+
+      - name: Commit manifest.json back to repo
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: 'manifest.json'
+          message: 'chore: update manifest.json [skip ci]'
