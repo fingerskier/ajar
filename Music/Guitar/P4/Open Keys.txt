@@ -1,0 +1,15 @@
+Tuning: E A D G C F
+
+notes in order: A C D E F G
+
+
+Keys that use these notes: 
+  C ~ 3 6 2 5 1 4
+  F ~ 7 3 6 2 5 1
+  
+Keys that are nearly there:
+  E ~ 1 4 _7 _3 _6 _2
+  D ~ 2 5 1 4 _2 _3
+  A ~ 5 1 4 _7 _2 _6
+  B ~ 
+
