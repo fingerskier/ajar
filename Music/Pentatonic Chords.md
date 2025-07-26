@@ -1,7 +1,7 @@
 ## Pent scales
-* P1 - 1 2 3 5 6; maj
-* P2 - 7 2 3 5 6; sus
-* P3 - 1 2 4 5 6; min
+* Pmaj - 1 2 3 5 6; maj
+* Psus - 7 2 3 5 6; sus
+* Pmin - 1 2 4 5 6; min
 
 ## Chords
 * 1 - 1 3 5
@@ -13,14 +13,14 @@
 * 7 - 7 2 4
 
 ## Containers
-* 1 ~ P1
-* 2 - P3
-* 3 - P2
-* 4 - P3
-* 5 - P2
-* 6 - P1
+* 1 ~ Pmaj
+* 2 - Pmin
+* 3 - Psus
+* 4 - Pmin
+* 5 - Psus
+* 6 - Pmaj
 * 7 - nyet
 
-* P1 - 1 & 6
-* P2 - 3 & 5
-* P3 - 2 & 4
+* Pmaj - 1 & 6, 2-note
+* Psus - 3 & 5, 6-note
+* Pmin - 2 & 4, 5-note
