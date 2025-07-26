@@ -1,9 +1,9 @@
-Pent scales
+## Pent scales
 * P1 - 1 2 3 5 6
 * P2 - 7 2 3 5 6
 * P3 - 1 2 4 5 6
 
-Chords
+## Chords
 * 1 - 1 3 5
 * 2 - 2 4 6
 * 3 - 3 5 7
@@ -12,6 +12,7 @@ Chords
 * 6 - 6 1 3
 * 7 - 7 2 4
 
+## Containers
 * 1 ~ P1
 * 2 - P3
 * 3 - P2
@@ -19,3 +20,7 @@ Chords
 * 5 - P2
 * 6 - P1
 * 7 - nyet
+
+* P1 - 1 & 6
+* P2 - 3 & 5
+* P3 - 2 & 4
