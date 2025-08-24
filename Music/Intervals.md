@@ -11,3 +11,28 @@ Major 6th (6) → Warmth
 Minor 7th (b7) → Blues 
 Major 7th (7) → Yearning 
 Octave (8) → Completion
+
+---
+
+Interval → Identity → Symbol(s)
+Unison (1) → Identity 🔘 ⚪ ◎
+Minor 2nd (♭2) → Tension ⚡ 🐍 ⛓️
+Major 2nd (2) → Push ➡️ 🏃 💨
+Minor 3rd (♭3) → Color 🎨 🖤 🌑
+Major 3rd (3) → Brightness ☀️ ✨ 🌅
+Perfect 4th (4) → Suspension ⏸️ 🤹 🪢
+Tritone (♭5 / ♯4) → Conflict ☠️ 🔪 🌀
+Perfect 5th (5) → Stability 🗿 🏔️ 🛡️
+Minor 6th (♭6) → Longing 🌙 🥀 😢
+Major 6th (6) → Warmth 🔥 🌻 🤗
+Minor 7th (♭7) → Blues 🎷 🎵 😎
+Major 7th (7) → Yearning 🚀 🌌 🙏
+Octave (8) → Completion 🔄 🎯 🕉️
+
+---
+
+Each one gives you a kind of emoji-glyph shorthand that could live in charts, teaching materials, or just vibe-notes for practicing.
+
+Want me to make you a single-line “interval strip” (like a symbolic scale from 1 → 8 all in one go) so you can see them laid out at once?
+
+
