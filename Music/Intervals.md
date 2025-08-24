@@ -28,11 +28,3 @@ Major 6th (6) → Warmth 🔥 🌻 🤗
 Minor 7th (♭7) → Blues 🎷 🎵 😎
 Major 7th (7) → Yearning 🚀 🌌 🙏
 Octave (8) → Completion 🔄 🎯 🕉️
-
----
-
-Each one gives you a kind of emoji-glyph shorthand that could live in charts, teaching materials, or just vibe-notes for practicing.
-
-Want me to make you a single-line “interval strip” (like a symbolic scale from 1 → 8 all in one go) so you can see them laid out at once?
-
-
