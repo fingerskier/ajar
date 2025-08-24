@@ -28,3 +28,19 @@ Major 6th (6) → Warmth 🔥 🌻 🤗
 Minor 7th (♭7) → Blues 🎷 🎵 😎
 Major 7th (7) → Yearning 🚀 🌌 🙏
 Octave (8) → Completion 🔄 🎯 🕉️
+
+---
+
+P1 → O, Identity
+m2 → ~ Tension
+M2 → >, Push
+m3 → -, Color
+M3 → =, Brightness 
+P4 → +, Suspension
+TT → !, Conflict 
+P5 → *, Stability 
+m6 → @, Longing 
+M6 → $, Warmth 
+m7 → &, Blues 
+M7 → ?, Yearning 
+P8 → O, Completion
