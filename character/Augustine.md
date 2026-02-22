@@ -1,6 +1,7 @@
 # Augustine
 
 ...author of "City of God" and "Confessions" and one of the most important figures in the development of Western Christianity.
+
 He was born in 354 in Thagaste, a small town in North Africa, and died in 430 in Hippo Regius, a city in the Roman province of Africa.
 He was a prolific writer and a powerful preacher, and his works have had a lasting impact on Christian theology and philosophy.
 
