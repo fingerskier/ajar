@@ -4,5 +4,6 @@ Q/A Method
 
 Feynman Method
   header = one sentence describing topic
-  middle = details
-  footer = 3 questions prompting thoughts about the topic
+  middle = outline the actual logic or timeline (not just "as written")
+  footer = 3 questions prompting thoughts about the topic.
+
